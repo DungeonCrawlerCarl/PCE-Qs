@@ -1,0 +1,2301 @@
+[
+  {
+    id: "mod1_case1_q1",
+    question: "Between visits, Albert has called the physiotherapist to provide an update on his mother's progress. Today, he calls to inquire about his mother's status and how compliant she is being with the exercise program. What is the most appropriate action for the physiotherapist to take?",
+    options: [
+      { id: "A", text: "Provide Albert with all the information he requests." },
+      { id: "B", text: "Invite Albert to attend the next scheduled appointment with Mrs. Biggs." },
+      { id: "C", text: "Reassure Albert that his mother is doing well with her exercise program." },
+      { id: "D", text: "Suggest that Albert speaks to his mother directly." }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "The Personal Health Information Protection Act (PHIPA), the Personal Information Protection and Electronic Documents Act (PIPEDA), the College’s Professional Misconduct Regulation and the Code of Ethics indicate that a physiotherapist may not provide information about a patient to a person other than the patient or his or her authorized representative except with the consent of the patient or his or her authorized representative. Answers 1, 2 and 3 do not support this principle.",
+    rationalesForIncorrectOptions: {
+      "A": "Providing all information violates patient privacy without consent.",
+      "B": "Inviting Albert without Mrs. Biggs' explicit consent for this specific disclosure might still be a privacy breach if it implies sharing information Albert isn't privy to.",
+      "C": "Reassuring Albert about her progress is a form of disclosing patient information without consent."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["privacy", "confidentiality", "consent", "phipa"],
+    isAiGenerated: false,
+    source: "Module 1: Companion Document, Case 1, Q1",
+    originalRationaleExists: true,
+  },
+  {
+    id: "mod1_case3_q7",
+    question: "The physiotherapist identifies that a patient requires an orthotic device. Which of the following statements is correct?",
+    options: [
+        {id: "A", text: "Physiotherapists can only assess for a prescription for orthotics."},
+        {id: "B", text: "Physiotherapists must never supply any assistive devices to their patients."},
+        {id: "C", text: "Physiotherapists can only sell a product with a prescription from a physician."},
+        {id: "D", text: "Physiotherapists must provide full disclosure of any financial benefit associated with product sales."}
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "The Essential Competency Profile for Physiotherapists in Canada requires that a physiotherapist disclose any potential conflict of interest situations, including personal gain resulting from product sales to a client. As well, it is professional misconduct to practice physiotherapy while in a conflict of interest. Answers 1, 2 and 3 are incorrect as they are not true statements.",
+    rationalesForIncorrectOptions: {
+        "A": "Physiotherapists can assess for, recommend, and in many cases, dispense orthotics directly.",
+        "B": "Physiotherapists can and often do supply assistive devices, including orthotics, as part of their scope of practice.",
+        "C": "While some complex orthotics or those for specific funding may require a physician's prescription, physiotherapists can often recommend and provide many orthotics independently."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["conflict of interest", "orthotics", "product sales"],
+    isAiGenerated: false,
+    source: "Module 1: Companion Document, Case 3, Q7",
+    originalRationaleExists: true,
+  },
+  {
+    id: "pq1_q1",
+    question: "While working with a T6 spinal cord injured patient a physical therapist identifies a small, reddened area over the patient’s right ischial tuberosity region. The physical therapist should immediately",
+    options: [
+      { id: "A", text: "notify nursing and remind the patient of their role in proper skin care" },
+      { id: "B", text: "order a water mattress for the patient" },
+      { id: "C", text: "alert the patient to the potential dangers of skin breakdown" },
+      { id: "D", text: "notify the primary physician and declare a medical emergency" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "Notifying nursing ensures prompt multidisciplinary assessment and intervention for the reddened area, which is an early sign of potential pressure injury. Reminding the patient of their role in skin care reinforces self-management strategies crucial for individuals with SCI. This is the most appropriate initial, comprehensive action.",
+    rationalesForIncorrectOptions: {
+      "B": "Ordering a water mattress may be part of the management plan but is not the immediate first action. Assessment by nursing/physician is needed, and prescription may be required.",
+      "C": "Alerting the patient is important for education and self-awareness, but it must be coupled with professional action (notifying nursing).",
+      "D": "A small, reddened area is an early warning sign. While it needs attention, immediately notifying the physician and declaring a medical emergency is an overreaction at this stage and bypasses the nursing staff who are typically first-line for skin integrity management in inpatient settings."
+    },
+    subject: "Neurology",
+    tags: ["spinal cord injury", "t6", "skin care", "pressure sore"],
+    isAiGenerated: false,
+    source: "Practice Questions 1, Q1",
+    originalRationaleExists: false,
+  },
+  {
+    id: "emc_adv_q1_standalone",
+    vignetteId: "emc_adv_q1_standalone_v",
+    vignetteText: "A new physiotherapy clinic is trying to attract new patients by offering a bundle package for their sessions which equates to a 15% savings over 10 sessions.",
+    question: "Which of the following is false regarding discounted prices for packaged/bundled services?",
+    options: [
+      {
+        id: "A",
+        text: "Discounted prices for packaged/bundled services must clearly state that there are still options to purchase single sessions."
+      },
+      {
+        id: "B",
+        text: "The standard of care provided cannot be of lesser quality because of the packaged/bundled services."
+      },
+      {
+        id: "C",
+        text: "When offering discounted prices for packaged/bundles services, refunds must be provided for any unused services."
+      },
+      {
+        id: "D",
+        text: "Discounted prices for packaged/bundled services cannot exceed 10 sessions to avoid any conflicts of interest."
+      }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "This is a false statement. The provided materials indicate rules for how bundled services must be advertised (e.g., mentioning refunds, same quality of care) but state there are no regulations regarding the maximum number of sessions that can be included in a package.",
+    rationalesForIncorrectOptions: {
+      "A": "This is a true statement. The rules for advertised discounts state that the patient must still be able to purchase single rate sessions.",
+      "B": "This is a true statement. The rules state that it is important to provide the same quality of treatment for a patient paying a discounted price as one paying full price.",
+      "C": "This is a true statement. The rules for advertised discounts state that if the entire bundle is not used, refunds can be provided for unused services."
+    },
+    subject: "Ethics & Professionalism",
+    tags: [
+      "advertising",
+      "discounts",
+      "bundled services",
+      "fees",
+      "billing",
+      "conflict of interest"
+    ],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Advertising, Q1 of 7",
+    originalRationaleExists: true
+  },
+  {
+    id: "cpo_fakingit_q1",
+    vignetteId: "cpo_fakingit_q1_v",
+    vignetteText: "A registered physiotherapist (PT) and clinic owner delegated patient assessments to a physiotherapist assistant (PTA) who was not qualified to perform them. The services were then billed under the registered PT's name and registration number. Patients were not informed that they were being assessed and treated by a PTA.",
+    question: "Which of the following best describes this situation?",
+    options: [
+      {
+        id: "A",
+        text: "Acceptable practice, as the assistant was helping out in a busy clinic."
+      },
+      {
+        id: "B",
+        text: "A misunderstanding of the rules, which could be corrected with a mandatory remediation program."
+      },
+      {
+        id: "C",
+        text: "A minor infraction, for which the PT should receive a caution."
+      },
+      {
+        id: "D",
+        text: "A case of professional misconduct involving improper delegation, lack of informed consent, and fraudulent billing."
+      }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "This scenario involves multiple serious breaches of core professional standards. Delegating the act of assessment is outside the scope of a PTA. Billing for services under a PT's name for work done by another individual (particularly one not qualified for the specific act) is fraudulent. Failing to get informed consent from the patient about who is providing their care is also a major ethical lapse. The combination of these actions constitutes serious professional misconduct.",
+    rationalesForIncorrectOptions: {
+      "A": "This is incorrect. Clinic business does not excuse the violation of fundamental standards like proper delegation, billing accuracy, and informed consent.",
+      "B": "This option minimizes the severity. The actions described are not a simple misunderstanding; they involve fundamental responsibilities central to the profession and patient safety.",
+      "C": "This is incorrect. A simple caution is insufficient for a multifaceted case involving improper delegation of controlled acts, fraudulent billing, and failure to obtain consent."
+    },
+    subject: "Ethics & Professionalism",
+    tags: [
+      "supervision",
+      "delegation",
+      "pta",
+      "assessment",
+      "professional misconduct",
+      "billing",
+      "fraud",
+      "consent"
+    ],
+    isAiGenerated: false,
+    source: "College of Physiotherapists of Ontario, Case Files, \"Faking It\", Jun 07, 2019",
+    originalRationaleExists: false
+  },
+  {
+    id: "cpo_cryohype_q1",
+    vignetteId: "cpo_cryohype_q1_v",
+    vignetteText: "A physiotherapy clinic began offering and advertising full-body cryotherapy. The advertising contained misleading and unverified claims. Patients received the cryotherapy from physiotherapy assistants without being properly assessed by a registered PT, and the sessions were billed to insurance as 'physiotherapy'.",
+    question: "What is the most appropriate description of the physiotherapist's actions?",
+    options: [
+      {
+        id: "A",
+        text: "Acceptable, as cryotherapy is an evolving treatment and standards do not yet apply."
+      },
+      {
+        id: "B",
+        text: "A violation of advertising standards only, requiring the PT to remove the misleading materials."
+      },
+      {
+        id: "C",
+        text: "A violation of multiple College standards, including those for advertising, billing, and professional duties when working with assistants."
+      },
+      {
+        id: "D",
+        text: "Serious misconduct that provides immediate grounds for license revocation."
+      }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "This option is the most comprehensive and accurate. The PT violated the Advertising Standard with misleading claims, the Fees & Billing standard by billing a non-physiotherapy service inappropriately, and the standard for Working with Assistants by not assessing patients or supervising the treatment. This represents a failure to meet multiple professional duties.",
+    rationalesForIncorrectOptions: {
+      "A": "This is incorrect. Even with new modalities, fundamental standards regarding assessment, consent, truthful advertising, and appropriate billing still apply.",
+      "B": "This is incomplete. While the advertising was a violation, it ignores the equally serious issues of improper billing and lack of professional supervision and assessment.",
+      "D": "While the conduct is serious, license revocation is the most extreme penalty. A suspension and/or significant remediation (as implied by the severity in option C) is a more typical disciplinary outcome for these types of combined offenses, making C the best description of the violations themselves."
+    },
+    subject: "Ethics & Professionalism",
+    tags: [
+      "advertising",
+      "professional misconduct",
+      "billing",
+      "fraud",
+      "scope of practice",
+      "cryotherapy",
+      "supervision"
+    ],
+    isAiGenerated: false,
+    source: "College of Physiotherapists of Ontario, Case Files, \"Caught Up in the Cryo Hype\", Jul 18, 2018",
+    originalRationaleExists: false
+  },
+  {
+    id: "emc_adv_q2",
+    vignetteId: "emc_adv_q2_v",
+    vignetteText: "A new graduate physiotherapist has recently been hired by a private practice orthopedic clinic that employs several therapists that have a special interest in dizziness and vestibular conditions. The new graduate is hoping to receive vestibular mentoring at the clinic and plans to take some post graduate courses. The clinic owner has requested that the physiotherapist participate in an Instagram post to highlight their new position and requests that the physiotherapist mention that they now work at the best clinic in the Vancouver area. They would like the physiotherapist to also include that the clinic has over 99% success rate treating any and all vestibular related conditions.",
+    question: "Which of the following is the most ethical way for the physiotherapist to proceed?",
+    options: [
+      { "id": "A", "text": "Do as the owner requests and put up the Instagram story because the clinic is known to have a great reputation." },
+      { "id": "B", "text": "Refuse to post an Instagram story." },
+      { "id": "C", "text": "Agree to post an Instagram story but agree to only highlight their new position at the clinic." },
+      { "id": "D", "text": "Request to use Facebook instead to post about their new position and the clinic’s success rate as Instagram is not the best platform to use for advertisements." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "This is the best answer as it helps to bring awareness and advertisement to the clinic without including any false or inaccurate statements. Using social media is a great marketing strategy, but it needs to be done in an ethical manner, avoiding claims of superiority ('best clinic') or guaranteed outcomes ('99% success rate').",
+    rationalesForIncorrectOptions: {
+      "A": "This is unethical. It is the physiotherapist's duty to ensure advertisements are true and accurate. The owner is asking the PT to guarantee treatment results and claim superiority, both of which are not allowed.",
+      "B": "This is not the best answer. While refusing the unethical part is correct, a complete refusal doesn't address the reasonable request to announce their new position, which could be a missed opportunity for ethical marketing.",
+      "D": "The choice of platform (Instagram vs. Facebook) does not change the fact that the owner's requested content is unethical. The core issue is the content of the ad, not the medium."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["advertising", "social media", "ethics", "untrue claims", "professionalism"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Advertising, Q2",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_adv_q3",
+    vignetteId: "emc_adv_q3_v",
+    vignetteText: "A physiotherapist has just started at a new private practice clinic. They are in the process of becoming certified in acupuncture but have not yet finished all of their courses and the examination process to qualify. The owner has created business cards for the new physiotherapist which includes ‘Certified by the Acupuncture Foundation of Canada Institute (CAFCI)’ next to their title.",
+    question: "How should the physiotherapist proceed?",
+    options: [
+      { "id": "A", "text": "Report the owner to the College." },
+      { "id": "B", "text": "Use the business cards but refrain from using acupuncture during the treatment sessions." },
+      { "id": "C", "text": "Ask the owner to put those business cards aside until officially certified." },
+      { "id": "D", "text": "Remove the business cards from the front desk." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "This is the correct action. The physiotherapist is not yet certified and therefore should not use credentials they do not possess. This action demonstrates responsibility by directly addressing the issue with the owner to prevent false advertising and wait until certification is official.",
+    rationalesForIncorrectOptions: {
+      "A": "This is not the first step. Reporting to the College would be required if the owner insisted that the physiotherapist use the cards and falsely advertise.",
+      "B": "This is unethical as it involves using business cards that falsely represent their qualifications, even if they don't perform the act.",
+      "D": "While this is not wrong, it is not the best answer. Simply removing the cards does not resolve the issue with the owner, who might just have more printed. Direct communication is necessary."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["advertising", "credentials", "titles", "misrepresentation", "acupuncture", "communication"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Advertising, Q3",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_adv_q4",
+    vignetteId: "emc_adv_q4_v",
+    vignetteText: "A new physiotherapy clinic has opened, and the owner has linked the clinic to Facebook and Instagram for advertisement purposes. A local sporting goods store has made a request to start a promotion with the clinic. They suggest that if the physiotherapy clinic mentions their fitness equipment in their social media posts, the clinic can get a discount on gym equipment.",
+    question: "How should the clinic owner respond to this request?",
+    options: [
+      { "id": "A", "text": "Accept the request as it is mutually beneficial." },
+      { "id": "B", "text": "Accept the request but only mention fitness equipment that is related to the physiotherapy profession." },
+      { "id": "C", "text": "Decline the request as the clinic cannot endorse products." },
+      { "id": "D", "text": "Decline the request as the clinic cannot financially gain from endorsing products." }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "This is the best answer. While advertising fitness equipment is within the scope of practice, the clinic would have a conflict of interest because they are receiving a financial discount for endorsing the product. Clinics and therapists cannot financially gain from endorsing a product.",
+    rationalesForIncorrectOptions: {
+      "A": "This is not ethical. The financial gain (discount) from the endorsement creates a conflict of interest.",
+      "B": "This is not ethical. Even if the equipment is relevant, the financial gain still creates an unacceptable conflict of interest.",
+      "C": "This statement is incorrect. Physiotherapists and clinics can endorse products if it is done professionally, based on evidence, and without a conflict of interest. The issue here is the financial gain, not the endorsement itself."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["advertising", "conflict of interest", "endorsements", "social media", "financial gain"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Advertising, Q4",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_collab_q1",
+    vignetteId: "emc_collab_q1_v",
+    vignetteText: "A patient is attending physiotherapy at a private clinic for treatment of whiplash. They attend the appointment with their spouse. During your assessment the patient states that they have been very nervous to drive since their accident. They state that they would like to try counselling but are unsure if they will like it. The clinic has a counsellor and the physiotherapist thinks they would be a great fit for this patient.",
+    question: "How should the physiotherapist proceed?",
+    options: [
+      { "id": "A", "text": "Advise the patient that there is a reliable counsellor who works at the clinic who would be a great fit." },
+      { "id": "B", "text": "Provide the patient with a list of local services, including the counsellor who works at the clinic." },
+      { "id": "C", "text": "Liaise with the counsellor at the clinic and ask them to reach out to the patient to educate them on what counselling will involve and if it is a good fit for them." },
+      { "id": "D", "text": "Send a recommendation to their family doctor for counselling and ask the patient to follow up with them immediately." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "This is the best answer. When referring to other community services, the physiotherapist must provide the patient with choice. This is best done by providing a list of potential counsellors, which can include the one at the clinic, but should not be limited to them.",
+    rationalesForIncorrectOptions: {
+      "A": "This is not appropriate as it does not provide the patient with choice. A list of multiple options should be provided.",
+      "C": "This is a breach of confidentiality. In order to talk to the counsellor at the clinic about the patient, the physiotherapist would have to obtain consent from their patient first.",
+      "D": "A patient does not need a referral from their family physician to obtain community counselling services. This creates an unnecessary barrier to care."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["collaborative practice", "referral", "patient choice", "consent", "confidentiality"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Collaborative Practice, Q1",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_collab_q2",
+    vignetteId: "emc_collab_q2_v",
+    vignetteText: "A physiotherapist is working with a 65-year-old patient who has been suffering from low back pain for several months. During the initial assessment, the patient informs the physiotherapist that their pain is constant and present at night. They have also lost around 15 pounds without any change in their diet. They are eager to improve their pain through exercise so they can return to their regular daily exercise routine at the community gym.",
+    question: "What is the best course of action?",
+    options: [
+      { "id": "A", "text": "Send the patient to emergency and inform them that you are concerned they may have cancer." },
+      { "id": "B", "text": "Carry out the rest of the physical assessment and advise the patient that you are concerned there is something more sinister going on." },
+      { "id": "C", "text": "Finish the assessment and then ask the patient to follow up with their family physician within the next few days." },
+      { "id": "D", "text": "Advise the patient that you will be referring them back to their family physician." }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "This is the best answer as it highlights the need for a referral back to the family physician for more investigations. The patient is presenting with several red flags for cancer (night pain, constant pain, weight loss). Identifying red flags and referring back to a physician is a critical part of patient care and a great example of the importance of collaborative practice.",
+    rationalesForIncorrectOptions: {
+      "A": "While the patient has signs of cancer, it is beyond the PT's scope to diagnose cancer. Sending them to the emergency room is not necessary in this situation, a referral to the family physician is more appropriate.",
+      "B": "While this is correct, it is not the best answer because it does not highlight the need for collaborative practice, which is the referral back to their family physician for more investigations.",
+      "C": "Simply asking a patient to follow up does not guarantee they will. When red flags are suspected, the physiotherapist must communicate with and/or refer the patient back to their family physician to ensure further investigation."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["collaborative practice", "red flags", "cancer", "referral", "scope of practice"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Collaborative Practice, Q2",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_collab_q3",
+    vignetteId: "emc_collab_q3_v",
+    vignetteText: "A physiotherapist is treating a patient in a private practice multidisciplinary clinic setting. The patient sustained a traumatic brain injury 2 years ago that resulted in ataxia. The patient has been working on ambulation and general strengthening. The patient lets the physiotherapist know that they are also working with an occupational therapist at a different private clinic.",
+    question: "How should the physiotherapist proceed?",
+    options: [
+      { "id": "A", "text": "Encourage the patient to see the occupational therapist at their office." },
+      { "id": "B", "text": "Carry on with the treatment plan as the patient has the right to see other health care practitioners." },
+      { "id": "C", "text": "Consult with the occupational therapist to determine if some of the strengthening exercises in the program could be catered towards improving an ADL that the patient is having difficulty with." },
+      { "id": "D", "text": "Gain consent to liaise with the occupational therapist." }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "This is the best answer. While the occupational therapist is a health information custodian working within the patient’s circle of care, it is always best to first obtain consent from the patient to communicate rather than simply relying on implied consent. This is the essential first step before any collaboration can occur.",
+    rationalesForIncorrectOptions: {
+      "A": "This is unethical. It is a conflict of interest to request that the patient only receive services at their clinic. The patient should always be provided with options.",
+      "B": "While the patient is allowed to see other practitioners, this is not the best answer as the patient will benefit from collaboration between the physiotherapist and occupational therapist.",
+      "C": "This is a good goal, but it is not the first step. The physiotherapist cannot consult with the OT without first gaining the patient's consent to do so."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["collaborative practice", "consent", "circle of care", "communication", "referral"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Collaborative Practice, Q3",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_collab_q4",
+    vignetteId: "emc_collab_q4_v",
+    vignetteText: "A patient is attending physiotherapy at a private clinic for treatment of whiplash. After 3 weeks of therapy, the patient states that they have started seeing another physiotherapist down from where they live.",
+    question: "How should the physiotherapist proceed?",
+    options: [
+      { "id": "A", "text": "Discharge the patient as they are now seeing a physiotherapist closer to home." },
+      { "id": "B", "text": "Advise the patient against seeing multiple practitioners as the different therapies could potentially conflict." },
+      { "id": "C", "text": "Gain information on why the patient is seeing another physiotherapist." },
+      { "id": "D", "text": "Continue to treat the patient knowing it is within their right to work with multiple health care practitioners at the same time." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "This is the best answer. While a patient can see two physiotherapists, it would be important to determine why they have introduced another one into their rehabilitation. Based on the patient's rationale, the physiotherapist could then formulate a plan to best serve the patient, which might involve coordinating care, ensuring complementary services, or planning a discharge.",
+    rationalesForIncorrectOptions: {
+      "A": "This is premature. Discharging may be appropriate, but only after understanding the patient's reasons and ensuring a proper handover of care if needed.",
+      "B": "This is not the best answer. A patient can see two PTs. The responsibility is to ensure the therapies are complementary and do not conflict, which requires communication, not just advising against it.",
+      "D": "While it is the patient's right, it is the physiotherapist's responsibility to ensure the patient is benefiting from seeing two practitioners and that the therapies do not conflict or overlap. Simply continuing without inquiry is not a complete response."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["collaborative practice", "communication", "patient-centered care", "professional responsibility"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Collaborative Practice, Q4",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_comm_q1",
+    vignetteId: "emc_comm_q1_v",
+    vignetteText: "A 38-year-old male patient is attending physiotherapy at a private clinic for treatment of post concussion syndrome following a car accident 4 months ago. His wife attends most sessions and plays an active role in his care. During the initial assessment, the patient provided consent for his wife to be involved in all conversations regarding their care. The patient is suffering from chronic headaches, visual disturbances, balance issues and fatigue. He is currently not working because his job, as a construction worker, is very strenuous.",
+    question: "During the third session, the patient's wife states that she wants her husband to return to work within the next week because he is the main financial contributor of the household. How should the physiotherapist address this?",
+    options: [
+      { "id": "A", "text": "Educate the patient and his spouse about the injury and the current concerns regarding return to work and discuss a more realistic return to work plan." },
+      { "id": "B", "text": "To avoid upsetting the patient, have a private conversation with the spouse about the nature of the injury and more realistic expectations for recovery." },
+      { "id": "C", "text": "Explain to the patient and their spouse that counselling may be beneficial." },
+      { "id": "D", "text": "Discuss a gradual return to work plan with the patient and their spouse." }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "This is the best answer. Education will be critical to ensure the patient and their spouse understand the realistic timeline for return to work. It directly addresses the spouse's unrealistic expectations by providing professional, evidence-based information to both parties, respecting the consent for the wife's involvement.",
+    rationalesForIncorrectOptions: {
+      "B": "This is inappropriate. Having a private conversation with the spouse does not respect the client's privacy or include them in the management of the unrealistic expectations being set upon them.",
+      "C": "This does not address the immediate issue, which is the unrealistic expectation for returning to work. Education about the injury is required first.",
+      "D": "While a gradual return to work plan is important, this answer is missing the most critical element required first: education on the condition, expected recovery, and timeline to return to work."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["communication", "patient education", "family involvement", "return to work", "concussion"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Communication, Q1",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_comm_q2",
+    vignetteId: "emc_comm_q2_v",
+    vignetteText: "A 75-year-old patient was referred to physiotherapy by her daughter due to balance issues and frequent falls. The patient speaks Mandarin but is non-English speaking. The physiotherapist is part of a mobile clinic and will perform the initial assessment and follow up treatments in the patient's home. Her daughter was planning on attending the session as the interpreter.",
+    question: "The physiotherapist arrives at a patient's home for the initial in-home assessment. Upon arrival, the physiotherapist notices that the patient is home alone and the daughter is not present. How should the physiotherapist proceed?",
+    options: [
+      { "id": "A", "text": "Wait for the daughter to arrive and, if she does not arrive within a few minutes, the physiotherapist can leave a note with the patient informing the daughter that they were unable to perform the assessment due to the language barrier." },
+      { "id": "B", "text": "Begin the assessment using gestures and pictures to aid in communication." },
+      { "id": "C", "text": "Wait several minutes for the daughter to arrive and, if she does not arrive, begin the assessment using google translate." },
+      { "id": "D", "text": "Call the daughter and gain consent to begin the assessment." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "This is the best answer. The use of google translate is an excellent option to ensure clear communication and gain informed consent. It is a reasonable alternative to waiting for the daughter or rescheduling, allowing the assessment to proceed while respecting the need for clear communication.",
+    rationalesForIncorrectOptions: {
+      "A": "Leaving without performing the assessment is not the best use of the physiotherapist's time and does not assist the patient in any way. There are other options, such as google translate, that can be used.",
+      "B": "The use of gestures and pictures can be a helpful communication strategy, but they do not guarantee a sufficient understanding of the proposed treatment to obtain informed consent.",
+      "D": "It is the patient that must consent to treatment, not the daughter. While the daughter can act as an interpreter, she cannot provide consent on the patient's behalf unless she is the substitute decision-maker, which is not stated."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["communication", "language barrier", "interpreter", "informed consent", "google translate"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Communication, Q2",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_comm_q3",
+    vignetteId: "emc_comm_q3_v",
+    vignetteText: "A physiotherapist enters a room in the emergency department to provide treatment to a 70-year-old with a mild case of pneumonia. The patient does not speak English and has one family member present who speaks minimal English. Their chart states the patient is fluent in Punjabi. The physiotherapist wants to perform an initial assessment and then help get the patient mobilizing as this is in the patient’s best interest to prevent any pulmonary complications.",
+    question: "How should the physiotherapist proceed?",
+    options: [
+      { "id": "A", "text": "Begin the assessment and use pointing and gestures to aid the communication." },
+      { "id": "B", "text": "Wait to perform the assessment and find an interpreter to facilitate accurate communication." },
+      { "id": "C", "text": "Begin the assessment and use the family member to help translate as well as non-verbal communication strategies such as gestures and drawings." },
+      { "id": "D", "text": "Wait to perform the assessment and refer the patient to another staff member who speaks Punjabi." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "The best option is to use an interpreter to facilitate accurate communication. A language barrier can make it difficult for the patient to understand the proposed treatment and its risks, preventing them from providing informed consent. Accurate communication is required before an assessment can begin.",
+    rationalesForIncorrectOptions: {
+      "A": "A language barrier makes it difficult for the patient to provide informed consent. For this reason, the PT should not start the assessment until accurate communication occurs.",
+      "C": "A family member can be used to aid in interpreting, except in this scenario the family member does not speak fluent English, so it would be difficult to ensure accurate communication.",
+      "D": "It is the physiotherapist's job to determine an effective means to communicate instead of referring the patient to someone else."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["communication", "language barrier", "interpreter", "informed consent"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Communication, Q3",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_comm_q4",
+    vignetteId: "emc_comm_q4_v",
+    vignetteText: "A physiotherapist is working in a long-term care facility. They enter the room to see if one of their regular clients with dementia wants to participate in their exercises today. The patient has been diagnosed with dementia. At times, the patient can find it very challenging to find the correct words. They also take longer to articulate a sentence and, for that reason, can become upset and stop talking during sessions. During today's session, they appear slightly confused and do not respond when the physiotherapist asks if they want to participate in the exercise.",
+    question: "Given the information presented in this vignette, which of the following would be an ineffective way to communicate with the patient?",
+    options: [
+      { "id": "A", "text": "Speak slowly and use clear single-step instructions." },
+      { "id": "B", "text": "Tell the patient what they will be doing during the session." },
+      { "id": "C", "text": "Use yes or no questions so the patient has an easier time responding." },
+      { "id": "D", "text": "Use gestures, demonstrations, and visual cues instead of a lot of talking." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "This would be an ineffective way to communicate. In this scenario, the patient does not respond when they are asked about exercise. To engage the patient, it would be better to gain their interest in participating by asking them what they would like to do first. This may encourage participation vs telling them what they must do first, which does not promote autonomy.",
+    rationalesForIncorrectOptions: {
+      "A": "This would be an effective way to communicate. Speaking slowly and using single-step instructions are appropriate strategies to minimize confusion.",
+      "C": "This would be an effective way to communicate, as it simplifies the cognitive and verbal load for the patient.",
+      "D": "This would be an effective way to communicate, as non-verbal cues can augment or replace verbal communication for a patient with dementia."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["communication", "dementia", "patient-centered care", "ineffective communication"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Communication, Q4",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_coi_q1",
+    vignetteId: "emc_coi_q1_v",
+    vignetteText: "A patient purchased a 10-session bundle several months ago after injuring their back in the garden. After 6 treatments, the patient is feeling significantly better. While the patient is feeling better, the physiotherapist still feels that there are more gains to be made and ongoing strengthening would help to prevent future injury. The patient insists they would like to stop sessions.",
+    question: "How should the physiotherapist proceed?",
+    options: [
+      { "id": "A", "text": "Insist the patient to use their remaining 4 sessions." },
+      { "id": "B", "text": "Educate the patient on why they feel ongoing physiotherapy is beneficial." },
+      { "id": "C", "text": "Discharge the patient and provide a home exercise program." },
+      { "id": "D", "text": "Reassess the patient using outcome measures to determine if they are truly ready for discharge." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "This is the best answer because educating the patient will allow them to make an informed decision about their health choices. The patient may not realize the ongoing benefits. Regardless of the patient's final decision, the physiotherapist must respect that decision but ensure they have provided all the necessary information.",
+    rationalesForIncorrectOptions: {
+      "A": "This is not the best answer as it is not reflecting a client-centered approach and ignores patient autonomy.",
+      "C": "While this is not wrong, it is not the best answer as the physiotherapist should first educate the patient to ensure they are making an informed decision regarding their health.",
+      "D": "The patient gets to decide if they want to continue treatment or not, regardless of whether the physiotherapist thinks they are ready or not based on outcome measures. Education is the best answer in this scenario."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["conflict of interest", "patient autonomy", "client-centered care", "education", "informed decision"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Conflict of Interest, Q1",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_coi_q2",
+    vignetteId: "emc_coi_q2_v",
+    vignetteText: "A physiotherapist is treating a 65-year-old patient who suffered a stroke resulting in left hemiplegia. The patient has increased tone in their upper and lower extremities. The patient has become concerned with the muscle tightness and pain they are experiencing in their left arm and hand.",
+    question: "The physiotherapist would like to recommend a resting splint to assist in positioning of the left hand to prevent any flexion contractures from forming. The clinic has off the shelf splints that are available for purchase that are significantly cheaper than custom splints. How should the physiotherapist proceed with recommending a splint?",
+    options: [
+      { "id": "A", "text": "Offer the patient the off the shelf splint that can be purchased through the clinic because it is more affordable and the patient can begin to use the splint immediately." },
+      { "id": "B", "text": "Provide the patient with several splint options including the splint available to purchase through the clinic." },
+      { "id": "C", "text": "Avoid promoting any products directly sold by the clinic and provide the patient with a list of splints that can be purchased online." },
+      { "id": "D", "text": "Ask the patient about their budget before suggesting any type of splinting/bracing for their hand." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "This is the best option as it avoids any conflict of interest. Physiotherapists can suggest and sell products that are carried by their clinic as long as they provide alternative options to the patient and ensure that they advise the patient that choosing a product sold elsewhere will not adversely affect their care.",
+    rationalesForIncorrectOptions: {
+      "A": "The physiotherapist needs to make sure they are providing alternative options given that the clinic stands to make a profit from selling the splint that they have in stock. This option does not provide patient choice.",
+      "C": "Physiotherapists can suggest and sell products that are carried by their clinic, as long as they provide alternative options to the patient. Completely avoiding the promotion is not necessary if managed ethically.",
+      "D": "While it is not wrong to determine a patient's budget, this is not the best answer. The biggest consideration is for the physiotherapist to ensure they are giving their patient alternative options. Simply asking about budget does not guarantee that the patient will be given a choice."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["conflict of interest", "product sales", "splinting", "patient choice", "disclosure"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Conflict of Interest, Q2",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_coi_q3",
+    vignetteId: "emc_coi_q3_v",
+    vignetteText: "A new physiotherapy clinic focusing on neurological rehabilitation has recently opened and the owner is looking for ways to attract new patients. She decides to head to the outpatient rehabilitation facility at one of the local hospitals to speak to the therapists on staff.",
+    question: "How should the owner proceed?",
+    options: [
+      { "id": "A", "text": "Offer the therapist a $10 referral bonus for all clients sent to the clinic through the outpatient rehabilitation department." },
+      { "id": "B", "text": "Offer free hospital in-services for every 10 clients sent to the clinic through the outpatient rehabilitation department." },
+      { "id": "C", "text": "Avoid all advertisements at the local hospital as it is a conflict of interest." },
+      { "id": "D", "text": "Try to speak to as many therapists and hand out as many business cards/brochures as possible to ensure awareness of the new clinic." }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "This is a great example of the hard work that goes into starting a business. Brochures and business cards are an appropriate option, as well as the use of social media, to advertise a newly opened clinic without creating a conflict of interest.",
+    rationalesForIncorrectOptions: {
+      "A": "This is a conflict of interest. Physiotherapists must not give any benefit to another person or receive any benefit from another person for a patient referral.",
+      "B": "This is a conflict of interest. Offering a benefit (free in-services) in exchange for a certain number of referrals constitutes a kickback.",
+      "C": "The owner is allowed to advertise for her clinic as long as she is not offering incentives. Advertising itself is not a conflict of interest."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["conflict of interest", "referrals", "advertising", "kickbacks", "incentives"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Conflict of Interest, Q3",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_coi_q4",
+    vignetteId: "emc_coi_q4_v",
+    vignetteText: "A physiotherapist is working with a patient who suffers from patellofemoral pain syndrome. The patient would benefit from orthotics to help decrease foot pronation and improve their lower limb biomechanics. The physiotherapist's friend is an excellent orthotist who works locally in the same city.",
+    question: "How should the physiotherapist proceed?",
+    options: [
+      { "id": "A", "text": "Refer their patient to their friend because they are an excellent orthotist." },
+      { "id": "B", "text": "Provide the patient with a list of local orthotists including their friend and advise the patient that their friend is an excellent orthotist." },
+      { "id": "C", "text": "Provide the patient with a list of orthotists." },
+      { "id": "D", "text": "Avoid referring to their friend as this is a conflict of interest." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "This is the best option as it demonstrates the importance of giving the patient choice in their decision-making without biasing any single orthotist. It avoids both a direct conflict of interest and the appearance of one.",
+    rationalesForIncorrectOptions: {
+      "A": "The physiotherapist is not giving the patient choice and there is a conflict of interest — the choice of orthotic provider is based on the physiotherapist’s friend gaining a patient for financial gain.",
+      "B": "The physiotherapist should provide the patient with a variety of options but without biasing their friend's business. Stating that their friend is 'excellent' creates a bias.",
+      "D": "The physiotherapist can refer to their friend, but they need to provide a variety of other options and cannot bias their friend's business. Avoiding the referral entirely is not necessary if the conflict is managed appropriately with disclosure and choice."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["conflict of interest", "referrals", "patient choice", "bias", "friends"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Conflict of Interest, Q4",
+    originalRationaleExists: true
+  },
+  {
+    id: "emc_coi_q5",
+    vignetteId: "emc_coi_q5_v",
+    vignetteText: "A physiotherapist just started working at a busy private practice clinic. Their caseload is slowly growing. They have received a few referrals from current patients and realize the positive impact this is having on their caseload.",
+    question: "How should the physiotherapist proceed with growing their caseload?",
+    options: [
+      { "id": "A", "text": "Thank the patients for their referrals and continue providing excellent physiotherapy services." },
+      { "id": "B", "text": "Provide $5 gift certificates for the local coffee shop to patients who refer others to the clinic." },
+      { "id": "C", "text": "Ask the patient to leave a positive review on social media." },
+      { "id": "D", "text": "A and C" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "This is the best answer. Word-of-mouth referrals based on quality of care are ethical. The most appropriate way to proceed is to continue providing high-quality services that will naturally generate such referrals, without offering incentives that would create a conflict of interest.",
+    rationalesForIncorrectOptions: {
+      "B": "This is a conflict of interest. Providing gift certificates is considered giving a benefit to someone for financial gain (in this case, the gain of a new patient).",
+      "C": "Asking a patient to leave a positive review can be seen as a conflict of interest, as ratings are allowed but must be given by the free will of the patient. No benefits or rewards can be given for a review.",
+      "D": "Since option C is a conflict of interest, this combined option is incorrect."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["conflict of interest", "referrals", "incentives", "word-of-mouth", "reviews"],
+    isAiGenerated: false,
+    source: "Ethics Masterclass, Conflict of Interest, Q5",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q1",
+    question: "The BEST example of a statement that would be documented in the assessment portion of a subjective, objective, assessment, and plan (SOAP) note is",
+    options: [
+      { id: "A", text: "Client and spouse participated in a discussion about planning activities of interest for the patient" },
+      { id: "B", text: "Client complains of difficulty donning night-time splint and requests that the splint be re-examined by the therapist" },
+      { id: "C", text: "Family was referred to social services for consideration of alternative placement" },
+      { id: "D", text: "Client demonstrates good understanding of the home program but requires supervision to perform independently" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "The 'Assessment' portion of a SOAP note is the therapist's professional judgment and interpretation of the subjective and objective findings. This statement analyzes the client's progress, cognitive understanding, and safety awareness, which is a perfect example of assessment.",
+    rationalesForIncorrectOptions: {
+      "A": "This statement describes an observed event and would be documented in the 'Objective' section.",
+      "B": "This statement is a direct report from the client and belongs in the 'Subjective' section.",
+      "C": "This statement describes a future action or referral and belongs in the 'Plan' section."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "soap note", "assessment", "record keeping"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q1",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q2",
+    question: "Which is the BEST means for documenting a goal statement?",
+    options: [
+      { id: "A", text: "Patient will be instructed in overhead dressing techniques." },
+      { id: "B", text: "Patient will participate in meal preparation for 15 minutes without breaks." },
+      { id: "C", text: "Patient will perform 10 repetitions of active assistive shoulder ladder exercises." },
+      { id: "D", text: "Patient will show increased endurance for performing ADLs." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "A well-written goal is objective, functional, measurable, and action-oriented. This statement clearly defines a functional activity (meal preparation), a measurable duration (15 minutes), and a condition (without breaks), making it a strong, measurable goal.",
+    rationalesForIncorrectOptions: {
+      "A": "This describes a treatment intervention or plan, not a patient-centered goal.",
+      "C": "This describes a specific exercise, which is part of the treatment plan, but is not a broader functional goal.",
+      "D": "This statement is too vague. 'Increased endurance' and 'performing ADLs' are not specific or measurable."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "goal setting", "soap note", "plan of care"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q2",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q3",
+    question: "Which statement would be the MOST appropriate for the PT to document in the plan section of the SOAP note?",
+    options: [
+      { id: "A", text: "Client given educational materials to practice correcting posture and trunk balance during daily routine." },
+      { id: "B", text: "Client able to respond to verbal instructions and questions with correct responses 3 out of 3 times." },
+      { id: "C", text: "Client indicates that the long-term goal is to return to work on a full-time basis." },
+      { id: "D", text: "Client assessed for use of compensatory techniques while cooking in the clinic kitchen." }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "The 'Plan' section of a SOAP note outlines the future course of action. This statement clearly describes the specific interventions and educational strategies that will be employed to achieve the patient's goals, which is the exact purpose of the plan section.",
+    rationalesForIncorrectOptions: {
+      "B": "This describes the client's cognitive and communication status and belongs in the 'Objective' section.",
+      "C": "This is a statement of the client's goal and would be documented in the 'Subjective' section.",
+      "D": "This describes an assessment that was performed and belongs in the 'Objective' section."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "soap note", "plan of care", "record keeping"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q3",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q4",
+    question: "During a treatment session, a patient with a C5 spinal cord injury complains of dizziness and a severe headache and is noticed by the PT to be flushed and sweating profusely. The best course of action is to",
+    options: [
+      { id: "A", text: "Lie the patient down to rest for about 30 minutes or until symptoms subside" },
+      { id: "B", text: "Contact the physician and report signs of autonomic dysreflexia" },
+      { id: "C", text: "Take the blood pressure because of the suspected signs of orthostatic hypotension" },
+      { id: "D", text: "Assist the patient in taking medication for the symptoms" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "The combination of symptoms (pounding headache, flushing, profuse sweating) in a patient with a spinal cord injury at T6 or above is the classic presentation of autonomic dysreflexia. This is a medical emergency that can lead to stroke or seizure. The PT must immediately stop the activity, sit the patient upright, check for noxious stimuli below the level of injury, and urgently contact the physician.",
+    rationalesForIncorrectOptions: {
+      "A": "Lying the patient down is contraindicated and dangerous, as it will further increase blood pressure.",
+      "C": "These symptoms are characteristic of autonomic dysreflexia (hypertension), not orthostatic hypotension (low blood pressure). Taking the BP is part of the assessment, but the critical action is recognizing the emergency and contacting the physician.",
+      "D": "Administering medication is outside the PT's scope of practice."
+    },
+    subject: "Neurology",
+    tags: ["autonomic dysreflexia", "spinal cord injury", "sci", "medical emergency", "red flag", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q4",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q5",
+    question: "A patient being treated for extensor tendon repair missed three appointments while sick with the flu. When writing the monthly report, the therapist explained why the client did not achieve her short-term goals in the time frame specified. Which is the MOST appropriate section of the note for this documentation?",
+    options: [
+      { id: "A", text: "S" },
+      { id: "B", text: "O" },
+      { id: "C", text: "A" },
+      { id: "D", text: "P" }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "The 'Assessment' section is where the therapist analyzes the patient's progress (or lack thereof) towards their goals. Explaining *why* the goals were not met (due to missed sessions from illness) is a perfect example of assessment and clinical reasoning.",
+    rationalesForIncorrectOptions: {
+      "A": "The 'Subjective' section contains information reported by the patient. While the patient may have reported being sick, the analysis of its impact on goals belongs in the assessment.",
+      "B": "The 'Objective' section contains measurable data and observations from the session, such as ROM or MMT, not the analysis of why goals were not met.",
+      "D": "The 'Plan' section outlines future treatment, such as modifying goals or scheduling, but does not contain the analysis of past performance."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "soap note", "assessment", "record keeping", "progress note"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q5",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q6",
+    question: "After talking to nursing, the inpatient rehab PT treated the patient in the room for instruction in safety and adaptive equipment for toileting, along with dressing and grooming activities. The patient was motivated and worked hard throughout the treatment session. Which is the BEST choice for the subjective portion of the daily SOAP note?",
+    options: [
+      { id: "A", text: "Patient was cooperative and engaged in social conversation throughout the treatment session." },
+      { id: "B", text: "Patient reports that the patient feels good today." },
+      { id: "C", text: "Patient is unable to move her right upper extremity as well today as yesterday, although it doesn't really hurt but feels “tight.”" },
+      { id: "D", text: "Nursing staff reports that patient is unsafe to toilet independently." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "The 'Subjective' section documents information that is relevant to the patient's condition and is reported by the patient themselves. This statement is a direct report from the patient about their current symptoms and functional status, making it the only appropriate choice for the subjective portion of the note.",
+    rationalesForIncorrectOptions: {
+      "A": "This is the therapist's observation of the patient's behavior and belongs in the 'Objective' section.",
+      "B": "This statement is written from the therapist's perspective ('Patient reports that the patient...'). The subjective entry should be what the patient says (e.g., 'Patient states he feels good today.')",
+      "D": "This is a report from another healthcare provider (nursing staff) and is considered 'Objective' data, as it is an observation from a professional source pertinent to the patient's care."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "soap note", "subjective", "record keeping"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q6",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q7",
+    question: "After a stroke, a patient had difficulty picking up pills from the table; difficulty buttoning; and difficulty completing jigsaw puzzles, which was a favorite leisure activity. During part of the treatment session, the patient worked on putting in and removing pieces from a jigsaw puzzle and practiced manipulating different sized coins from a flat table surface. When documenting the treatment, the BEST choice for an objective statement is",
+    options: [
+      { id: "A", text: "Patient worked for 15 minutes placing and removing jigsaw puzzle pieces." },
+      { id: "B", text: "Patient worked on tripod grasp using various coins and jigsaw puzzle pieces." },
+      { id: "C", text: "Patient worked for 15 minutes on tripod grasp in order to be able to grasp objects used for leisure activities and ADLs." },
+      { id: "D", text: "Patient worked on tripod grasp to be able to perform leisure activities and ADLs." }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "The 'Objective' section should contain factual, observable, and measurable information. This statement provides a specific activity (placing and removing puzzle pieces) and a measurable duration (15 minutes), making it the most objective and well-documented statement.",
+    rationalesForIncorrectOptions: {
+      "B": "This statement is less precise. It describes 'tripod grasp' which is an interpretation, and 'various coins' is vague.",
+      "C": "This statement includes the purpose of the activity ('in order to be able to grasp objects'), which belongs in the 'Assessment' or 'Plan' section, not the 'Objective' section.",
+      "D": "This statement is a goal or justification for treatment and lacks the specificity required for the 'Objective' section."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "soap note", "objective", "record keeping"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q7",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q8",
+    question: "Which statement would be documented in the “plan” portion of a SOAP note?",
+    options: [
+      { id: "A", text: "Problems include decreased coordination, strength, sensation, and proprioception in left upper extremity." },
+      { id: "B", text: "In order to return to work, patient will demonstrate increase of 10# of grasp in left hand, in 3 weeks." },
+      { id: "C", text: "Patient would benefit from further instruction in total hip precautions for lower extremity dressing, bathing, and hygiene." },
+      { id: "D", text: "Patient attended job skills group with prompting by nursing and OT staff." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "The 'Plan' section outlines what the therapist intends to do in future sessions. This statement clearly describes the need for future instruction and the specific topics to be covered, making it a perfect entry for the plan.",
+    rationalesForIncorrectOptions: {
+      "A": "This is a problem list, which is part of the 'Assessment' section.",
+      "B": "This is a long-term goal, which is also part of the 'Assessment' or an overarching plan, but 'C' is a more direct statement of planned intervention.",
+      "D": "This describes an event that has already occurred and belongs in the 'Objective' section."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "soap note", "plan of care", "record keeping"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q8",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q9",
+    question: "The BEST example of a statement that would document the patient’s prognosis is",
+    options: [
+      { id: "A", text: "The patient may require prolonged time to perform transfers because of poor motor planning ability." },
+      { id: "B", text: "The patient received a home program on energy conservation and work simplification." },
+      { id: "C", text: "Compared to the norm, grip strength is within normal limits and age appropriate." },
+      { id: "D", text: "The patient performed a stand pivot transfer to and from the wheelchair to bathtub." }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "A prognosis is a prediction of the likely course and outcome of a condition. This statement forecasts a future challenge (prolonged transfer time) and identifies the underlying reason (poor motor planning), which is the essence of a prognostic statement.",
+    rationalesForIncorrectOptions: {
+      "B": "This describes a past intervention and belongs in the 'Objective' or 'Plan' section (if it was given for future use).",
+      "C": "This is a statement of current findings from an assessment and belongs in the 'Objective' section.",
+      "D": "This is a description of a completed activity and belongs in the 'Objective' section."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "prognosis", "assessment"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q9",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q10",
+    question: "When discharging a patient with Alzheimer's to a skilled nursing facility, what is the most important information to share?",
+    options: [
+      { id: "A", text: "Summary of cognitive performance" },
+      { id: "B", text: "Recommendations to a support group" },
+      { id: "C", text: "Summary of the patient progress" },
+      { id: "D", text: "Results of the initial examination" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "For a seamless and safe transition of care for a patient with Alzheimer's, the most critical information for the receiving facility is the patient's current cognitive performance. This includes their ability to follow commands, their safety awareness, memory, and communication abilities, which directly impacts the type of care and supervision they will require.",
+    rationalesForIncorrectOptions: {
+      "B": "While helpful, this is not the most critical piece of information for immediate care planning at the new facility.",
+      "C": "A summary of progress is useful, but the current cognitive status is more important for immediate safety and management.",
+      "D": "Results of the initial examination may be outdated and less relevant than the patient's current cognitive and functional status."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["discharge planning", "alzheimers", "cognition", "communication", "handover", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q10",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q11",
+    question: "A PT walks into a patient’s room and finds the patient lying on the floor next to the bed. The PT has been previously reprimanded for forgetting to put the bed rails up after treatment. After checking to be sure the patient has no broken bones and is not in severe pain, the therapist helps the patient back into bed, and then leaves the room without reporting the incident. Which terms best describe the PT’s conduct?",
+    options: [
+      { id: "A", text: "Legal and ethical" },
+      { id: "B", text: "Legal but unethical" },
+      { id: "C", text: "Ethical but illegal" },
+      { id: "D", text: "Illegal and unethical" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "The therapist's conduct is unethical because they failed to report the incident (a fall), which is a breach of professional standards for safety and documentation. This dishonesty and lack of accountability is unethical. However, without a specific law being broken that carries criminal or civil penalties defined by statute, it is best described as legal but unethical professional conduct.",
+    rationalesForIncorrectOptions: {
+      "A": "The conduct is not ethical; failing to report a patient fall is a significant professional lapse.",
+      "C": "The conduct is not ethical.",
+      "D": "While the conduct is unethical, it is not explicitly illegal in a criminal sense, although it could lead to civil liability (negligence). 'Legal but unethical' best captures the nature of breaching professional codes of conduct."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["ethics", "legality", "incident report", "fall", "documentation", "professional misconduct"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q11",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q12",
+    question: "A PT suspects physical abuse after noticing bruises on the face and back of a child during the treatment session. The appropriate action to take is",
+    options: [
+      { id: "A", text: "to ask the child questions about the bruises" },
+      { id: "B", text: "to confront the parents about the cause for the inflictions" },
+      { id: "C", text: "to make a report to the appropriate authorities" },
+      { id: "D", text: "to ignore the bruises because proof of suspicion is difficult" }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "Healthcare professionals are mandatory reporters. If they have a reasonable suspicion of child abuse or neglect, they have a legal and ethical obligation to report it to the appropriate authorities (e.g., Child Protective Services, police). Their role is to report, not to investigate, confirm, or confront.",
+    rationalesForIncorrectOptions: {
+      "A": "It is not the therapist's role to investigate. Questioning the child can be inappropriate and may interfere with the official investigation.",
+      "B": "Confronting the parents is dangerous for the child and the therapist and is not the appropriate procedure.",
+      "D": "Ignoring the suspicion is a violation of the legal duty to report. The standard is based on reasonable suspicion, not proof."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["mandatory reporting", "child abuse", "legal obligation", "ethics", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q12",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q13",
+    question: "To facilitate effective communication between a physical therapy supervisor and employee, the supervisor should",
+    options: [
+      { id: "A", text: "communicate what is expected of the employee" },
+      { id: "B", text: "Express disappointment regarding the employee's behavior" },
+      { id: "C", text: "Offer criticism to stimulate discussion" },
+      { id: "D", text: "Meet with the employee away from the workplace to facilitate a conversation" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "Effective communication and management involve setting clear, objective expectations. Communicating what is expected provides the employee with a clear standard against which they can measure their performance and allows for objective feedback.",
+    rationalesForIncorrectOptions: {
+      "B": "Expressing disappointment is subjective, emotional, and generally not a constructive form of feedback.",
+      "C": "While constructive criticism is part of feedback, simply offering criticism to 'stimulate discussion' is not a foundation for effective communication. Clear expectations are the foundation.",
+      "D": "Performance-related discussions should occur in a professional setting, such as a private office at the workplace, not away from it."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["communication", "supervision", "management", "feedback", "professionalism"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q13",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q14",
+    question: "The term that refers to the process of providing information to individuals to assist them in the decision-making process about their own health care is",
+    options: [
+      { id: "A", text: "Beneficence" },
+      { id: "B", text: "Fidelity" },
+      { id: "C", text: "Autonomy" },
+      { id: "D", text: "Informed consent" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Informed consent is the specific process by which a healthcare provider gives a patient the relevant information about a proposed treatment (risks, benefits, alternatives) so that the patient can make a voluntary and informed decision about their care.",
+    rationalesForIncorrectOptions: {
+      "A": "Beneficence is the ethical principle of acting in the best interest of the patient or 'doing good'.",
+      "B": "Fidelity is the ethical principle of being faithful to one's commitments and responsibilities.",
+      "C": "Autonomy is the ethical principle that individuals have the right to make their own decisions. Informed consent is the process that respects and enables autonomy."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["informed consent", "ethics", "autonomy", "decision making"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q14",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q15",
+    question: "A patient tells the PT how much the services provided have helped in coping with his/her depression. The patient then offers a gift of appreciation to the therapist. The PT's best response is to say",
+    options: [
+      { id: "A", text: "“I love the gift, but I need to report it to my administrator in order to follow regulations.”" },
+      { id: "B", text: "“Thank you, that's great. What is it?”" },
+      { id: "C", text: "“Just knowing that you appreciate my help is reward enough. I appreciate the gesture, but I cannot accept the gift.”" },
+      { id: "D", text: "“Please mail it to my house. I cannot accept the gift on the hospital premises.”" }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "This response is the most professional and ethical. It acknowledges and values the patient's gesture of appreciation while politely and clearly declining the gift, thus maintaining professional boundaries and avoiding any potential for a conflict of interest or perceived obligation.",
+    rationalesForIncorrectOptions: {
+      "A": "This implies acceptance, which may be inappropriate depending on the gift's value and clinic policy. It is often best to politely decline.",
+      "B": "Asking 'What is it?' implies that the decision to accept depends on the gift itself, which is not an ethical basis for the decision.",
+      "D": "This is inappropriate as it circumvents facility policy and blurs professional boundaries by involving the therapist's personal life."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["professional boundaries", "gifts", "conflict of interest", "communication", "ethics"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q15",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q16",
+    question: "The single most important measure to prevent the spread of infectious diseases is",
+    options: [
+      { id: "A", text: "Hand washing" },
+      { id: "B", text: "Proper cooking" },
+      { id: "C", text: "Canning" },
+      { id: "D", text: "Pasteurization" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "Hand washing (or hand hygiene) is consistently identified by public health organizations worldwide as the single most important and effective measure to prevent the transmission of infections in both healthcare and community settings.",
+    rationalesForIncorrectOptions: {
+      "B": "Proper cooking is crucial for preventing foodborne illnesses but does not prevent the vast number of infections spread by contact.",
+      "C": "Canning is a food preservation method and is not a general measure for preventing the spread of infectious diseases.",
+      "D": "Pasteurization is a process used to make products like milk and juice safe for consumption; it is not a personal hygiene practice."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["infection control", "hand hygiene", "hand washing", "safety", "public health"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q16",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q17",
+    question: "A 30-year-old female patient presents with right calf pain and may have a deep vein thrombosis (DVT). What would be the MOST appropriate initial course of action?",
+    options: [
+      { id: "A", text: "Prescribe rest and inactivity until symptoms subside" },
+      { id: "B", text: "Treat with RICE protocols until symptoms subside" },
+      { id: "C", text: "Treat with massage, muscle stripping, and stretching procedures" },
+      { id: "D", text: "Refer for medical evaluation" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "A deep vein thrombosis (DVT) is a medical emergency because the clot can dislodge and travel to the lungs, causing a life-threatening pulmonary embolism. Any suspicion of a DVT is a red flag. The most appropriate initial action is to immediately refer the patient for medical evaluation and diagnosis.",
+    rationalesForIncorrectOptions: {
+      "A": "While rest is indicated, simply prescribing rest without a medical evaluation is unsafe and delays definitive treatment.",
+      "B": "RICE (Rest, Ice, Compression, Elevation) is not the definitive treatment for DVT and delays necessary medical care.",
+      "C": "Massage, stripping, and stretching are strictly contraindicated as they could dislodge the thrombus and cause a pulmonary embolism."
+    },
+    subject: "Cardiorespiratory",
+    tags: ["dvt", "deep vein thrombosis", "red flag", "medical emergency", "referral", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q17",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q18",
+    question: "The most important step to take upon involvement in an emergency is to",
+    options: [
+      { id: "A", text: "Let the patient know that you have arrived" },
+      { id: "B", text: "Assess the scene and environment" },
+      { id: "C", text: "Make sure that you have plenty of gloves" },
+      { id: "D", text: "Immediately care for the patient" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "The first principle of any emergency response is to ensure the scene is safe for the rescuer, the patient, and any bystanders. Assessing the scene and environment for hazards (e.g., traffic, fire, electrical wires) prevents the rescuer from becoming a victim themselves.",
+    rationalesForIncorrectOptions: {
+      "A": "This is important for communication but only after ensuring the scene is safe.",
+      "C": "Personal protective equipment is important, but this is considered after confirming the scene is safe.",
+      "D": "Rushing in to provide care without first assessing for scene safety can be dangerous for everyone involved."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["emergency response", "safety", "scene assessment", "first aid"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q18",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q19",
+    question: "What is the BEST method for controlling bleeding and should be attempted first?",
+    options: [
+      { id: "A", text: "Elevation" },
+      { id: "B", text: "Direct pressure" },
+      { id: "C", text: "Trauma dressing" },
+      { id: "D", text: "Tourniquet" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Direct pressure is the first and most effective method for controlling external bleeding. Applying firm, direct pressure over the wound helps the blood to clot and seals the damaged blood vessel.",
+    rationalesForIncorrectOptions: {
+      "A": "Elevation of the limb is a useful adjunct to direct pressure but is not the primary intervention and should be done in conjunction with direct pressure.",
+      "C": "A trauma dressing is the material used to apply direct pressure, but the action of applying pressure is the key intervention.",
+      "D": "A tourniquet is a last resort, used only for severe, life-threatening extremity bleeding that cannot be controlled by direct pressure, as it cuts off all blood flow and can cause tissue damage."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["first aid", "bleeding", "hemorrhage", "direct pressure", "emergency response"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q19",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q20",
+    question: "When caring for a fractured, dislocated, or sprained extremity, when is it important to check for pulses, sensation, and motor function?",
+    options: [
+      { id: "A", text: "After the splint has been removed at the hospital" },
+      { id: "B", text: "Before applying a splint" },
+      { id: "C", text: "Before and after applying a splint" },
+      { id: "D", text: "During the detailed physical examination of the patient, usually en route to the hospital" }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "It is critical to assess the neurovascular status (pulses, sensation, motor function) distal to the injury both before and after applying a splint. The 'before' check establishes a baseline. The 'after' check ensures that the splint itself has not compromised circulation or nerve function.",
+    rationalesForIncorrectOptions: {
+      "A": "This is too late. The assessment must be done immediately, not just at the hospital.",
+      "B": "This is incomplete. It is equally important to check after splinting to ensure the splint is not too tight.",
+      "D": "This assessment should be done immediately before and after splinting, not just at some later point during transport."
+    },
+    subject: "Musculoskeletal",
+    tags: ["first aid", "splinting", "neurovascular assessment", "safety", "fracture"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q20",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q21",
+    question: "A therapist is treating a 35-year-old man diagnosed with lumbar disc degeneration, in an outpatient clinic. Through conversation with the patient, the therapist learns that he is also being treated by a chiropractor for cervical dysfunction. What is the best course of action by the therapist?",
+    options: [
+      { id: "A", text: "Continue with the current treatment plan and ignore the chiropractor’s treatment." },
+      { id: "B", text: "Ask the patient what the chiropractor is doing and try the same approach." },
+      { id: "C", text: "Stop physical therapy at once and consult with the referring physician." },
+      { id: "D", text: "Contact the chiropractor to coordinate his or her plan of care with the physical therapy plan of care." }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "This demonstrates good interprofessional collaboration. To ensure safe and effective care, it is best practice to communicate with other healthcare professionals involved in the patient's care. Coordinating the plans of care ensures that treatments are complementary and not contradictory.",
+    rationalesForIncorrectOptions: {
+      "A": "Ignoring the other treatment is not ideal, as the two treatments could potentially conflict or overlap. Collaborative care is the better option.",
+      "B": "A physiotherapist should not simply copy another professional's treatment without their own assessment and clinical reasoning. This would be unprofessional.",
+      "C": "There is no immediate reason to stop physical therapy. The presence of another practitioner is an indication for collaboration, not cessation of care."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["collaborative practice", "interprofessional communication", "chiropractor", "plan of care"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q21",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q22",
+    question: "Which of the following duties cannot be legally performed by a physical therapist assistant?",
+    options: [
+      { id: "A", text: "Confer with a doctor about a patient's status" },
+      { id: "B", text: "Add 5 pounds to a patient's current exercise protocol" },
+      { id: "C", text: "Allow a patient to increase in frequency from 2 times/week to 3 times/week" },
+      { id: "D", text: "Perform joint mobilization" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Joint mobilization is a skilled manual therapy technique that requires the advanced assessment and clinical reasoning skills of a registered physiotherapist. It is considered a controlled act in many jurisdictions and cannot be delegated to or performed by a physical therapist assistant.",
+    rationalesForIncorrectOptions: {
+      "A": "A PTA can relay objective information about a patient's status to a doctor, but they cannot provide an assessment or interpretation.",
+      "B": "A PTA cannot independently decide to progress an exercise by adding weight. This is a modification to the plan of care and requires the PT's judgment.",
+      "C": "A PTA cannot independently modify the frequency of treatment. This is a change to the plan of care."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["pta", "physiotherapist assistant", "scope of practice", "delegation", "joint mobilization"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q22",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q23",
+    question: "The therapist is treating a patient in an outpatient facility for strengthening of bilateral lower extremities. During the initial assessment, the patient reveals that he has a form of cancer but is reluctant to offer any other information about his medical history. After 1 week of treatment, the therapist is informed by the physician that the patient has Kaposi’s sarcoma and AIDS. Which of the following is the best course of action for the therapist?",
+    options: [
+      { id: "A", text: "Cease treatment of the patient, and inform him that an outpatient facility is not the appropriate environment for a person with his particular medical condition." },
+      { id: "B", text: "Continue treatment of the patient in the gym, avoiding close contact with other patients and taking appropriate universal precautions." },
+      { id: "C", text: "Continue treatment of the patient in the gym as before, taking appropriate universal precautions." },
+      { id: "D", text: "Cease treatment, but do not confront the patient with the knowledge of his HIV status." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "A diagnosis of AIDS is not a reason to cease physiotherapy. The therapist should continue treatment while diligently applying universal precautions to prevent any potential transmission of bloodborne pathogens. Taking care to avoid close contact between patients is also prudent. Discontinuing care would be discriminatory and unethical.",
+    rationalesForIncorrectOptions: {
+      "A": "This is discriminatory and untrue. An outpatient facility is an appropriate setting for this patient with the use of universal precautions.",
+      "C": "This is mostly correct, but option B is better because it adds the sensible step of avoiding close contact between patients as an extra layer of precaution, even though the risk is negligible.",
+      "D": "There is no reason to cease treatment. This would be a form of patient abandonment."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["aids", "hiv", "kaposis sarcoma", "universal precautions", "infection control", "discrimination"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q23",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q24",
+    question: "A patient’s lawyer calls the therapist requesting his or her client’s clinical records. The lawyer states that he or she needs the records to pay the patient’s bill. What is the best course of action?",
+    options: [
+      { id: "A", text: "Tell the lawyer either to have the patient request a copy of the records or to have the patient sign a medical release." },
+      { id: "B", text: "Fax the needed chart to the lawyer." },
+      { id: "C", text: "Mail a copy of the chart to the patient." },
+      { id: "D", text: "Call the patient and tell him or her of the recent development." }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "A patient's clinical records are confidential. They cannot be released to a third party, including a lawyer, without the explicit written consent of the patient. The therapist must obtain a signed medical release form from the patient before providing any records to the lawyer. Option A correctly outlines the required procedures to ensure consent.",
+    rationalesForIncorrectOptions: {
+      "B": "This is a breach of confidentiality. Records cannot be sent without the patient's explicit consent.",
+      "C": "While the patient has a right to their records, this action does not address the lawyer's request. The proper procedure for releasing to a third party must be followed.",
+      "D": "While informing the patient is good, it doesn't solve the issue of obtaining proper consent for the release. A signed form is required."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["confidentiality", "privacy", "record keeping", "consent to release", "legal"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q24",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q25",
+    question: "A 12-year-old male has been referred to a private practice physiotherapy clinic after being recently involved in a car accident. The patient’s mother has signed all the necessary paperwork for admission to the clinic, including a form allowing release of her son’s records to the parties listed. The patient’s mother included herself, doctors involved in the patient’s care, and their attorney on the list. The patient’s stepfather comes to the clinic after the patient is discharged and requests a copy of the stepson’s record. Which of the following would be the correct response from the office staff?",
+    options: [
+      { id: "A", text: "Give the stepfather a copy of the records." },
+      { id: "B", text: "Give the stepfather a copy of the records after he has signed a release form." },
+      { id: "C", text: "Inform the patient’s stepfather that he is not on the list that authorizes the records to be released to him." },
+      { id: "D", text: "Call the patient’s mother and get verbal permission to release the records to the stepfather." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "The release of information was authorized by the mother (the legal guardian) only for the specific parties listed. The stepfather is not on that list. Therefore, the office staff cannot release the records to him. Informing him that he is not on the authorized list is the correct and professional response that protects patient confidentiality.",
+    rationalesForIncorrectOptions: {
+      "A": "This would be a breach of confidentiality as the stepfather is not an authorized party.",
+      "B": "The stepfather cannot sign a release form for the patient's records; only the patient's legal guardian (the mother in this case) can.",
+      "D": "Verbal permission is generally insufficient for the release of health records. A signed, written consent is required, and the authorization form would need to be updated by the mother."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["confidentiality", "privacy", "record keeping", "consent to release", "pediatrics"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q25",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q26",
+    question: "The home health physical therapist arrives late at the home of a patient for a treatment session just as the occupational therapist has finished. The patient is angry because the sessions are so close together. The patient becomes verbally abusive toward the physical therapist. The most appropriate response to the patient is",
+    options: [
+      { id: "A", text: "“I'm sorry I'm late, but you must try to understand that I am extremely busy.”" },
+      { id: "B", text: "“I know you are aggravated. It is inconvenient when someone does not show up when expected. Let’s just do our best this session and I will make an effort to see that we do not have PT and OT scheduled so close together from now on.”" },
+      { id: "C", text: "“You have to expect visits at any time of the day with home health.”" },
+      { id: "D", text: "“The OT and I did not purposefully arrive so close together. I apologize, please let's now begin therapy.”" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "This is the most empathetic and professional response. It validates the patient's feelings ('I know you are aggravated'), acknowledges the inconvenience, takes responsibility, and proposes a solution to prevent the issue from recurring. This de-escalates the situation and rebuilds rapport.",
+    rationalesForIncorrectOptions: {
+      "A": "This response is defensive and makes an excuse ('I am extremely busy'), which is likely to further aggravate the patient.",
+      "C": "This response is dismissive of the patient's valid concerns and sets an unprofessional expectation.",
+      "D": "While it includes an apology, it is less effective than option B because it doesn't fully validate the patient's feelings or offer a clear plan to prevent recurrence."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["communication", "empathy", "professionalism", "conflict resolution", "home health"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q26",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q27",
+    question: "When should a physical therapist begin discharge planning for a patient admitted to a rehabilitation unit with a diagnosis of a recent stroke?",
+    options: [
+      { id: "A", text: "At the first team meeting" },
+      { id: "B", text: "At the last team meeting" },
+      { id: "C", text: "Two weeks before discharge" },
+      { id: "D", text: "After the initial examination" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Discharge planning should begin as early as possible in the patient's admission. The process starts with the initial examination, where the therapist gathers information about the patient's prior level of function, home environment, and social supports, which are all essential for formulating a safe and effective discharge plan.",
+    rationalesForIncorrectOptions: {
+      "A": "While the first team meeting is an important part of the process, the therapist begins formulating a plan based on their own initial examination, which may occur before the first formal team meeting.",
+      "B": "This is far too late and would likely result in an unsafe discharge.",
+      "C": "This is also too late. Planning should be an ongoing process that starts from day one."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["discharge planning", "stroke", "rehabilitation", "initial assessment"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q27",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q28",
+    question: "A therapist is performing a chart review and discovers that lab results reveal that the patient has malignant cancer. When examining the patient, the therapist is asked by the patient, “Did my lab results come back and is the cancer malignant?” The appropriate response for the therapist is",
+    options: [
+      { id: "A", text: "to tell the patient the truth and contact the social worker to assist in consultation of the family." },
+      { id: "B", text: "“It is inappropriate for me to comment on your diagnosis before the doctor has assessed the lab results and spoken to you first.”" },
+      { id: "C", text: "“The results are positive for malignant cancer, but I do not have the training to determine your prognosis.”" },
+      { id: "D", text: "to tell the patient the results are in, but physical therapists are not allowed to speak on this matter." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Delivering a new diagnosis of cancer is the responsibility of the physician. It is outside the physiotherapist's scope of practice. This response is the most appropriate because it is truthful, respectful, and correctly defers the communication of the diagnosis to the appropriate medical professional (the doctor) without causing undue alarm or breaching professional boundaries.",
+    rationalesForIncorrectOptions: {
+      "A": "It is not the therapist's role to deliver this diagnosis. This should be done by the physician.",
+      "C": "While truthful, this response still involves the PT delivering a medical diagnosis, which is inappropriate.",
+      "D": "This is a better response than C, but B is superior because it frames the issue in terms of the proper sequence of care (doctor assesses and speaks first) rather than a simple prohibition."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["scope of practice", "communication", "diagnosis", "cancer", "professional boundaries"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q28",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q29",
+    question: "A physical therapy technician calls the therapist immediately to the other side of the outpatient clinic. The therapist discovers a 37-year-old female lying face down on the floor. Which of the following sequence of events is most appropriate for this situation?",
+    options: [
+      { id: "A", text: "Have someone call 911, determine unresponsiveness, establish an airway, and assess breathing (look/listen/feel)" },
+      { id: "B", text: "Determine unresponsiveness, have someone call 911, establish an airway, and assess breathing (look/listen/feel)" },
+      { id: "C", text: "Have someone call 911, determine unresponsiveness, assess breathing (look/listen/feel), establish an airway" },
+      { id: "D", text: "Determine unresponsiveness, have someone call 911, assess breathing (look/listen/feel), and establish an airway" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "This sequence follows the standard basic life support (BLS) protocol. First, establish unresponsiveness to determine if there is a medical emergency. Second, activate emergency medical services (call 911). Third, open the airway (e.g., head-tilt chin-lift). Fourth, assess for breathing.",
+    rationalesForIncorrectOptions: {
+      "A": "Unresponsiveness must be determined before calling 911 to confirm there is an emergency.",
+      "C": "Establishing the airway comes before assessing for breathing.",
+      "D": "Establishing the airway comes before assessing for breathing."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["emergency response", "first aid", "basic life support", "bls", "cpr"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q29",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q30",
+    question: "Which of the following acts forced all federally supported facilities to increase corridor width to a minimum of 54 inches to accommodate wheelchairs?",
+    options: [
+      { id: "A", text: "Americans with Disabilities Act" },
+      { id: "B", text: "National Healthcare and Resource Development Act" },
+      { id: "C", text: "Civil Rights Act" },
+      { id: "D", text: "Older Americans Act (Title III)" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "The Americans with Disabilities Act (ADA) of 1990 is a comprehensive civil rights law that prohibits discrimination based on disability. The ADA Standards for Accessible Design set the minimum requirements for accessibility, including specifications for corridor width, ramps, and doorways in public accommodations and commercial facilities.",
+    rationalesForIncorrectOptions: {
+      "B": "This is not a real act; it does not exist.",
+      "C": "The Civil Rights Act of 1964 outlawed discrimination based on race, color, religion, sex, or national origin, but it did not specifically address disability accessibility standards.",
+      "D": "The Older Americans Act focuses on providing services and support for older adults but does not set architectural standards for facilities."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["ada", "americans with disabilities act", "accessibility", "legal", "wheelchair"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q30",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q31",
+    question: "A patient at an outpatient facility experiences the onset of a grand mal seizure. Which of the following is the most appropriate course of action by the therapist?",
+    options: [
+      { id: "A", text: "Assist the patient to a lying position, move away close furniture, loosen tight clothing, and prop the patient’s mouth open." },
+      { id: "B", text: "Assist the patient to a lying position, move away close furniture, and loosen tight clothing." },
+      { id: "C", text: "Assist the patient to a seated position, move away close furniture, and loosen tight clothing." },
+      { id: "D", text: "Assist the patient to a seated position, move away close furniture, loosen tight clothing, and prop the patient’s mouth open" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "The primary goals during a seizure are to protect the person from injury and maintain an open airway. Assisting them to a safe lying position prevents falls. Moving furniture away prevents them from striking objects. Loosening tight clothing around the neck helps ensure breathing is not restricted. Nothing should ever be placed in the mouth.",
+    rationalesForIncorrectOptions: {
+      "A": "It is dangerous and contraindicated to prop or place anything in the patient's mouth during a seizure, as it can cause injury to the teeth, jaw, or the rescuer.",
+      "C": "A seated position is less safe than a lying position, as the patient could fall from the chair.",
+      "D": "This is incorrect due to both the seated position and propping the mouth open."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["seizure", "first aid", "safety", "emergency response", "grand mal"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q31",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q32",
+    question: "A therapist is instructing a physical therapy student in writing a SOAP note. The student has misplaced the following phrase: Patient reports a functional goal of returning to playing baseball in 5 weeks. Where should this phrase be placed in a SOAP note?",
+    options: [
+      { id: "A", text: "Subjective" },
+      { id: "B", text: "Objective" },
+      { id: "C", text: "Assessment" },
+      { id: "D", text: "Plan" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "The 'Subjective' portion of the SOAP note includes anything the patient, their family, or caregiver reports that is relevant to their condition. This statement is a direct report from the patient about their personal goals, and therefore belongs in the Subjective section.",
+    rationalesForIncorrectOptions: {
+      "B": "The 'Objective' section contains measurable and observable data collected by the therapist (e.g., ROM, MMT, vital signs).",
+      "C": "The 'Assessment' section is the therapist's analysis and interpretation of the S and O data.",
+      "D": "The 'Plan' section outlines the future course of treatment."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "soap note", "subjective", "record keeping", "goal setting"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q32",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q33",
+    question: "An acute-care physical therapist is ordered to examine and treat a patient who has suffered a right hip fracture in a recent fall. During the examination, the family informs the therapist that the patient suffered a stroke approximately 1 week before the fall. The patient’s chart has no record of the recent stroke. What should the therapist do first?",
+    options: [
+      { id: "A", text: "Immediately call the referring physician and request a magnetic resonance scan." },
+      { id: "B", text: "Examine and treat the patient as ordered." },
+      { id: "C", text: "Examine and treat the patient as ordered and request a computed tomography scan." },
+      { id: "D", text: "Immediately call the referring physician for an occupational therapy referral." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Although a stroke may have occurred, the physical therapist can first examine the patient. Although a stroke may have occurred, the physical therapist can first examine the patient. After the examination has been performed, the therapist will be more informed about the patient’s condition and can then contact the physician if necessary.",
+    rationalesForIncorrectOptions: {
+      "A": "A physical therapist cannot order a magnetic resonance imaging scan.",
+      "C": "A physical therapist cannot order a computed tomography scan.",
+      "D": "An occupational therapy referral may be necessary, but this does not need to be the first step in this situation."
+    },
+    subject: "Musculoskeletal",
+    tags: ["hip fracture", "stroke", "acute care", "examination", "scope of practice"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q33",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q34",
+    question: "A physical therapist in an outpatient clinic is urgently called into a room to assist an infant who is unconscious and not breathing. The therapist opens the airway of the infant and attempts ventilation. The breaths do not make the chest rise. After the infant’s head is repositioned, the breaths still do not cause the chest to move. What should the therapist do next?",
+    options: [
+      { id: "A", text: "Give five back blows." },
+      { id: "B", text: "Look into the throat for a foreign body." },
+      { id: "C", text: "Have someone call 911." },
+      { id: "D", text: "Perform a blind finger sweep of the throat." }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "Back blows should be followed by chest thrusts with complete airway obstruction when CPR is performed on an infant. The therapist then should check for a foreign body in the airway. A blind finger sweep of the throat should not be performed on an infant.",
+    rationalesForIncorrectOptions: {
+      "B": "Before attempting to provide back blows, the physical therapist should attempt to reposition the head and check for a foreign body.",
+      "C": "Someone should have already been instructed to call 911.",
+      "D": "Blind finger sweeps are not appropriate in this situation."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["cpr", "first aid", "pediatrics", "infant", "airway obstruction", "emergency response"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q34",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q35",
+    question: "A physical therapist is setting up a portable whirlpool unit in the room of a severely immobile patient. What is the most important task of the physical therapist before the patient is placed in the whirlpool?",
+    options: [
+      { id: "A", text: "Check for a ground fault circuit interruption outlet." },
+      { id: "B", text: "Check to make sure the water temperature is below 110° F." },
+      { id: "C", text: "Make sure the whirlpool agitator is immersed in the water." },
+      { id: "D", text: "Obtain the appropriate assistance to perform a transfer." }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "A ground fault interruption outlet is designed to quickly stop the flow of electricity to prevent electrocution. Given the use of an electrical appliance (the whirlpool) in a wet environment, ensuring the outlet is properly protected with a GFCI is the single most important safety check to prevent a life-threatening situation.",
+    rationalesForIncorrectOptions: {
+      "B": "Water temperature is an important safety consideration to prevent burns, but it is secondary to preventing electrocution.",
+      "C": "Proper agitator immersion is important for the function of the whirlpool but not as critical a safety issue as the electrical outlet.",
+      "D": "Safe transfers are crucial, but ensuring the electrical safety of the environment must be done first."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["safety", "whirlpool", "hydrotherapy", "electrical safety", "gfci", "modalities"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q35",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q36",
+    question: "A 37-year-old man fell and struck his left temple area on the corner of a mat table. He begins to bleed profusely but remains conscious and alert. Attempts to stop blood flow with direct pressure to the area of the injury are unsuccessful. Of the following, which is an additional area to which pressure should be applied to stop bleeding?",
+    options: [
+      { id: "A", text: "Left parietal bone one inch posterior to the ear" },
+      { id: "B", text: "Left temporal bone just anterior to the ear" },
+      { id: "C", text: "Zygomatic arch of the frontal bone" },
+      { id: "D", text: "Zygomatic arch superior to the mastoid process" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Pressure on the left temporal bone just anterior to the ear helps to occlude blood flow from the temporal artery.",
+    rationalesForIncorrectOptions: {
+      "A": "The parietal bone is not where a major artery is located in relation to the temple.",
+      "C": "The zygomatic arch is below the temporal area and not the optimal pressure point.",
+      "D": "The mastoid process is posterior to the ear and not on the primary arterial pathway to the temple."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["first aid", "bleeding", "pressure point", "temporal artery", "emergency response"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q36",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q37",
+    question: "A physical therapist is beginning the examination of a patient with AIDS. The patient was admitted to the acute floor of the hospital on the previous night after receiving a right total hip replacement. The physician has ordered gait training and a dressing change of the surgical site. Of the following precautions, which is the least necessary?",
+    options: [
+      { id: "A", text: "Mask" },
+      { id: "B", text: "Gloves" },
+      { id: "C", text: "Hand washing" },
+      { id: "D", text: "Gown" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "AIDS is transmitted by blood or bodily fluids. Masks are usually used with airborne precautions. Hand washing should be done between all wound care patients. Gloves are also indicated with all open wounds. Gowns may not be a necessity but should be used if there is a chance of soiling the clothing with infected fluids.",
+    rationalesForIncorrectOptions: {
+      "B": "Gloves are necessary due to the potential contact with blood or bodily fluids during dressing changes.",
+      "C": "Hand washing is the single most important infection control measure and is always necessary.",
+      "D": "A gown may be necessary to protect clothing from contamination during wound care."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["infection control", "universal precautions", "aids", "ppe", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q37",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q38",
+    question: "A physical therapist is treating a 17-year-old boy with an incomplete T11 spinal cord injury. The patient was treated for 2 months in the rehabilitation unit of the hospital before beginning outpatient physical therapy. He is currently ambulating with a standard walker with minimal assist of two. The therapist sets an initial long-term goal of “ambulation with a standard walker with minimum assist of 1 for a distance of 50 feet, with no loss of balance, on a level surface—in 8 weeks.” If the patient achieves the long-term goal in 4 weeks, which of the following courses of action should be taken by the therapist?",
+    options: [
+      { id: "A", text: "Discharge the patient secondary to completion of goals." },
+      { id: "B", text: "Set another long-term goal regarding ambulation and continue treatment." },
+      { id: "C", text: "Return the patient to the rehabilitation unit of the hospital for more intensive treatment." },
+      { id: "D", text: "Call the patient’s physician and ask for further instructions." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Because the goals were not completed in a short amount of time, a new long-term goal should be set. Because of the significant progress made in outpatient therapy, there is no need to return to the rehabilitation unit.",
+    rationalesForIncorrectOptions: {
+      "A": "Although one goal was met, the patient has not reached their full potential for functional mobility.",
+      "C": "Returning the patient to the rehab unit is not necessary as they are making good progress in the outpatient setting.",
+      "D": "The physical therapist should be able to set new goals without consulting the physician."
+    },
+    subject: "Neurology",
+    tags: ["spinal cord injury", "sci", "goal setting", "plan of care", "rehabilitation"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q38",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q39",
+    question: "A physical therapist is ordered to examine a 74-year-old man who has suffered a recent stroke. The therapist performs a chart review before performing the examination. Which of the following is of the least importance to the physical therapist in assessing the patient's chart?",
+    options: [
+      { id: "A", text: "Nursing assessment" },
+      { id: "B", text: "Physician’s orders/notes" },
+      { id: "C", text: "Respiratory assessment" },
+      { id: "D", text: "Dietary assessment" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "All of the choices are important, but the dietary assessment contains the least amount of critical information at this stage of the physical therapy examination.",
+    rationalesForIncorrectOptions: {
+      "A": "The nursing assessment provides valuable information about the patient's current status, vitals, and care needs.",
+      "B": "The physician's orders and notes are critical for understanding the medical plan, diagnosis, and any contraindications or precautions.",
+      "C": "The respiratory assessment is important as respiratory complications are common after a stroke."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["chart review", "stroke", "assessment", "prioritization"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q39",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q40",
+    question: "Each of the following choices consists of a list of two summaries of some of the principles in the code of ethics of the American Physical Therapy Association. Which of the answers below is a false summary?",
+    options: [
+      { id: "A", text: "(1) Obey regulations governing physical therapists, and (2) maintain high standards when providing therapy." },
+      { id: "B", text: "(1) Respect the rights of patients, and (2) inform people appropriately of the services provided." },
+      { id: "C", text: "(1) Maintain high standards when providing therapy, and (2) provide services for the length of time ordered." },
+      { id: "D", text: "(1) Assist the public when there are public health needs, and (2) accept fair monetary compensation for services." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "While maintaining high standards is a core principle, providing services for the 'length of time ordered' is not an ethical mandate if it conflicts with clinical judgment. A PT must use their professional judgment to determine the appropriate duration of care based on the patient's needs and progress, not simply follow an order blindly.",
+    rationalesForIncorrectOptions: {
+      "A": "Both are correct summaries of ethical principles related to legal and professional standards.",
+      "B": "Both are correct summaries of ethical principles related to patient autonomy and informed consent.",
+      "D": "Both are correct summaries of ethical principles related to social responsibility and just business practices."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["code of ethics", "apta", "professionalism", "ethics"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q40",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q41",
+    question: "A physical therapist is scheduled to examine the shoulder of a patient with hepatitis B. The therapist notices no open wounds or abrasions and also notices that the patient has good hygiene. The physician has ordered passive range of motion to the right shoulder because of adhesive capsulitis. Which of the following precautions is absolutely necessary to prevent the therapist from being infected?",
+    options: [
+      { id: "A", text: "The therapist must wear a gown." },
+      { id: "B", text: "The therapist must wear a mask." },
+      { id: "C", text: "The therapist must wear gloves." },
+      { id: "D", text: "There is no need for any personal protective equipment." }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "The therapist does not need to wear a gown, gloves, or mask. These precautions are necessary only if there is a chance that the therapist and his or her clothing can become contaminated with blood, serum, or feces.",
+    rationalesForIncorrectOptions: {
+      "A": "A gown is not necessary as there is no anticipated contact with blood or bodily fluids.",
+      "B": "A mask is not necessary as Hepatitis B is not transmitted via the airborne or droplet route.",
+      "C": "Gloves are not necessary as there are no open wounds and no direct contact with bodily fluids is anticipated."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["infection control", "hepatitis b", "universal precautions", "ppe", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q41",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q42",
+    question: "A contraindicated activity for a child with osteogenesis imperfecta would be",
+    options: [
+      { id: "A", text: "Spontaneous active extremity movement" },
+      { id: "B", text: "Pull-to-sit maneuver" },
+      { id: "C", text: "Prone scooter activity" },
+      { id: "D", text: "Light weights attached close to joints" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "A pull-to-sit maneuver would put undue stress on the cervical spine and may result in damage to the spinal cord. Children with osteogenesis imperfecta have fragile bones and this maneuver could cause a fracture.",
+    rationalesForIncorrectOptions: {
+      "A": "Spontaneous active movement is encouraged within the child's abilities.",
+      "C": "Prone scooter activity can be a safe way to encourage mobility and strengthening.",
+      "D": "Light weights, when applied carefully and appropriately, can be used for strengthening."
+    },
+    subject: "Paediatrics",
+    tags: ["osteogenesis imperfecta", "contraindication", "safety", "pediatrics", "brittle bone disease"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q42",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q43",
+    question: "The best recommendation for strength training in prepubescent children is",
+    options: [
+      { id: "A", text: "No strength training programs recommended" },
+      { id: "B", text: "Strength training programs should be the same as adolescents" },
+      { id: "C", text: "Strength training should be done only for the lower extremities" },
+      { id: "D", text: "Strength training should be closely monitored, correctly taught, and involve low load/high repetition tasks" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Strength training in this group should be closely monitored because of skeletal immaturity. Proper technique should be taught and reinforced.",
+    rationalesForIncorrectOptions: {
+      "A": "Strength training is safe and beneficial for children when designed and supervised appropriately.",
+      "B": "Children are not miniature adults; their programs must be tailored to their developmental stage and should not be the same as for adolescents.",
+      "C": "Strength training can and should involve the entire body, not just the lower extremities."
+    },
+    subject: "Paediatrics",
+    tags: ["strength training", "pediatrics", "exercise prescription", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q43",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q44",
+    question: "You are working with a 2-year-old child who has a tumor in the posterior fossa. Which intervention is most likely contraindicated?",
+    options: [
+      { id: "A", text: "Facilitated active range of motion" },
+      { id: "B", text: "Gentle anterior-posterior glides in the upper cervical region" },
+      { id: "C", text: "Home positioning program" },
+      { id: "D", text: "Upper trapezius strengthening" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "With an ongoing tumor in this area, any passive ROM or mobilization is contraindicated.",
+    rationalesForIncorrectOptions: {
+      "A": "Active range of motion within the child's tolerance is generally safe.",
+      "C": "A home positioning program is an important part of management.",
+      "D": "Strengthening exercises that do not put direct stress on the tumor site would be appropriate."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["pediatrics", "cancer", "posterior fossa tumor", "contraindication", "manual therapy"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q44",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q45",
+    question: "A patient with an acute infection is admitted to the hospital. A chart review shows that the patient currently has a body temperature of 102.5° F. The physician has ordered for therapy to begin to intervention with this patient immediately. What is the most appropriate course of action by the physical therapist?",
+    options: [
+      { id: "A", text: "Begin examination of the patient." },
+      { id: "B", text: "Begin intervention with ROM first." },
+      { id: "C", text: "Begin intervention with ambulation first." },
+      { id: "D", text: "Contact the physician as an acute infection is a contraindication to exercise." }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Exercise during acute infections can affect performance and may make the current condition worse. It could also compromise the cardiovascular and immune systems and exacerbate dehydration.",
+    rationalesForIncorrectOptions: {
+      "A": "While a brief examination might be possible, initiating an intervention is contraindicated.",
+      "B": "Initiating ROM exercises is contraindicated with an active systemic infection and fever.",
+      "C": "Initiating ambulation is contraindicated with an active systemic infection and fever."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["infection", "fever", "contraindication", "exercise", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q45",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q46",
+    question: "During documentation after an intervention a mistake is made in the note. Which of the below is NOT an appropriate step to make in correcting the mistake?",
+    options: [
+      { id: "A", text: "Strike one line through the error so that it is still legible." },
+      { id: "B", text: "Write your initials in the margin near the mistake." },
+      { id: "C", text: "Write “mistaken entry” or “error” near the mistake." },
+      { id: "D", text: "Use liquid correction fluid or an eraser over the mistake." }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Choices A, B, and C should all be performed each time a documentation error is made. One should never use erasers or liquid correction.",
+    rationalesForIncorrectOptions: {
+      "A": "This is the correct procedure for indicating an error while maintaining legibility of the original entry.",
+      "B": "Initialing the change is required to identify who made the correction.",
+      "C": "Noting that the entry is a mistake is part of the proper correction procedure."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["documentation", "record keeping", "error correction", "legal"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q46",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q47",
+    question: "A physical therapist has determined that hamstring stretching should be incorporated in the intervention of 75-year-old female with complaints of low back pain. Which of the following conditions is a contraindication to stretching the hamstring muscle group?",
+    options: [
+      { id: "A", text: "Soreness lasting approximately 2 to 3 hours after therapy" },
+      { id: "B", text: "Hemophilia" },
+      { id: "C", text: "Patient’s age" },
+      { id: "D", text: "Minimal complaints of pain in the lumbar area" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Although soreness lasting 24 hours or more is a concern, and care should be taken because of the age of the patient, it is not a contraindication to stretching. Excessive complaints of pain should be a contraindication. Hemophiliacs should not be stretched in any joint because of the possibility of effusion.",
+    rationalesForIncorrectOptions: {
+      "A": "Mild, short-lasting soreness is a normal response to stretching.",
+      "C": "Age itself is a precaution, requiring gentle technique, but it is not a contraindication.",
+      "D": "Minimal LBP is the reason for treatment and not a contraindication to treating an adjacent area."
+    },
+    subject: "Musculoskeletal",
+    tags: ["stretching", "contraindication", "hemophilia", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q47",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q48",
+    question: "A physical therapist is about to begin intervention of a patient with recent total hip replacement using an anterior approach. Which of the following conditions are contraindications of the hip during early rehabilitation?",
+    options: [
+      { id: "A", text: "Hip flexion above 90 degrees" },
+      { id: "B", text: "Hip hyperextension" },
+      { id: "C", text: "Hip adduction past neutral" },
+      { id: "D", text: "Hip internal rotation" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Hyperextension is contraindicated because of the anterior approach. This motion would put undue stress on the anterior portion of the hip capsule. Choices A, C, and D are all contraindications for the posterior approach.",
+    rationalesForIncorrectOptions: {
+      "A": "Hip flexion beyond 90 degrees is a precaution for a posterior approach.",
+      "C": "Hip adduction past neutral is a precaution for a posterior approach.",
+      "D": "Hip internal rotation is a precaution for a posterior approach."
+    },
+    subject: "Musculoskeletal",
+    tags: ["total hip replacement", "thr", "hip precautions", "anterior approach", "contraindication"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q48",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q49",
+    question: "Which of the following conditions would be a contraindication to performing manual lymphatic drainage techniques over the abdomen?",
+    options: [
+      { id: "A", text: "Menstrual period" },
+      { id: "B", text: "Undiagnosed abdominal pain" },
+      { id: "C", text: "Crohn’s disease" },
+      { id: "D", text: "Diverticulitis" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "A menstrual cycle is a concern, but not a direct contraindication. The other conditions involve the digestive tract, and could be worsened with any manual therapy technique.",
+    rationalesForIncorrectOptions: {
+      "B": "Undiagnosed pain is a significant red flag and contraindication to any manual therapy in that region.",
+      "C": "Crohn's disease is an inflammatory bowel disease, and manual pressure could exacerbate the condition.",
+      "D": "Diverticulitis is inflammation of pouches in the digestive tract, and manual pressure is contraindicated."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["manual lymphatic drainage", "mld", "contraindication", "abdomen"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q49",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q50",
+    question: "Which of the following is proper placement of a catheter bag?",
+    options: [
+      { id: "A", text: "In the patient’s lap while in a wheelchair" },
+      { id: "B", text: "On the patient’s stomach while in a supine position on a hospital bed" },
+      { id: "C", text: "Hooked onto the therapist’s pocket during ambulation" },
+      { id: "D", text: "Below the waist of the patient" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "The catheter bag should always be below the level of the waist. This will keep urine in the catheter line from moving back to the patient and can lead to infection, which can result if urine is allowed to reenter the urinary tract.",
+    rationalesForIncorrectOptions: {
+      "A": "Placing the bag in the lap is above the level of the bladder, risking backflow.",
+      "B": "Placing the bag on the stomach is above the level of the bladder, risking backflow.",
+      "C": "Hooking the bag on the therapist's pocket is not secure and does not guarantee it will remain below the bladder level."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["catheter", "safety", "infection control", "positioning"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q50",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q51",
+    question: "The physical therapist is beginning a program of functional electrical stimulation (FES) for a patient with T4 paraplegia in order to promote cardiovascular fitness. At what systolic blood pressure should the exercise be terminated?",
+    options: [
+      { id: "A", text: "140 mm Hg" },
+      { id: "B", text: "160 mm Hg" },
+      { id: "C", text: "180 mm Hg" },
+      { id: "D", text: "220 mm Hg" }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "Exercise should be terminated when systolic blood pressure is 180 mm Hg or above because of the risk of autonomic dysreflexia. Systolic blood pressure should be between 180 mm Hg and 80 mm Hg, diastolic between 120 mm Hg and 50 mm Hg, and heart rate between 160 beats/min and 50 beats/min.",
+    rationalesForIncorrectOptions: {
+      "A": "140 mm Hg is a normal to moderately elevated systolic pressure and not a termination criterion.",
+      "B": "160 mm Hg is elevated but still within a range that may be acceptable during exercise for some individuals; 180 mm Hg is a more standard cut-off indicating a potentially dangerous hypertensive response.",
+      "D": "220 mm Hg is severely hypertensive and exercise should have been stopped long before this point."
+    },
+    subject: "Neurology",
+    tags: ["fes", "spinal cord injury", "autonomic dysreflexia", "blood pressure", "contraindication", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q51",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q52",
+    question: "A physical therapist decides to use cervical traction for a patient with complaints of cervical pain. Which of the following conditions is a contraindication for cervical traction?",
+    options: [
+      { id: "A", text: "Hyperthyroidism" },
+      { id: "B", text: "Hypertension" },
+      { id: "C", text: "Diabetes" },
+      { id: "D", text: "Down’s syndrome" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Studies have shown that 15% percent of individuals with Down’s syndrome have atlantoaxial (C1-C2) instability. Instability in that region is a contraindication to cervical traction.",
+    rationalesForIncorrectOptions: {
+      "A": "Hyperthyroidism is not a contraindication to cervical traction.",
+      "B": "Hypertension is a precaution, not an absolute contraindication, but blood pressure should be monitored.",
+      "C": "Diabetes is not a contraindication to cervical traction."
+    },
+    subject: "Musculoskeletal",
+    tags: ["cervical traction", "contraindication", "downs syndrome", "atlantoaxial instability", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q52",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q53",
+    question: "Which of the following positions should be avoided in postpartum patients?",
+    options: [
+      { id: "A", text: "Left side-lying" },
+      { id: "B", text: "Right side-lying" },
+      { id: "C", text: "Supine with a pillow under the knees" },
+      { id: "D", text: "Prone with the knees pulled to the chest" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "The uterus moves superiorly in this position. This can cause an air embolism to enter the vagina and uterus. Eventually the embolism could enter the circulatory system through the placental wound.",
+    rationalesForIncorrectOptions: {
+      "A": "Side-lying is a safe and common position for postpartum patients.",
+      "B": "Side-lying is a safe and common position for postpartum patients.",
+      "C": "Supine with a pillow under the knees is a comfortable and safe position."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["postpartum", "positioning", "contraindication", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q53",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q54",
+    question: "When disrobing and draping a patient to prepare for intervention, which of the following is the most important advice?",
+    options: [
+      { id: "A", text: "Avoid wrinkles in the draping garment." },
+      { id: "B", text: "Do not use the patient’s clothing for draping." },
+      { id: "C", text: "Obtain the patient’s consent before disrobing him or her." },
+      { id: "D", text: "Ask for appropriate assistance in situations where the gender of the patient could be concern." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "All of the above are good advice that needs to be followed, but consent to disrobe is the first and most important choice. Wrinkles can cause areas of pressure, and the patient’s clothing could be soiled. Gender situations could obviously be a cause for concern.",
+    rationalesForIncorrectOptions: {
+      "A": "Avoiding wrinkles is good practice to prevent pressure points, but obtaining consent is the primary ethical requirement.",
+      "B": "Using a proper drape instead of the patient's clothing is professional practice, but it follows after consent is obtained.",
+      "D": "Asking for assistance or a chaperone is important if there are gender or other concerns, but this is part of the consent and communication process."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["draping", "consent", "professionalism", "patient dignity"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q54",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q55",
+    question: "At which stage of scar tissue formation can maximal load be placed on the scar tissue without risk of failure?",
+    options: [
+      { id: "A", text: "Inflammatory phase" },
+      { id: "B", text: "Granulation phase" },
+      { id: "C", text: "Fibroplastic phase" },
+      { id: "D", text: "Maturation phase" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "The order of scar tissue formation consists of the following: inflammatory phase, granulation phase, fibroplastic phase, and maturation phase.",
+    rationalesForIncorrectOptions: {
+      "A": "The inflammatory phase is the initial phase where the tissue is weakest.",
+      "B": "The granulation phase involves new tissue formation but it is still fragile.",
+      "C": "The fibroplastic phase involves collagen deposition, but the tissue has not yet reached its maximal tensile strength."
+    },
+    subject: "Musculoskeletal",
+    tags: ["wound healing", "scar tissue", "maturation phase", "tissue loading"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q55",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q56",
+    question: "What motions should not be stretched early in rehabilitation after an open rotator cuff repair?",
+    options: [
+      { id: "A", text: "Horizontal abduction, extension, and internal rotation" },
+      { id: "B", text: "Horizontal adduction, extension, and internal rotation" },
+      { id: "C", text: "Horizontal abduction, flexion, and internal rotation" },
+      { id: "D", text: "Horizontal abduction, extension, and external rotation" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Horizontal adduction, extension, and internal rotation would stretch the tissues that are early in the healing process. Care must be taken not to damage these structures in the anterior capsule.",
+    rationalesForIncorrectOptions: {
+      "A": "This combination includes internal rotation which would stretch some repaired posterior structures.",
+      "C": "This combination includes internal rotation which would stretch some repaired posterior structures.",
+      "D": "This combination of movements places stress on the anterior capsule, which is often involved in rotator cuff repairs."
+    },
+    subject: "Musculoskeletal",
+    tags: ["rotator cuff repair", "rehabilitation", "stretching", "contraindication", "protocol"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q56",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q57",
+    question: "A young patient just starting antidepressant medication is telling you that “life is not worth living.” You should tell the patient not to worry since this is",
+    options: [
+      { id: "A", text: "experienced by most patients at the beginning of drug therapy" },
+      { id: "B", text: "only a transient reaction to the medication and of no consequence" },
+      { id: "C", text: "a good sign because the medication has a period of up to 4 weeks before it can take effect" },
+      { id: "D", text: "passing but inform the psychiatrist immediately about your conversation" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Antidepressants work slowly (it takes about 4 weeks before antidepressant effects become apparent) but can somewhat “energize” patients early on in drug therapy so that they are more likely to commit suicide. Such suicidal ideas must be mentioned to the treating psychiatrist as soon as possible.",
+    rationalesForIncorrectOptions: {
+      "A": "While side effects can occur, suicidal ideation is a serious adverse event that must be acted upon, not dismissed as common.",
+      "B": "This is a serious and consequential statement that cannot be dismissed.",
+      "C": "Suicidal ideation is a serious red flag, not a 'good sign'."
+    },
+    subject: "Ethics & Professionalism",
+    tags: ["suicidal ideation", "red flag", "safety", "antidepressants", "mandatory reporting", "communication"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q57",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q58",
+    question: "A patient who just returned from abroad is being treated for a worm infection. What precautions do you have to take?",
+    options: [
+      { id: "A", text: "Reschedule appointment until the patient has stopped taking the worm medication." },
+      { id: "B", text: "Wear a mask and change work cloth after therapy." },
+      { id: "C", text: "Disinfect toilet after the patient has used it." },
+      { id: "D", text: "Do not take special precautions because the drug kills the worms and the eggs." }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "Antihelminthics kill the worms but do not kill the eggs, which can leave the patient and be passed on to others. Disinfection of the toilet and always informing the individual to wash hands thoroughly is recommended.",
+    rationalesForIncorrectOptions: {
+      "A": "There is no need to reschedule if proper hygiene precautions are taken.",
+      "B": "A mask is not necessary as worm infections are typically not spread via respiratory droplets.",
+      "D": "This is incorrect; the medication may not kill the eggs, which can still be transmissible."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["infection control", "hygiene", "precautions", "parasites"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q58",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q59",
+    question: "Your patient is on antipsychotic drug therapy. During your therapy session you notice a number of adverse reactions. The most severe one requiring immediate attention by a physician is",
+    options: [
+      { id: "A", text: "Increased body temperature with some muscle rigidity" },
+      { id: "B", text: "Dizziness with almost fainting when getting up quickly" },
+      { id: "C", text: "A sudden but short-lasting tachycardia" },
+      { id: "D", text: "Appearance of a yellow skin and eyes" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "This could be the beginning of a malignant hyperthermia, which requires immediate drug treatment since it could be fatal. The other signs and symptoms are of importance but do not require immediate attention.",
+    rationalesForIncorrectOptions: {
+      "B": "This describes orthostatic hypotension, a common side effect but not typically a medical emergency.",
+      "C": "This could be a transient side effect and is less concerning than malignant hyperthermia.",
+      "D": "This suggests jaundice and liver problems, which are serious but develop more slowly than malignant hyperthermia."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["antipsychotics", "adverse drug reaction", "malignant hyperthermia", "red flag", "medical emergency"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q59",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q60",
+    question: "A patient on clopidogrel therapy is at increased risk of experiencing",
+    options: [
+      { id: "A", text: "Internal bleeding episodes" },
+      { id: "B", text: "Sudden fainting spells" },
+      { id: "C", text: "Orthostatic hypotension" },
+      { id: "D", text: "Intermittent tachycardia" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "Clopidogrel (Plavix) is an antiplatelet agent that inhibits platelet aggregation and can lead to bleeding episodes while the other reactions are unlikely.",
+    rationalesForIncorrectOptions: {
+      "B": "Fainting is not a primary side effect, although it could occur secondary to significant blood loss.",
+      "C": "Orthostatic hypotension is not a typical side effect of clopidogrel.",
+      "D": "Tachycardia is not a typical side effect."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["clopidogrel", "plavix", "antiplatelet", "bleeding", "adverse drug reaction"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q60",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q61",
+    question: "Smoking involves the inhalation of many compounds that can cause all of the following health problems except",
+    options: [
+      { id: "A", text: "Korsakoff-Wernicke syndrome" },
+      { id: "B", text: "Emphysema" },
+      { id: "C", text: "Bladder cancer" },
+      { id: "D", text: "Hypertension" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "Nicotine can cause increases in blood pressure and gastritis; tar can cause cancers and emphysema; and CO interferes with oxygen transport in the blood, but alcohol abuse can cause the Korsakoff-Wernicke syndrome (psychosis, memory losses).",
+    rationalesForIncorrectOptions: {
+      "B": "Smoking is the primary cause of emphysema.",
+      "C": "Smoking is a major risk factor for bladder cancer.",
+      "D": "Nicotine in cigarettes causes vasoconstriction and increases blood pressure, contributing to hypertension."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["smoking", "risk factors", "korsakoff", "emphysema", "hypertension"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q61",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q62",
+    question: "A patient receiving drug therapy experiences a slight fever and sore throat with mouth ulcerations. The physician has to be notified since this could present a/an",
+    options: [
+      { id: "A", text: "Agranulocytosis" },
+      { id: "B", text: "Thrombotic thrombocytic purpura" },
+      { id: "C", text: "Exfoliate dermatitis" },
+      { id: "D", text: "Churg Strauss syndrome" }
+    ],
+    correctAnswerId: "A",
+    rationaleForCorrectAnswer: "Agranulocytosis manifests itself with a slight fever and a sore throat possibly with ulcerations caused by a deficiency of granulocytes. Thrombotic thrombocytic purpura exhibits bizarre behavior, hemolytic anemia (dark urine) and jaundice (yellowing of eyes and skin) caused by microthrombi. Exfoliate dermatitis is characterized by redness, scaling, and shedding of the skin. Churg-Strauss syndrome is manifested by rashes and nodules under the skin, later on damaging internal organs caused by vasculitis.",
+    rationalesForIncorrectOptions: {
+      "B": "This condition has different primary symptoms related to clotting and red blood cell destruction.",
+      "C": "Exfoliative dermatitis involves widespread skin peeling, not primarily mouth ulcers and fever.",
+      "D": "This is a form of vasculitis with a different clinical presentation."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["agranulocytosis", "adverse drug reaction", "red flag", "fever", "sore throat"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q62",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q63",
+    question: "A patient receiving drug therapy experiences a cough, fever, and rash across the face spreading to the body. The physician has to be notified since this could present a",
+    options: [
+      { id: "A", text: "Phototoxic reaction" },
+      { id: "B", text: "Epidermal necrosis" },
+      { id: "C", text: "Stevens-Johnson syndrome" },
+      { id: "D", text: "Lupus syndrome" }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "Stevens-Johnson syndrome starts with a nonspecific upper respiratory infection, cough, aching, headaches, feverishness followed by a red rash across the face and the trunk of the body spreading later to other parts. Finally the top layer of the skin or epidermis starts to peel off. Epidermal necrolysis manifests itself with fever followed by a rash, redness, blisters, pain and the peeling of the skin from the underlying dermis. Lupus syndrome manifests itself as an inflammation of the joints, mostly fingers, hands and wrists, caused by an autoimmune reaction.",
+    rationalesForIncorrectOptions: {
+      "A": "A phototoxic reaction is a sun-induced rash and does not typically present with these systemic flu-like symptoms.",
+      "B": "Epidermal necrosis is a feature of SJS, but SJS is the specific syndromic diagnosis.",
+      "D": "Drug-induced lupus typically presents with joint and muscle pain, fatigue, and fever, but the characteristic peeling rash is less common."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["stevens-johnson syndrome", "sjs", "adverse drug reaction", "red flag", "dermatology"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q63",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q64",
+    question: "A 78-year-old patient with COPD uses oxygen at all times. At rest, the pulse oximeter reads 91%. During a walk with the physical therapist, the pulse oximeter indicates the O2 saturation has dropped to 85%. What is the MOST appropriate immediate action by the therapist?",
+    options: [
+      { id: "A", text: "Continue walking but at a slower pace." },
+      { id: "B", text: "Have the patient sit down and rest, monitor O2 saturation and symptoms." },
+      { id: "C", text: "Increase the patient's oxygen flow rate by 2 L/min." },
+      { id: "D", text: "Immediately call for emergency medical assistance." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "A drop in O2 saturation to 85% during activity for a patient with COPD on continuous oxygen is significant and indicates hypoxemia. The most appropriate immediate action is to stop the activity, have the patient sit and rest to reduce oxygen demand, and closely monitor their saturation and symptoms. Further action (e.g., notifying nursing/physician, adjusting O2 if per protocol) would follow based on their response to rest.",
+    rationalesForIncorrectOptions: {
+      "A": "Continuing to walk, even at a slower pace, would maintain an increased oxygen demand and could worsen hypoxemia.",
+      "C": "While increasing oxygen might be necessary, it's generally outside the PT's scope to adjust oxygen flow rates independently without a physician's order or specific protocol. The first step is to reduce demand.",
+      "D": "While 85% is low, immediately calling EMS before allowing the patient to rest and recover might be premature unless symptoms are severe or saturation does not improve with rest. Monitoring and then escalating care if needed is appropriate."
+    },
+    subject: "Cardiorespiratory",
+    tags: ["copd", "oxygen saturation", "hypoxemia", "exercise", "safety", "pulse oximetry"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q64",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q65",
+    question: "What is the primary purpose of conducting a literature review for evidence-based practice?",
+    options: [
+        {id: "A", text: "To find support for the therapist's preferred treatment approach."},
+        {id: "B", text: "To identify the most current and highest-quality evidence to inform clinical decision-making."},
+        {id: "C", text: "To fulfill continuing education requirements for licensure."},
+        {id: "D", text: "To gather a comprehensive list of all articles ever published on a topic."}
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Evidence-based practice involves integrating the best available research evidence with clinical expertise and patient values. A literature review is crucial for identifying, appraising, and applying the most current and methodologically sound research to guide clinical decisions.",
+    rationalesForIncorrectOptions: {
+        "A": "This represents confirmation bias and is contrary to the principles of EBP, which seeks objective evidence.",
+        "C": "While reading literature can contribute to learning, the primary purpose of a review for EBP is clinical decision-making, not just fulfilling CEU credits.",
+        "D": "The goal is to find the *best available* evidence, not necessarily *all* evidence. This involves critically appraising and selecting high-quality studies."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["evidence-based practice", "literature review", "research", "clinical decision making"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q65", // Placeholder source
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q66",
+    question: "In research, what does 'internal validity' refer to?",
+    options: [
+        {id: "A", text: "The extent to which the results of a study can be generalized to other populations or settings."},
+        {id: "B", text: "The consistency and repeatability of measurements within a study."},
+        {id: "C", text: "The degree to which the observed effects in a study are due to the independent variable and not confounding factors."},
+        {id: "D", text: "The practical significance or clinical meaningfulness of the study findings."}
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "Internal validity is concerned with the integrity of the study's design and execution, specifically whether the changes in the dependent variable can be confidently attributed to the manipulation of the independent variable, rather than to extraneous or confounding variables.",
+    rationalesForIncorrectOptions: {
+        "A": "This describes external validity or generalizability.",
+        "B": "This describes reliability.",
+        "D": "This relates to clinical significance or effect size, which is different from internal validity."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["research methodology", "internal validity", "study design", "confounding factors"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q66", // Placeholder source
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q67",
+    question: "A physiotherapist is reading a research article that reports a p-value of < 0.01 for the primary outcome. What does this p-value indicate?",
+    options: [
+        {id: "A", text: "There is a less than 1% chance that the null hypothesis is true."},
+        {id: "B", text: "The effect size of the intervention is very large."},
+        {id: "C", text: "There is a less than 1% probability that the observed results occurred due to chance if the null hypothesis were true."},
+        {id: "D", text: "The study has high statistical power to detect a difference."}
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "The p-value represents the probability of observing the data (or more extreme data) if the null hypothesis (e.g., no difference between groups) is actually true. A p-value < 0.01 means there's a very small probability (less than 1%) that the observed difference happened by random chance alone, assuming no real effect exists.",
+    rationalesForIncorrectOptions: {
+        "A": "The p-value does not directly state the probability of the null hypothesis being true or false; it's about the probability of the data given the null hypothesis.",
+        "B": "A small p-value indicates statistical significance but does not directly measure the effect size (magnitude of the difference). A statistically significant result can have a small effect size.",
+        "D": "Statistical power is the probability of detecting an effect if it truly exists. While related, the p-value is a result of the hypothesis test, not a direct measure of power itself."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["statistics", "p-value", "hypothesis testing", "statistical significance", "null hypothesis"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q67", // Placeholder source
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q68",
+    question: "Which of the following research designs is considered the gold standard for determining the effectiveness of an intervention?",
+    options: [
+        {id: "A", text: "Case series"},
+        {id: "B", text: "Cohort study"},
+        {id: "C", text: "Randomized Controlled Trial (RCT)"},
+        {id: "D", text: "Cross-sectional study"}
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "Randomized Controlled Trials (RCTs) are considered the gold standard for evaluating intervention effectiveness because randomization helps minimize bias by distributing known and unknown confounding factors evenly between groups. The control group allows for comparison against the intervention.",
+    rationalesForIncorrectOptions: {
+        "A": "Case series are descriptive studies and cannot establish causality or effectiveness due to lack of a control group and potential for bias.",
+        "B": "Cohort studies are observational and can identify associations, but are more prone to confounding than RCTs for determining intervention effectiveness.",
+        "D": "Cross-sectional studies assess exposure and outcome at a single point in time and are not suitable for determining intervention effectiveness."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["research design", "rct", "randomized controlled trial", "levels of evidence", "intervention effectiveness"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q68", // Placeholder source
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q69",
+    question: "A physiotherapist is reviewing a study that reports a 95% Confidence Interval (CI) for the mean difference in pain scores between an intervention group and a control group as -2.5 to -0.5 points (on a 10-point scale). What is the most appropriate interpretation of this CI?",
+    options: [
+        {id: "A", text: "There is a 95% probability that the true mean difference lies between -2.5 and -0.5 points."},
+        {id: "B", text: "If the study were repeated many times, 95% of the calculated CIs would contain the true mean difference."},
+        {id: "C", text: "The intervention is definitely effective because the CI does not include zero."},
+        {id: "D", text: "The p-value for this comparison must be greater than 0.05."}
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "The frequentist interpretation of a 95% CI is that if the same study were conducted multiple times, 95% of the confidence intervals generated would capture the true, unknown population parameter (in this case, the true mean difference). Option A is a common misinterpretation (Bayesian interpretation).",
+    rationalesForIncorrectOptions: {
+        "A": "This is a common misinterpretation. The CI itself is fixed once calculated; it either contains the true value or it doesn't. The 95% refers to the long-run performance of the method used to construct the interval.",
+        "C": "While a CI not including zero suggests statistical significance (at the corresponding alpha level, e.g., 0.05 for a 95% CI), it doesn't mean the intervention is 'definitely' effective. It implies the observed difference is unlikely due to chance. Clinical significance also needs to be considered.",
+        "D": "If the 95% CI for a difference does not include zero, it implies that the p-value is less than 0.05 (assuming a two-tailed test), not greater."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["statistics", "confidence interval", "ci", "interpretation", "research methodology"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q69", // Placeholder source
+    originalRationaleExists: true
+  },
+   {
+    id: "saunders_ch6_q70",
+    question: "Which of the following represents the highest level of evidence in the traditional hierarchy of evidence for intervention studies?",
+    options: [
+      { id: "A", text: "Expert opinion" },
+      { id: "B", text: "Case-control study" },
+      { id: "C", text: "Systematic review of randomized controlled trials" },
+      { id: "D", text: "Single randomized controlled trial" }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "Systematic reviews of high-quality randomized controlled trials (RCTs), especially meta-analyses, are considered the highest level of evidence because they synthesize findings from multiple RCTs, providing a more robust and precise estimate of the intervention's effect.",
+    rationalesForIncorrectOptions: {
+      "A": "Expert opinion is at the bottom of the evidence hierarchy as it is subjective and not based on rigorous research.",
+      "B": "Case-control studies are observational and lower in the hierarchy than RCTs for intervention effectiveness.",
+      "D": "While a single RCT is strong evidence, a systematic review of multiple RCTs is generally considered stronger due to increased power and generalizability."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["levels of evidence", "systematic review", "rct", "meta-analysis", "evidence-based practice"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q70",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q71",
+    question: "A study aims to investigate the relationship between physical activity levels and the incidence of low back pain in office workers over a 5-year period. Participants are recruited at baseline, their physical activity is assessed, and they are followed annually to record new episodes of low back pain. This study design is best described as a:",
+    options: [
+      { id: "A", text: "Cross-sectional study" },
+      { id: "B", text: "Case-control study" },
+      { id: "C", text: "Prospective cohort study" },
+      { id: "D", text: "Randomized controlled trial" }
+    ],
+    correctAnswerId: "C",
+    rationaleForCorrectAnswer: "This describes a prospective cohort study. A cohort (office workers) is identified, exposure (physical activity levels) is assessed at baseline, and then the cohort is followed forward in time (prospectively) to observe the occurrence of the outcome (incidence of low back pain).",
+    rationalesForIncorrectOptions: {
+      "A": "A cross-sectional study assesses exposure and outcome at a single point in time, not over a follow-up period.",
+      "B": "A case-control study starts by identifying individuals with the outcome (cases) and without the outcome (controls) and then looks back in time (retrospectively) to assess exposure.",
+      "D": "A randomized controlled trial involves an intervention assigned by the researcher, which is not described here; this is an observational study."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["research design", "cohort study", "prospective study", "observational study", "epidemiology"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q71",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q72",
+    question: "When appraising a diagnostic accuracy study, sensitivity refers to:",
+    options: [
+      { id: "A", text: "The ability of a test to correctly identify individuals who do not have the condition." },
+      { id: "B", text: "The proportion of individuals with the condition who test positive." },
+      { id: "C", text: "The probability that an individual with a positive test actually has the condition." },
+      { id: "D", text: "The consistency of the test results when repeated under the same conditions." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Sensitivity (also known as the true positive rate) measures the proportion of individuals who actually have the disease/condition that are correctly identified as having it by the diagnostic test. A highly sensitive test has few false negatives (SnNOut - a highly Sensitive test, when Negative, rules OUT the condition).",
+    rationalesForIncorrectOptions: {
+      "A": "This describes specificity (true negative rate).",
+      "C": "This describes the positive predictive value (PPV).",
+      "D": "This describes reliability."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["diagnostic accuracy", "sensitivity", "specificity", "true positive", "statistics"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q72",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q73",
+    question: "In statistics, what does a Type I error (alpha error) represent?",
+    options: [
+      { id: "A", text: "Failing to reject a false null hypothesis (false negative)." },
+      { id: "B", text: "Rejecting a true null hypothesis (false positive)." },
+      { id: "C", text: "The probability of correctly rejecting a false null hypothesis." },
+      { id: "D", text: "An error in data collection leading to biased results." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "A Type I error occurs when a statistical test incorrectly rejects a null hypothesis that is actually true. In other words, the study concludes there is an effect or difference when, in reality, no such effect or difference exists in the population (a false positive finding). The probability of making a Type I error is denoted by alpha (α), often set at 0.05.",
+    rationalesForIncorrectOptions: {
+      "A": "This describes a Type II error (beta error).",
+      "C": "This describes statistical power (1 - β).",
+      "D": "While data collection errors can lead to bias, a Type I error is specifically related to the decision made in hypothesis testing."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["statistics", "type i error", "alpha error", "false positive", "hypothesis testing"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q73",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q74",
+    question: "A physiotherapist wants to compare the effectiveness of two different exercise programs (Program A and Program B) for improving shoulder function in patients with rotator cuff tendinopathy. Patients are randomly assigned to either Program A or Program B. Shoulder function is measured at baseline and after 8 weeks. What is the most appropriate statistical test to compare the change in shoulder function between the two groups?",
+    options: [
+      { id: "A", text: "Paired t-test" },
+      { id: "B", text: "Independent samples t-test" },
+      { id: "C", text: "Chi-square test" },
+      { id: "D", text: "ANOVA (Analysis of Variance)" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "An independent samples t-test is used to compare the means of two independent groups on a continuous outcome variable. In this scenario, the two groups (Program A and Program B) are independent because patients are randomly assigned to one or the other. The outcome is the change in shoulder function (a continuous measure). While ANOVA could also be used for two groups, an independent t-test is more direct.",
+    rationalesForIncorrectOptions: {
+      "A": "A paired t-test is used to compare means from the same group at two different time points (e.g., pre-test vs. post-test for one group), or for matched pairs. It's not for comparing two independent groups.",
+      "C": "A Chi-square test is used to compare proportions or frequencies of categorical data, not continuous outcomes like shoulder function scores.",
+      "D": "ANOVA is used to compare the means of three or more groups, or for more complex designs. While a one-way ANOVA could handle two groups, the independent t-test is the more specific test for this scenario. If the question involved comparing change scores (post-pre for each person) between the two groups, then an independent t-test on these change scores would be appropriate."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["statistics", "t-test", "independent samples t-test", "hypothesis testing", "research design"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q74",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q75",
+    question: "What is 'selection bias' in research?",
+    options: [
+      { id: "A", text: "Bias introduced when participants selectively recall past exposures differently based on their outcome status." },
+      { id: "B", text: "Systematic differences between baseline characteristics of the groups that are compared." },
+      { id: "C", text: "Bias that occurs when the measurement of an outcome is influenced by knowledge of the participant's exposure status." },
+      { id: "D", text: "The tendency for studies with statistically significant results to be more likely published than those with non-significant results." }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "Selection bias occurs when the procedures used to select study participants or assign them to groups result in systematic differences between the groups at the outset of the study. These differences can confound the study's results, making it difficult to determine if observed effects are due to the intervention or pre-existing group differences.",
+    rationalesForIncorrectOptions: {
+      "A": "This describes recall bias, a type of information bias.",
+      "C": "This describes detection bias or ascertainment bias, a type of information bias.",
+      "D": "This describes publication bias."
+    },
+    subject: "Research & Evidence-Based Practice",
+    tags: ["research methodology", "bias", "selection bias", "confounding", "study design"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q75",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q76",
+    question: "A physical therapist is treating a 68-year-old female who sustained a Colles' fracture 8 weeks ago. The patient now presents with severe pain in the hand, swelling, trophic skin changes (shiny, thin skin), and significant sensitivity to touch. These signs are MOST indicative of:",
+    options: [
+      { id: "A", text: "Carpal tunnel syndrome" },
+      { id: "B", text: "Complex Regional Pain Syndrome (CRPS)" },
+      { id: "C", text: "Delayed union of the fracture" },
+      { id: "D", text: "De Quervain's tenosynovitis" }
+    ],
+    correctAnswerId: "B",
+    rationaleForCorrectAnswer: "The constellation of symptoms including severe pain disproportionate to the initial injury, swelling, trophic changes (shiny skin, hair loss/growth changes, nail changes), and allodynia (pain from non-painful stimuli) or hyperalgesia following a fracture is highly characteristic of Complex Regional Pain Syndrome (CRPS), formerly known as Reflex Sympathetic Dystrophy (RSD).",
+    rationalesForIncorrectOptions: {
+      "A": "Carpal tunnel syndrome typically involves pain, numbness, and tingling in the median nerve distribution, not usually the severe widespread pain, swelling, and trophic changes described.",
+      "C": "Delayed union might cause localized pain and tenderness at the fracture site but wouldn't typically cause the widespread autonomic and trophic changes seen in CRPS.",
+      "D": "De Quervain's tenosynovitis involves pain and tenderness at the radial styloid process, related to the abductor pollicis longus and extensor pollicis brevis tendons, and does not fit this widespread presentation."
+    },
+    subject: "Musculoskeletal",
+    tags: ["crps", "complex regional pain syndrome", "colles fracture", "pain", "swelling", "trophic changes"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q76",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q77",
+    question: "Which of the following is considered an absolute contraindication for the use of therapeutic ultrasound?",
+    options: [
+      { id: "A", text: "Over an area of acute inflammation" },
+      { id: "B", text: "Over a metal implant" },
+      { id: "C", text: "Over the epiphyseal plates in children" },
+      { id: "D", text: "Over a known or suspected malignancy" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Applying therapeutic ultrasound over a known or suspected malignancy is an absolute contraindication because the increased cellular activity and blood flow stimulated by ultrasound could potentially promote tumor growth or metastasis. This is a widely accepted contraindication in physical therapy practice.",
+    rationalesForIncorrectOptions: {
+      "A": "Over acute inflammation is generally a precaution, and pulsed ultrasound is often used in such cases. Continuous ultrasound might be contraindicated or used with caution.",
+      "B": "Ultrasound over metal implants is generally considered safe as metal reflects ultrasound waves and does not heat up significantly like it might with diathermy. However, caution is advised around cemented implants or plastic components.",
+      "C": "Over epiphyseal plates in children is a strong precaution or relative contraindication, as high-intensity ultrasound could potentially affect bone growth. Low-intensity pulsed ultrasound is sometimes used with caution."
+    },
+    subject: "Other Systems (e.g., Integumentary, Amputation)",
+    tags: ["ultrasound", "modalities", "contraindication", "malignancy", "cancer", "safety"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q77",
+    originalRationaleExists: true
+  },
+  {
+    id: "saunders_ch6_q78",
+    question: "A patient recovering from a stroke exhibits right-sided hemiparesis and significant neglect of the right side. During a dressing task, the patient attempts to put both arms into the left sleeve of the shirt. This is MOST indicative of a deficit in:",
+    options: [
+      { id: "A", text: "Ideomotor apraxia" },
+      { id: "B", text: "Somatognosia" },
+      { id: "C", text: "Constructional apraxia" },
+      { id: "D", text: "Unilateral spatial neglect" }
+    ],
+    correctAnswerId: "D",
+    rationaleForCorrectAnswer: "Unilateral spatial neglect (also known as hemineglect or unilateral neglect) is a common consequence of right hemisphere strokes, leading to a failure to report, respond, or orient to stimuli presented to the side contralateral to the lesion (in this case, the right side). Attempting to put both arms into one sleeve, especially on the non-neglected side, while ignoring the affected side during a bilateral task like dressing, is a classic manifestation of neglect. The patient is not processing or attending to the right side of their body or the right side of the task space.",
+    rationalesForIncorrectOptions: {
+      "A": "Ideomotor apraxia is a difficulty in carrying out purposeful movements on command or imitation, despite intact motor function and understanding of the task. While possible, the specific error points more directly to neglect of the right arm/space.",
+      "B": "Somatognosia (or body schema agnosia) is an impairment in the awareness of body structure and the relationship of body parts to oneself or to others. While neglect can involve a disturbed body schema, the action described is more directly a failure to attend to one side of space/body during a task.",
+      "C": "Constructional apraxia is the inability to draw or construct simple two- or three-dimensional forms or figures. This is not directly demonstrated by the dressing error."
+    },
+    subject: "Neurology",
+    tags: ["stroke", "unilateral spatial neglect", "hemineglect", "dressing", "perception", "cva"],
+    isAiGenerated: false,
+    source: "Saunders Q&A, Ch. 6, Q78",
+    originalRationaleExists: true
+  },
+  
+];
