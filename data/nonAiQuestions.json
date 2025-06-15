@@ -21651,8 +21651,2005 @@
     "subject": "Neurology",
     "tags": ["spinal cord injury", "sci", "c6 tetraplegia", "functional outcomes", "adaptive driving", "pce-expertise"],
     "source": "Scorebuilders 4, Q100"
-  }
-
-  
-  
+  },
+  {
+    "id": "sb4_q101",
+    "question": "A physical therapist completing daily documentation at a charting station is asked by a nurse to transfer a patient recently admitted to the intensive care unit. The most appropriate method to confirm the patient's identity prior to completing the transfer is",
+    "options": [
+      { "id": "1", "text": "contact the attending physician" },
+      { "id": "2", "text": "check the patient's medical record" },
+      { "id": "3", "text": "ask the patient their name" },
+      { "id": "4", "text": "examine the patient's identification bracelet" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Using at least two patient identifiers is the standard for patient safety. The most reliable method is to check the patient's identification bracelet, which is applied at admission and is the primary source for confirming identity in a hospital setting, especially in the ICU where patients may be non-verbal or confused.",
+    "rationalesForIncorrectOptions": {
+      "1": "Contacting the physician is an indirect and inefficient method for patient identification.",
+      "2": "The medical record is not at the patient's bedside and is not used for primary identification.",
+      "3": "Asking the patient their name is one form of identification, but it is not reliable for a patient in the ICU who may be confused, sedated, or unable to speak."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["patient identification", "safety", "acute care", "icu", "risk management", "pce-management", "pce-professionalism"],
+    "source": "Scorebuilders 4, Q101"
+  },
+  {
+    "id": "sb4_q102",
+    "question": "A patient classifies the intensity of exercise as a 16 using Borg's (20-point) Rate of Perceived Exertion Scale. This classification best corresponds to",
+    "options": [
+      { "id": "1", "text": "40 percent of the maximum heart rate range" },
+      { "id": "2", "text": "55 percent of the maximum heart rate range" },
+      { "id": "3", "text": "70 percent of the maximum heart rate range" },
+      { "id": "4", "text": "85 percent of the maximum heart rate range" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "The Borg RPE scale (6-20 scale) correlates well with heart rate. A rating of 16 is classified as 'hard' to 'very hard' and typically corresponds to an exercise intensity of approximately 85% of the maximum heart rate.",
+    "rationalesForIncorrectOptions": {
+      "1": "40% of max HR would correspond to an RPE of around 11 (fairly light).",
+      "2": "55% of max HR would correspond to an RPE of around 12-13 (somewhat hard).",
+      "3": "70% of max HR would correspond to an RPE of around 14-15 (somewhat hard to hard)."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["rate of perceived exertion", "rpe", "borg scale", "exercise intensity", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q102"
+  },
+  {
+    "id": "sb4_q103",
+    "question": "A male patient rehabilitating from a lower extremity injury is referred to physical therapy for gait analysis. The physical therapist begins the session by observing the patient at free speed walking. The normal degree of toe-out at this speed is",
+    "options": [
+      { "id": "1", "text": "3 degrees" },
+      { "id": "2", "text": "7 degrees" },
+      { "id": "3", "text": "10 degrees" },
+      { "id": "4", "text": "12 degrees" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "A normal degree of toe-out, also known as the foot progression angle, during free speed walking in an adult is approximately 7 degrees. This angle is formed by the line of progression and a line bisecting the heel and second toe.",
+    "rationalesForIncorrectOptions": {
+      "1": "3 degrees is less than the typical average.",
+      "3": "10 degrees is slightly more than the average.",
+      "4": "12 degrees would be considered excessive toe-out."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["gait analysis", "gait parameters", "toe-out", "foot progression angle", "assessment", "normal values", "pce-expertise"],
+    "source": "Scorebuilders 4, Q103"
+  },
+  {
+    "id": "sb4_q104",
+    "question": "A physical therapist completes an upper quarter screening examination on a patient with a suspected cervical spine lesion. Which objective finding is not consistent with C5 involvement?",
+    "options": [
+      { "id": "1", "text": "muscle weakness in the supinator and wrist extensors" },
+      { "id": "2", "text": "diminished sensation in the deltoid area" },
+      { "id": "3", "text": "muscle weakness in the deltoid and biceps" },
+      { "id": "4", "text": "diminished biceps and brachioradialis reflex" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The supinator and wrist extensors are primarily innervated by the C6 nerve root. Therefore, weakness in these muscles would not be consistent with an isolated C5 lesion.",
+    "rationalesForIncorrectOptions": {
+      "2": "Diminished sensation over the deltoid area is consistent with the C5 dermatome.",
+      "3": "The deltoid and biceps are key muscles innervated by the C5 nerve root.",
+      "4": "The biceps and brachioradialis reflexes are both mediated by the C5 and C6 nerve roots, so a diminished reflex is consistent with C5 involvement."
+    },
+    "subject": "Neurology",
+    "tags": ["cervical radiculopathy", "c5 nerve root", "dermatomes", "myotomes", "screening", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q104"
+  },
+  {
+    "id": "sb4_q105",
+    "question": "A physical therapist completes a dorsal glide of the humeroradial articulation with a patient in supine. When performing this mobilization technique, the therapist should stabilize the",
+    "options": [
+      { "id": "1", "text": "distal humerus from the lateral side of the patient's arm" },
+      { "id": "2", "text": "distal humerus from the medial side of the patient's arm" },
+      { "id": "3", "text": "proximal humerus from the lateral side of the patient's arm" },
+      { "id": "4", "text": "proximal humerus from the medial side of the patient's arm" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "The humeroradial joint consists of the convex capitulum of the humerus and the concave radial head. To perform a dorsal glide to increase elbow extension, the therapist must stabilize the humerus to isolate the movement at the joint. Stabilizing the distal humerus from the medial side provides a firm base and allows the therapist's other hand to correctly apply the mobilizing force to the radius.",
+    "rationalesForIncorrectOptions": {
+      "1": "Stabilizing from the lateral side would interfere with the hand that is applying the mobilizing force.",
+      "3": "Stabilizing the proximal humerus would not effectively prevent compensatory motion at the shoulder.",
+      "4": "Stabilizing the proximal humerus is incorrect."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["joint mobilization", "manual therapy", "elbow", "humeroradial joint", "technique", "stabilization", "pce-expertise"],
+    "source": "Scorebuilders 4, Q105"
+  },
+  {
+    "id": "sb4_q106",
+    "question": "A physician provides a group of physical therapists with an overview of diagnostic imaging techniques commonly used in clinical practice. Which imaging technique would not be considered invasive?",
+    "options": [
+      { "id": "1", "text": "arthrography" },
+      { "id": "2", "text": "Myelography" },
+      { "id": "3", "text": "discography" },
+      { "id": "4", "text": "computerized tomography" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Computerized tomography (CT) is a non-invasive imaging technique that uses x-rays to create cross-sectional images. While it may sometimes be performed with an injected contrast dye (making that specific procedure invasive), the technique itself is non-invasive.",
+    "rationalesForIncorrectOptions": {
+      "1": "Arthrography is an invasive procedure where a contrast medium is injected directly into a joint before imaging.",
+      "2": "Myelography is an invasive procedure where contrast dye is injected into the spinal canal.",
+      "3": "Discography is an invasive procedure where contrast dye is injected into an intervertebral disc."
+    },
+    "subject": "Other",
+    "tags": ["diagnostic imaging", "ct scan", "invasive procedure", "arthrography", "myelography", "discography", "pce-expertise"],
+    "source": "Scorebuilders 4, Q106"
+  },
+  {
+    "id": "sb4_q107",
+    "question": "A physical therapist uses vibration in conjunction with percussion as part of a postural drainage program. When should vibration occur?",
+    "options": [
+      { "id": "1", "text": "during expiration" },
+      { "id": "2", "text": "during inspiration" },
+      { "id": "3", "text": "after a maximal expiration" },
+      { "id": "4", "text": "before a maximal inspiration" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "Vibration is a manual technique used to help mobilize secretions. It is performed by applying a fine, oscillating pressure over the chest wall only during the expiratory phase of breathing to follow the natural outward flow of air.",
+    "rationalesForIncorrectOptions": {
+      "2": "Vibration should not be performed during inspiration as it would oppose the flow of air into the lungs.",
+      "3": "It should be performed *during* expiration, not after.",
+      "4": "It should be performed *during* expiration, not before inspiration."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["airway clearance", "postural drainage", "vibration", "technique", "chest physical therapy", "pce-expertise"],
+    "source": "Scorebuilders 4, Q107"
+  },
+  {
+    "id": "sb4_q108",
+    "question": "A physical therapist treats a patient diagnosed with adhesive capsulitis with continuous ultrasound and mobilization. The patient has significant range of motion deficits and has been unable to return to work as a general contractor. Which objective finding provides the best support from the current treatment regimen?",
+    "options": [
+      { "id": "1", "text": "a decrease in the patient's pain level using a visual analog scale" },
+      { "id": "2", "text": "improved patient compliance with an established home exercise program" },
+      { "id": "3", "text": "a 10 degree increase in passive glenohumeral abduction range of motion" },
+      { "id": "4", "text": "a subjective report of warmth in the shoulder during and after ultrasound treatment" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "The primary impairment in adhesive capsulitis is a loss of range of motion due to capsular restriction. A measurable increase in passive range of motion (e.g., a 10-degree increase in abduction) is the most direct, objective evidence that the treatment aimed at increasing tissue extensibility (ultrasound and mobilization) is effective.",
+    "rationalesForIncorrectOptions": {
+      "1": "While decreased pain is a positive outcome, it is subjective. The most objective measure of progress for adhesive capsulitis is improved ROM.",
+      "2": "Improved compliance is a good behavioral outcome but does not directly measure the effectiveness of the biophysical interventions.",
+      "4": "A report of warmth is an expected sensation from thermal ultrasound but is not an objective measure of treatment effectiveness."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["adhesive capsulitis", "frozen shoulder", "outcome measure", "range of motion", "objective data", "pce-expertise", "pce-management"],
+    "source": "Scorebuilders 4, Q108"
+  },
+  {
+    "id": "sb4_q109",
+    "question": "A physical therapist discusses risk factors associated with coronary artery disease with a patient in a cardiac rehabilitation program. Which risk factor would be the most relevant for the patient?",
+    "options": [
+      { "id": "1", "text": "age" },
+      { "id": "2", "text": "elevated serum cholesterol" },
+      { "id": "3", "text": "family history" },
+      { "id": "4", "text": "gender" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Relevance in a rehabilitation program is tied to what can be changed or managed. Elevated serum cholesterol is a modifiable risk factor. The therapist can educate the patient on the importance of diet, exercise, and medication adherence to manage this risk. The other options are non-modifiable.",
+    "rationalesForIncorrectOptions": {
+      "1": "Age is a significant non-modifiable risk factor.",
+      "3": "Family history is a significant non-modifiable risk factor.",
+      "4": "Gender is a non-modifiable risk factor (males are at higher risk at a younger age)."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["coronary artery disease", "cad", "risk factors", "modifiable", "cholesterol", "patient education", "pce-communication"],
+    "source": "Scorebuilders 4, Q109"
+  },
+  {
+    "id": "sb4_q110",
+    "question": "A patient rehabilitating from a spinal cord injury has significant lower extremity spasticity, which often results in the patient's feet becoming dislodged from the wheelchair footrests. The most appropriate modification to address this problem is",
+    "options": [
+      { "id": "1", "text": "hydraulic reclining unit" },
+      { "id": "2", "text": "elevating footrests" },
+      { "id": "3", "text": "heel loops and/or toe loops" },
+      { "id": "4", "text": "detachable swing-away legrests" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Heel loops and toe loops are straps that are added to the wheelchair footplates specifically to keep the feet from sliding off, either backwards (heel loops) or forwards (toe loops). They are the most direct and appropriate modification to manage feet being dislodged by extensor spasticity.",
+    "rationalesForIncorrectOptions": {
+      "1": "A reclining wheelchair changes the patient's posture but does not secure their feet.",
+      "2": "Elevating footrests can often worsen extensor spasticity and make the problem worse.",
+      "4": "Swing-away legrests allow for easier transfers but do not help to keep the feet on the footplates."
+    },
+    "subject": "Neurology",
+    "tags": ["wheelchair", "assistive technology", "modifications", "spasticity", "spinal cord injury", "pce-management"],
+    "source": "Scorebuilders 4, Q110"
+  },
+  {
+    "id": "sb4_q111",
+    "question": "A physical therapist utilizes a manual assisted cough technique on a patient with a midthoracic spinal cord injury. When completing this technique with the patient in supine, the most appropriate location for the therapist's hand placement is",
+    "options": [
+      { "id": "1", "text": "diaphragm" },
+      { "id": "2", "text": "epigastric area" },
+      { "id": "3", "text": "xiphoid process" },
+      { "id": "4", "text": "umbilicus region" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "To perform a manual assisted cough (or quad cough), the therapist applies an inward and upward pressure to assist the action of the paralyzed abdominal muscles. The correct hand placement is over the epigastric area, just below the xiphoid process, to effectively mimic the action of the abdominal muscles and generate expiratory force.",
+    "rationalesForIncorrectOptions": {
+      "1": "The diaphragm is an internal muscle and cannot be directly palpated or pushed on.",
+      "3": "Pressing directly on the xiphoid process could cause it to fracture.",
+      "4": "Placing hands at the umbilicus is too low to provide the most effective upward thrust."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["spinal cord injury", "assisted cough", "quad cough", "airway clearance", "technique", "pce-expertise"],
+    "source": "Scorebuilders 4, Q111"
+  },
+  {
+    "id": "sb4_q112",
+    "question": "A patient 72 hours status post stroke is referred to physical therapy. As part of the patient care program, the physical therapist makes positioning recommendations to the nursing staff. How often should turning occur?",
+    "options": [
+      { "id": "1", "text": "every 30 minutes" },
+      { "id": "2", "text": "every 2 hours" },
+      { "id": "3", "text": "every four hours" },
+      { "id": "4", "text": "every six hours" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "To prevent pressure ulcers in a dependent patient, the standard of care is to implement a turning and repositioning schedule every two hours. This interval is considered safe to allow for capillary reperfusion and avoid tissue damage.",
+    "rationalesForIncorrectOptions": {
+      "1": "Every 30 minutes is more frequent than necessary and may be overly disruptive to the patient.",
+      "3": "Every four hours is too long and significantly increases the risk of pressure ulcer development.",
+      "4": "Every six hours is an unacceptably long interval and would almost certainly lead to skin breakdown."
+    },
+    "subject": "Other",
+    "tags": ["positioning", "pressure ulcer", "integumentary", "stroke", "acute care", "standard of care", "pce-management"],
+    "source": "Scorebuilders 4, Q112"
+  },
+  {
+    "id": "sb4_q113",
+    "question": "A patient is referred to physical therapy after sustaining a lower extremity injury. The physical therapist examines the patient and identifies several postural abnormalities including genu varum. Which of the following motions or postures is not often correlated with genu varum?",
+    "options": [
+      { "id": "1", "text": "lateral patellar subluxation" },
+      { "id": "2", "text": "excessive hip abduction" },
+      { "id": "3", "text": "ipsilateral hip lateral rotation" },
+      { "id": "4", "text": "medial tibial torsion" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "Genu varum (bow-leggedness) is a frontal plane deformity. Lateral patellar subluxation is more commonly associated with genu valgum (knock-kneed), which increases the Q-angle and the lateral pull on the patella.",
+    "rationalesForIncorrectOptions": {
+      "2": "Excessive hip abduction can be a component of a varus alignment.",
+      "3": "Ipsilateral hip lateral rotation (or femoral retroversion) is a common structural cause of genu varum.",
+      "4": "Medial tibial torsion is often seen in conjunction with genu varum."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["posture", "alignment", "genu varum", "knee", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q113"
+  },
+  {
+    "id": "sb4_q114",
+    "question": "A physical therapist prepares to use soft tissue massage as part of a treatment plan for a patient with an adductor strain. The most appropriate therapist action prior to initiating treatment is",
+    "options": [
+      { "id": "1", "text": "utilize proper draping" },
+      { "id": "2", "text": "explain the treatment procedure and obtain patient consent" },
+      { "id": "3", "text": "ask another therapist to be present during the treatment session" },
+      { "id": "4", "text": "describe the benefits of soft tissue massage on muscle strains" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Before any intervention, the cornerstone of ethical practice is to obtain informed consent. This involves explaining what the treatment is, its purpose, its potential risks and benefits, and any alternatives. This allows the patient to make an autonomous decision about their care.",
+    "rationalesForIncorrectOptions": {
+      "1": "Proper draping is essential, but it is part of the procedure that occurs *after* consent has been obtained.",
+      "3": "A chaperone is only necessary if requested by the patient or therapist, or as dictated by clinic policy. It is not a universal prerequisite.",
+      "4": "Describing the benefits is part of the informed consent process, but obtaining the consent itself is the complete, essential action."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["informed consent", "communication", "patient rights", "scope of practice", "pce-professionalism"],
+    "source": "Scorebuilders 4, Q114"
+  },
+  {
+    "id": "sb4_q115",
+    "question": "A physical therapist moves a patient from sidelying to supine after the patient was unable to maintain the manual muscle test position for the hip abductors. Assuming the patient is able to complete full range of motion in the horizontal plane, the most appropriate muscle grade is",
+    "options": [
+      { "id": "1", "text": "fair" },
+      { "id": "2", "text": "fair minus" },
+      { "id": "3", "text": "poor" },
+      { "id": "4", "text": "poor minus" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "In manual muscle testing, if a patient is unable to hold the test position against gravity (Grade 3 or 'Fair'), they are then tested in a gravity-eliminated position. If they can complete the full range of motion in the gravity-eliminated plane (e.g., hip abduction in supine), they are assigned a grade of 2, which is termed 'Poor'.",
+    "rationalesForIncorrectOptions": {
+      "1": "Fair (3/5) grade requires the ability to hold the test position against gravity.",
+      "2": "Fair minus (3-/5) grade requires the ability to hold the test position against gravity but only against slight resistance.",
+      "4": "Poor minus (2-/5) grade is assigned when the patient can only complete partial range of motion in the gravity-eliminated plane."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["manual muscle testing", "mmt", "muscle grading", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q115"
+  },
+  {
+    "id": "sb4_q116",
+    "question": "A two-year-old child diagnosed with bilateral congenital hip dislocation is referred to physical therapy. The child wears a hip harness designed to stabilize the hip in an attempt to allow the joint capsule to tighten and allow the acetabulum to be properly molded. The most likely position of the hip in the harness is",
+    "options": [
+      { "id": "1", "text": "hip flexion and abduction" },
+      { "id": "2", "text": "hip flexion and adduction" },
+      { "id": "3", "text": "hip extension and abduction" },
+      { "id": "4", "text": "hip extension and adduction" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The optimal position for acetabular development and hip joint stability is a combination of flexion and abduction. A Pavlik harness, the most common type for this condition, holds the infant's hips in this position to properly seat the femoral head within the acetabulum.",
+    "rationalesForIncorrectOptions": {
+      "2": "Adduction would promote hip dislocation and is contraindicated.",
+      "3": "Extension would not properly seat the femoral head in the socket.",
+      "4": "This position would promote dislocation."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["pediatrics", "developmental dysplasia of the hip", "ddh", "orthotics", "pavlik harness", "positioning", "pce-expertise"],
+    "source": "Scorebuilders 4, Q116"
+  },
+  {
+    "id": "sb4_q117",
+    "question": "A physical therapist completes a lower quarter screening examination on a patient diagnosed with trochanteric bursitis. Assuming a normal end-feel, which of the following classifications would be most consistent with hip extension?",
+    "options": [
+      { "id": "1", "text": "soft" },
+      { "id": "2", "text": "firm" },
+      { "id": "3", "text": "hard" },
+      { "id": "4", "text": "empty" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "The normal end-feel for hip extension is firm, due to the stretch of the anterior joint capsule and the iliofemoral ligament.",
+    "rationalesForIncorrectOptions": {
+      "1": "A soft end-feel is caused by soft tissue approximation (e.g., knee flexion).",
+      "3": "A hard end-feel is caused by bone-on-bone contact (e.g., elbow extension).",
+      "4": "An empty end-feel indicates that range of motion is limited by pain and no tissue resistance is felt."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["end-feel", "assessment", "hip extension", "arthrokinematics", "pce-expertise"],
+    "source": "Scorebuilders 4, Q117"
+  },
+  {
+    "id": "sb4_q118",
+    "question": "A physician utilizes diagnostic imaging to show motion in a joint through x-ray. This type of imaging is best termed",
+    "options": [
+      { "id": "1", "text": "computed tomography" },
+      { "id": "2", "text": "fluoroscopy" },
+      { "id": "3", "text": "discography" },
+      { "id": "4", "text": "radionuclide scanning" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Fluoroscopy is a type of medical imaging that uses x-rays to create real-time, moving images of the body. It allows an examiner to observe the action of joints and other internal structures as they move.",
+    "rationalesForIncorrectOptions": {
+      "1": "Computed tomography (CT) uses x-rays to create static, cross-sectional images.",
+      "3": "Discography is an invasive procedure to visualize an intervertebral disc.",
+      "4": "Radionuclide scanning (bone scan) uses radioactive tracers to detect areas of high metabolic activity in bone."
+    },
+    "subject": "Other",
+    "tags": ["diagnostic imaging", "fluoroscopy", "x-ray", "pce-expertise"],
+    "source": "Scorebuilders 4, Q118"
+  },
+  {
+    "id": "sb4_q119",
+    "question": "A physical therapist develops a plan of care for a 21-year-old patient rehabilitating from a traumatic brain injury. The patient's level of cognitive functioning is best described as Rancho Los Amigos Level IV. Which treatment approach would be least effective?",
+    "options": [
+      { "id": "1", "text": "offer the patient treatment options" },
+      { "id": "2", "text": "focus on teaching new skills associated with activities with daily living" },
+      { "id": "3", "text": "establish a daily treatment routine" },
+      { "id": "4", "text": "redirect the patient when distractions occur" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "A patient at Rancho Level IV (Confused-Agitated) is unable to learn new information due to their severe attention deficits, confusion, and agitation. Attempting to teach new skills would be ineffective and likely increase their agitation. Treatment should focus on automatic, familiar tasks and managing the environment.",
+    "rationalesForIncorrectOptions": {
+      "1": "Offering limited, simple choices can sometimes help to increase a patient's sense of control and decrease agitation.",
+      "3": "Establishing a consistent, predictable routine is a key strategy for managing a confused and agitated patient.",
+      "4": "Redirection is a primary behavioral management technique used with this patient population."
+    },
+    "subject": "Neurology",
+    "tags": ["traumatic brain injury", "tbi", "rancho los amigos", "confused-agitated", "treatment planning", "behavioral management", "pce-expertise"],
+    "source": "Scorebuilders 4, Q119"
+  },
+  {
+    "id": "sb4_q120",
+    "question": "A physical therapist reviews the medical record of a patient recently admitted to the intensive care unit. A note from the patient's physician indicates an order for arterial blood gas analysis six times daily. Which type of indwelling line would be used to collect the necessary samples?",
+    "options": [
+      { "id": "1", "text": "intravenous line" },
+      { "id": "2", "text": "arterial line" },
+      { "id": "3", "text": "central venous line" },
+      { "id": "4", "text": "pulmonary artery line" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "An arterial line (A-line) is a catheter placed directly into an artery (commonly the radial artery). Its purpose is to provide continuous, direct blood pressure monitoring and to allow for repeated sampling of arterial blood for arterial blood gas (ABG) analysis without needing to perform multiple arterial punctures.",
+    "rationalesForIncorrectOptions": {
+      "1": "An intravenous (IV) line is placed in a vein and is used for administering fluids and medications.",
+      "3": "A central venous line is placed in a large central vein and is used for administering medication and monitoring central venous pressure.",
+      "4": "A pulmonary artery line is used for monitoring complex cardiac pressures."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["lines and tubes", "arterial line", "arterial blood gas", "abg", "icu", "acute care", "pce-expertise"],
+    "source": "Scorebuilders 4, Q120"
+  },
+  {
+    "id": "sb4_q121",
+    "question": "A patient with Alzheimer's disease is referred to physical therapy for instruction in an exercise program. The most appropriate initial step is",
+    "options": [
+      { "id": "1", "text": "provide verbal and written instructions" },
+      { "id": "2", "text": "frequently repeat multiple step directions" },
+      { "id": "3", "text": "assess the patient's cognitive status" },
+      { "id": "4", "text": "avoid using medical terminology" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Before designing an exercise program or providing instructions, the therapist must first assess the patient's cognitive status. Understanding the patient's level of memory, attention, and ability to follow commands is essential for designing a safe and effective program and for tailoring the communication strategy to their specific needs.",
+    "rationalesForIncorrectOptions": {
+      "1": "Providing instructions is a treatment step that should come after the assessment.",
+      "2": "This is a communication strategy that would be chosen based on the results of the cognitive assessment.",
+      "4": "This is a good general communication strategy, but it is not the most important initial step."
+    },
+    "subject": "Neurology",
+    "tags": ["alzheimers disease", "dementia", "cognitive assessment", "communication", "plan of care", "pce-expertise"],
+    "source": "Scorebuilders 4, Q121"
+  },
+  {
+    "id": "sb4_q122",
+    "question": "A patient positioned in standing with their arm positioned at their side with 90 degrees of elbow flexion completes shoulder medial and lateral rotation exercises using a piece of elastic tubing. Which plane of the body is utilized with this activity?",
+    "options": [
+      { "id": "1", "text": "coronal" },
+      { "id": "2", "text": "frontal" },
+      { "id": "3", "text": "sagittal" },
+      { "id": "4", "text": "transverse" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "The transverse (or horizontal) plane divides the body into upper and lower sections. Rotational movements, such as medial and lateral rotation of the shoulder, occur within this plane around a vertical axis.",
+    "rationalesForIncorrectOptions": {
+      "1": "Coronal is another term for the frontal plane.",
+      "2": "The frontal plane divides the body into front and back sections. Movements in this plane include abduction and adduction.",
+      "3": "The sagittal plane divides the body into left and right sections. Movements in this plane include flexion and extension."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["biomechanics", "kinesiology", "planes of motion", "transverse plane", "shoulder rotation", "pce-expertise"],
+    "source": "Scorebuilders 4, Q122"
+  },
+  {
+    "id": "sb4_q123",
+    "question": "A physical therapist uses a self-care assessment to examine change over time in rehabilitation programs. The assessment uses a seven-point scale to examine 18 items. The collected information is based on observations of patient performance. This type of assessment most closely describes",
+    "options": [
+      { "id": "1", "text": "Functional Independence Measure" },
+      { "id": "2", "text": "Functional Status Index" },
+      { "id": "3", "text": "Physical Self-Maintenance Scale" },
+      { "id": "4", "text": "Katz Index of Activities of Daily Living" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The Functional Independence Measure (FIM) is an 18-item assessment tool that uses a 7-point scale to measure a patient's level of independence in self-care, mobility, and cognition. It is widely used in rehabilitation settings to track changes in functional status over time.",
+    "rationalesForIncorrectOptions": {
+      "2": "The Functional Status Index is another tool but does not match the specific description of 18 items on a 7-point scale.",
+      "3": "The Physical Self-Maintenance Scale is a 6-item scale used to assess basic ADLs.",
+      "4": "The Katz Index is a 6-point scale that assesses performance in 6 basic ADLs."
+    },
+    "subject": "Neurology",
+    "tags": ["outcome measure", "assessment", "fim", "functional independence measure", "rehabilitation", "pce-expertise"],
+    "source": "Scorebuilders 4, Q123"
+  },
+  {
+    "id": "sb4_q124",
+    "question": "A physical therapist working on a pulmonary rehabilitation unit works with a patient on therapeutic positioning. The patient has experienced a lengthy inpatient hospitalization and was only recently referred to physical therapy. The patient has significant weakness of the diaphragm and is hypertensive. The most appropriate patient position to initiate treatment is",
+    "options": [
+      { "id": "1", "text": "prone" },
+      { "id": "2", "text": "supine" },
+      { "id": "3", "text": "Trendelenburg" },
+      { "id": "4", "text": "reverse Trendelenburg" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "The reverse Trendelenburg position (head of the bed elevated with the bed flat) is ideal for this patient. It uses gravity to lower the abdominal contents away from the diaphragm, which reduces the work of breathing and makes it easier for the weak diaphragm to contract. It also helps to reduce hypertension.",
+    "rationalesForIncorrectOptions": {
+      "1": "Prone positioning can increase the work of breathing and may not be well-tolerated.",
+      "2": "Supine positioning does not assist the diaphragm.",
+      "3": "The Trendelenburg position (head down) would increase the work of breathing by pushing the abdominal contents onto the diaphragm and would also increase blood pressure, both of which are contraindicated."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["positioning", "diaphragmatic weakness", "hypertension", "reverse trendelenburg", "pulmonary rehab", "pce-expertise"],
+    "source": "Scorebuilders 4, Q124"
+  },
+  {
+    "id": "sb4_q125",
+    "question": "A physical therapist performs rescue breathing on a patient that collapsed in the physical therapy gym. Which of the following is not accurate when performing rescue breathing on an adult?",
+    "options": [
+      { "id": "1", "text": "maintain open airway with head tilt/chin lift" },
+      { "id": "2", "text": "give one breath every five seconds" },
+      { "id": "3", "text": "pinch nose shut" },
+      { "id": "4", "text": "continue for 30 seconds; approximately six breaths" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Rescue breathing for an adult is performed for a full cycle of two minutes (not 30 seconds) before re-checking for a pulse. Breaths are given every 5-6 seconds, which would be 20-24 breaths over two minutes, not six breaths.",
+    "rationalesForIncorrectOptions": {
+      "1": "Maintaining an open airway is the first and most critical step.",
+      "2": "Giving one breath every 5-6 seconds is the correct rate for an adult.",
+      "3": "Pinching the nose shut is necessary to ensure the breath enters the lungs and does not escape through the nose."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["emergency care", "cpr", "rescue breathing", "first aid", "safety", "pce-management"],
+    "source": "Scorebuilders 4, Q125"
+  },
+  {
+    "id": "sb4_q126",
+    "question": "A physical therapist observes a line from an IV that is tangled around a patient's bed rail. What type of medical asepsis is indicated prior to coming in contact with the IV line?",
+    "options": [
+      { "id": "1", "text": "gloves" },
+      { "id": "2", "text": "gloves, gown" },
+      { "id": "3", "text": "gloves, gown, mask" },
+      { "id": "4", "text": "none" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Medical asepsis involves techniques to reduce the spread of microorganisms. Simply untangling an IV line from a bed rail does not involve contact with the insertion site or any bodily fluids. Therefore, no specific PPE is indicated for this action, although hand hygiene before and after patient contact is always standard practice.",
+    "rationalesForIncorrectOptions": {
+      "1": "Gloves are only required if there is a risk of contact with blood or bodily fluids.",
+      "2": "A gown is not indicated.",
+      "3": "A mask is not indicated."
+    },
+    "subject": "Other",
+    "tags": ["infection control", "asepsis", "ppe", "standard precautions", "pce-management"],
+    "source": "Scorebuilders 4, Q126"
+  },
+  {
+    "id": "sb4_q127",
+    "question": "A physical therapist treats a 45-year-old female diagnosed with adhesive capsulitis. The therapist administers small amplitude, rhythmic oscillations at the limit of the available range of motion. This description best describes",
+    "options": [
+      { "id": "1", "text": "grade I oscillations" },
+      { "id": "2", "text": "grade II oscillations" },
+      { "id": "3", "text": "grade III oscillations" },
+      { "id": "4", "text": "grade IV oscillations" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Grade IV mobilizations are defined as small amplitude, rhythmic oscillations performed at the end of the available range of motion, pushing into the tissue resistance. They are used to stretch the joint capsule and increase range of motion.",
+    "rationalesForIncorrectOptions": {
+      "1": "Grade I are small amplitude oscillations performed at the beginning of the range, used for pain relief.",
+      "2": "Grade II are large amplitude oscillations performed within the pain-free range, used for pain relief.",
+      "3": "Grade III are large amplitude oscillations performed up to the limit of the available range, used for stretching."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["joint mobilization", "manual therapy", "maitland grades", "grade iv", "adhesive capsulitis", "pce-expertise"],
+    "source": "Scorebuilders 4, Q127"
+  },
+  {
+    "id": "sb4_q128",
+    "question": "The physical therapy department sponsors a community education program on diabetes mellitus. Which of the following is not characteristic of type I insulin-dependent diabetes?",
+    "options": [
+      { "id": "1", "text": "age of onset less than 25 years of age" },
+      { "id": "2", "text": "gradual onset" },
+      { "id": "3", "text": "controlled through insulin and diet" },
+      { "id": "4", "text": "islet cell antibodies present at onset" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Type 1 diabetes is an autoimmune disease characterized by the rapid destruction of pancreatic beta cells. This leads to an abrupt, rather than gradual, onset of symptoms like polyuria, polydipsia, and ketoacidosis. A gradual onset is characteristic of Type 2 diabetes.",
+    "rationalesForIncorrectOptions": {
+      "1": "Type 1 diabetes is most commonly diagnosed in children and young adults.",
+      "3": "Management requires lifelong insulin therapy in addition to diet.",
+      "4": "The presence of islet cell antibodies is a hallmark of the autoimmune process that causes Type 1 diabetes."
+    },
+    "subject": "Other",
+    "tags": ["diabetes", "type 1 diabetes", "pathophysiology", "patient education", "pce-expertise"],
+    "source": "Scorebuilders 4, Q128"
+  },
+  {
+    "id": "sb4_q129",
+    "question": "A physical therapist presents an inservice to the rehabilitation staff that compares traditional gait terminology with Rancho Los Amigos terminology. Which pair of descriptive terms describes the same general point in the gait cycle?",
+    "options": [
+      { "id": "1", "text": "midstance to heel off and initial swing" },
+      { "id": "2", "text": "heel strike and initial contact" },
+      { "id": "3", "text": "foot flat to midstance and loading response" },
+      { "id": "4", "text": "toe off and midswing" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "In traditional gait terminology, 'heel strike' is the moment the heel first touches the ground. In Rancho Los Amigos (RLA) terminology, this same event is called 'initial contact'.",
+    "rationalesForIncorrectOptions": {
+      "1": "These terms do not align. Heel off is the beginning of terminal stance in RLA terminology.",
+      "3": "Foot flat is part of the loading response in RLA terminology, but it is not the same as midstance.",
+      "4": "Toe off is the beginning of pre-swing in RLA terminology, not midswing."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["gait", "gait cycle", "terminology", "rancho los amigos", "traditional gait", "initial contact", "heel strike", "pce-expertise"],
+    "source": "Scorebuilders 4, Q129"
+  },
+  {
+    "id": "sb4_q130",
+    "question": "A physical therapist selects a therapeutic ultrasound generator with a frequency of 3.0 MHz. Which condition would most warrant the use of this frequency?",
+    "options": [
+      { "id": "1", "text": "lumbar paravertebral muscle spasm" },
+      { "id": "2", "text": "hip contracture" },
+      { "id": "3", "text": "quadriceps stain" },
+      { "id": "4", "text": "anterior talofibular ligament sprain" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Ultrasound frequency determines the depth of penetration. A frequency of 3.0 MHz is absorbed more rapidly and penetrates less deeply, making it ideal for treating superficial tissues. The anterior talofibular ligament (ATFL) is a superficial structure, making 3.0 MHz the appropriate choice.",
+    "rationalesForIncorrectOptions": {
+      "1": "Lumbar paravertebral muscles are deep tissues and would require a 1.0 MHz frequency for adequate penetration.",
+      "2": "The hip joint capsule is a deep structure and would require a 1.0 MHz frequency.",
+      "3": "The quadriceps is a large, deep muscle group and would be better treated with a 1.0 MHz frequency."
+    },
+    "subject": "Other",
+    "tags": ["ultrasound", "modalities", "frequency", "penetration depth", "superficial tissue", "pce-expertise"],
+    "source": "Scorebuilders 4, Q130"
+  },
+  {
+    "id": "sb4_q131",
+    "question": "A physical therapist notices that a patient with a transfemoral amputation consistently takes a longer step with the prosthetic limb. The most likely cause of the deviation is",
+    "options": [
+      { "id": "1", "text": "weak abdominal muscles" },
+      { "id": "2", "text": "hip flexion contracture" },
+      { "id": "3", "text": "weak residual limb" },
+      { "id": "4", "text": "fear and insecurity" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "A hip flexion contracture on the prosthetic side limits the amount of hip extension possible during the late stance phase of gait. This causes the patient to rotate their pelvis forward prematurely, resulting in a longer, quicker step with the prosthetic limb to get off the contracted side.",
+    "rationalesForIncorrectOptions": {
+      "1": "Weak abdominal muscles would more likely cause an increased lordosis, not this specific gait deviation.",
+      "3": "A weak residual limb would likely cause a shorter, not longer, step with the prosthesis due to instability.",
+      "4": "Fear and insecurity typically result in a shorter, more tentative step with the prosthesis."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["gait analysis", "amputation", "transfemoral", "gait deviation", "hip flexion contracture", "prosthetics", "pce-expertise"],
+    "source": "Scorebuilders 4, Q131"
+  },
+  {
+    "id": "sb4_q132",
+    "question": "After observing a patient during an exercise session, a physical therapist concludes that the patient commonly uses the Valsalva maneuver. Which activity would have the greatest probability of producing the Valsalva maneuver?",
+    "options": [
+      { "id": "1", "text": "lifting a 40 lb. package from the floor to a counter at waist level" },
+      { "id": "2", "text": "walking at 4 mph on a treadmill" },
+      { "id": "3", "text": "stationary cycling at 80 revolutions per minute" },
+      { "id": "4", "text": "using an upper extremity ergometer at 40 revolutions per minute" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The Valsalva maneuver (forcibly exhaling against a closed glottis) is most often performed during high-effort activities that require a brief increase in intrathoracic and intra-abdominal pressure for stabilization. Lifting a heavy object from the floor is a classic example of such an activity.",
+    "rationalesForIncorrectOptions": {
+      "2": "Walking is a rhythmic, submaximal aerobic activity and does not typically elicit a Valsalva maneuver.",
+      "3": "Cycling is also a submaximal aerobic activity.",
+      "4": "Arm ergometry is an aerobic activity."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["valsalva maneuver", "exercise", "lifting", "safety", "pce-expertise"],
+    "source": "Scorebuilders 4, Q132"
+  },
+  {
+    "id": "sb4_q133",
+    "question": "A physical therapist completes a chart review prior to examining a patient involved in a serious motor vehicle accident. The chart indicates the patient sustained multiple lower extremity fractures including a femur fracture, which was treated with open reduction and internal fixation. The patient is current taking Demerol. Which side effect is most relevant when taking this medication?",
+    "options": [
+      { "id": "1", "text": "peripheral edema" },
+      { "id": "2", "text": "dependency" },
+      { "id": "3", "text": "tachycardia" },
+      { "id": "4", "text": "blood pressure variability" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Demerol (meperidine) is a synthetic opioid analgesic. Opioids are well-known for their high potential for causing physical and psychological dependency. This is a highly relevant side effect for a physical therapist to be aware of.",
+    "rationalesForIncorrectOptions": {
+      "1": "Peripheral edema is not a common side effect of Demerol.",
+      "3": "Tachycardia is not a primary side effect; respiratory depression and bradycardia are more common with high doses.",
+      "4": "Orthostatic hypotension can be a side effect, but dependency is a more significant and defining characteristic of the medication."
+    },
+    "subject": "Other",
+    "tags": ["pharmacology", "opioids", "demerol", "side effects", "dependency", "pce-expertise"],
+    "source": "Scorebuilders 4, Q133"
+  },
+  {
+    "id": "sb4_q134",
+    "question": "A physical therapist employed in a rehabilitation hospital utilizes a variety of transfer techniques to move patients of various functional abilities. Which type of transfer would not be classified as dependent?",
+    "options": [
+      { "id": "1", "text": "sliding transfer" },
+      { "id": "2", "text": "hydraulic lift" },
+      { "id": "3", "text": "sliding board transfer" },
+      { "id": "4", "text": "two-person lift" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "A sliding board transfer requires the patient to have upper extremity strength and sitting balance to assist with the transfer by lifting or sliding their body along the board. Because it involves active patient participation, it is not classified as a dependent transfer.",
+    "rationalesForIncorrectOptions": {
+      "1": "A sliding transfer (e.g., with a draw sheet) is a dependent transfer where the patient is unable to assist.",
+      "2": "A hydraulic lift is used for patients who are fully dependent and cannot assist with the transfer.",
+      "4": "A two-person lift is a dependent transfer for a patient who cannot assist."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["transfers", "sliding board", "dependent transfer", "level of assistance", "pce-expertise"],
+    "source": "Scorebuilders 4, Q134"
+  },
+  {
+    "id": "sb4_q135",
+    "question": "A patient four days status post transtibial amputation is transported to physical therapy for a scheduled treatment session. Assuming an uncomplicated recovery, the most appropriate patient transfer to utilize from a wheelchair to a mat table is",
+    "options": [
+      { "id": "1", "text": "two-man lift" },
+      { "id": "2", "text": "hydraulic lift" },
+      { "id": "3", "text": "standing pivot" },
+      { "id": "4", "text": "sliding board" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "A patient with a unilateral transtibial amputation should be able to bear weight on their uninvolved lower extremity. A standing pivot transfer, where the patient stands on their sound leg and pivots to the mat table, is the most appropriate and functional transfer to practice. It promotes independence and utilizes the patient's existing strength.",
+    "rationalesForIncorrectOptions": {
+      "1": "A two-man lift is a dependent transfer and is inappropriate for a patient who should be able to assist.",
+      "2": "A hydraulic lift is a dependent transfer and is unnecessary.",
+      "4": "A sliding board is typically used for patients who cannot bear weight through their lower extremities (e.g., spinal cord injury)."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["transfers", "amputation", "transtibial", "standing pivot transfer", "rehabilitation", "pce-expertise"],
+    "source": "Scorebuilders 4, Q135"
+  },
+  {
+    "id": "sb4_q136",
+    "question": "A physical therapist treats a patient rehabilitating from an Achilles tendon repair using cryotherapy. Which cryotherapeutic agent would provide the greatest magnitude of tissue cooling?",
+    "options": [
+      { "id": "1", "text": "frozen gel packs" },
+      { "id": "2", "text": "ice massage" },
+      { "id": "3", "text": "fluori-methane spray" },
+      { "id": "4", "text": "cold water bath" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Ice massage involves the direct application of ice to the skin. Due to the phase change of ice melting, it extracts a significant amount of heat from the tissue, providing the most intense and rapid cooling over a small area compared to other methods.",
+    "rationalesForIncorrectOptions": {
+      "1": "Frozen gel packs do not get as cold as ice and do not undergo a phase change, providing less intense cooling.",
+      "3": "Fluori-methane spray is a vapocoolant that provides very superficial and transient cooling; it does not cool deep tissues.",
+      "4": "A cold water bath provides good circumferential cooling, but the direct contact and phase change of ice massage provides a greater magnitude of cooling to a specific area."
+    },
+    "subject": "Other",
+    "tags": ["cryotherapy", "modalities", "ice massage", "tissue cooling", "pce-expertise"],
+    "source": "Scorebuilders 4, Q136"
+  },
+  {
+    "id": "sb4_q137",
+    "question": "A patient scheduled for posterior cruciate ligament reconstruction in two weeks is examined in physical therapy. The patient has diminished quadriceps strength and walks with a noticeable limp. The involved knee has mild edema and a 15-degree flexion contracture. The most appropriate treatment priority is",
+    "options": [
+      { "id": "1", "text": "improve quadriceps strength" },
+      { "id": "2", "text": "improve fluidity of gait" },
+      { "id": "3", "text": "reduce edema" },
+      { "id": "4", "text": "improve range of motion" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "In pre-operative rehabilitation, restoring full range of motion, particularly full extension, is the highest priority. A flexion contracture going into surgery is a major risk factor for a poor post-operative outcome and persistent loss of motion. All other goals are secondary to regaining full ROM before the reconstruction.",
+    "rationalesForIncorrectOptions": {
+      "1": "While important, improving quad strength is secondary to restoring full ROM.",
+      "2": "Improving gait is a functional goal that will be achieved once the underlying impairments (ROM, strength, edema) are addressed.",
+      "3": "Reducing mild edema is important, but it is not as critical as resolving the flexion contracture."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["pre-operative", "rehabilitation", "pcl reconstruction", "range of motion", "flexion contracture", "prioritization", "pce-expertise"],
+    "source": "Scorebuilders 4, Q137"
+  },
+  {
+    "id": "sb4_q138",
+    "question": "A physical therapist positions a patient in supine in preparation for goniometric measurements. When measuring medial rotation of the shoulder, the therapist should position the fulcrum",
+    "options": [
+      { "id": "1", "text": "over the lateral epicondyle of the humerus" },
+      { "id": "2", "text": "perpendicular to the floor" },
+      { "id": "3", "text": "along the midaxillary line" },
+      { "id": "4", "text": "over the olecranon process" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "The standard procedure for measuring shoulder rotation with the patient in supine and the shoulder abducted to 90 degrees is to place the fulcrum of the goniometer over the olecranon process of the ulna. The stationary arm is aligned perpendicular to the floor, and the moving arm follows the ulna.",
+    "rationalesForIncorrectOptions": {
+      "1": "The lateral epicondyle is not the correct landmark for the axis.",
+      "2": "The stationary arm, not the fulcrum, should be perpendicular to the floor.",
+      "3": "The midaxillary line is not used for this measurement."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["goniometry", "shoulder", "medial rotation", "range of motion", "assessment", "technique", "pce-expertise"],
+    "source": "Scorebuilders 4, Q138"
+  },
+  {
+    "id": "sb4_q139",
+    "question": "A physical therapist examines a patient diagnosed with left-sided heart failure. Which finding is not typically associated with this condition?",
+    "options": [
+      { "id": "1", "text": "pulmonary edema" },
+      { "id": "2", "text": "persistent cough" },
+      { "id": "3", "text": "dependent edema" },
+      { "id": "4", "text": "muscular weakness" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Dependent edema (swelling in the ankles and legs) is a hallmark sign of right-sided heart failure, where the right ventricle cannot effectively pump blood to the lungs, causing fluid to back up in the peripheral venous system. Left-sided heart failure causes fluid to back up in the lungs.",
+    "rationalesForIncorrectOptions": {
+      "1": "Pulmonary edema is the classic sign of left-sided heart failure, as blood backs up from the failing left ventricle into the pulmonary circulation.",
+      "2": "A persistent cough, especially when lying down, is a common symptom of pulmonary congestion from left-sided heart failure.",
+      "4": "Muscular weakness and fatigue are common due to decreased cardiac output and poor oxygen delivery to the tissues."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["heart failure", "left-sided heart failure", "right-sided heart failure", "pulmonary edema", "dependent edema", "differential diagnosis", "pce-expertise"],
+    "source": "Scorebuilders 4, Q139"
+  },
+  {
+    "id": "sb4_q140",
+    "question": "A patient with a grade III inversion ankle sprain is examined in physical therapy. The patient sustained the injury approximately 36 hours ago while playing in a basketball game. The most appropriate treatment is",
+    "options": [
+      { "id": "1", "text": "ice pack and intermittent compression" },
+      { "id": "2", "text": "whirlpool (29 degrees Celsius) and passive exercise" },
+      { "id": "3", "text": "ultrasound and electrical stimulation" },
+      { "id": "4", "text": "ice massage and mobilization" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "A Grade III sprain is a severe injury involving a complete rupture of the ligament. At 36 hours post-injury, the patient is in the acute inflammatory phase. The most appropriate treatment is to manage the pain and swelling using the principles of RICE (Rest, Ice, Compression, Elevation). An ice pack and intermittent compression directly address these acute goals.",
+    "rationalesForIncorrectOptions": {
+      "2": "Passive exercise may be too aggressive at this stage. A whirlpool can increase edema if the limb is in a dependent position.",
+      "3": "These modalities are not the primary treatment for an acute ligament sprain.",
+      "4": "Mobilization is contraindicated in the acute phase of a Grade III sprain, as the ligament is completely torn and needs protection."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["ankle sprain", "acute injury", "rice", "cryotherapy", "compression", "inflammation", "pce-expertise"],
+    "source": "Scorebuilders 4, Q140"
+  },
+  {
+    "id": "sb4_q141",
+    "question": "A physical therapist monitors a patient with a single lead electrocardiogram. After carefully examining the obtained data, the therapist classifies the rhythm as sinus bradycardia. Which description is most indicative of this condition?",
+    "options": [
+      { "id": "1", "text": "waveforms are irregular with a fluctuating rate" },
+      { "id": "2", "text": "waveforms are irregular with a diminished rate" },
+      { "id": "3", "text": "waveforms are normal with a rate greater than 100 beats per minute" },
+      { "id": "4", "text": "waveforms are normal with a rate less than 60 beats per minute" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Sinus bradycardia is defined by two characteristics: 1) the rhythm is normal (originating from the sinus node, with a P wave for every QRS), and 2) the heart rate is less than 60 beats per minute.",
+    "rationalesForIncorrectOptions": {
+      "1": "An irregular rhythm with a fluctuating rate could be atrial fibrillation.",
+      "2": "An irregular rhythm suggests an arrhythmia other than a sinus rhythm.",
+      "3": "A normal rhythm with a rate greater than 100 bpm is sinus tachycardia."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["ecg", "electrocardiogram", "arrhythmia", "sinus bradycardia", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q141"
+  },
+  {
+    "id": "sb4_q142",
+    "question": "A physical therapist washes his hands thoroughly after treating a patient with a suspected infection. Which statement regarding hand washing is not accurate?",
+    "options": [
+      { "id": "1", "text": "wash all hand and wrist jewelry" },
+      { "id": "2", "text": "wash your hands, wrists, and two to three inches of your distal forearms" },
+      { "id": "3", "text": "wash for at least 30 seconds" },
+      { "id": "4", "text": "select warm water to allow soap to lather easily" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "According to proper hand hygiene protocols, all hand and wrist jewelry should be removed prior to hand washing, as microorganisms can harbor underneath them. Attempting to wash the jewelry while it is on is not effective.",
+    "rationalesForIncorrectOptions": {
+      "2": "It is important to wash the wrists and forearms as these areas can easily become contaminated during patient care.",
+      "3": "A duration of at least 20-30 seconds of vigorous scrubbing is recommended for effective hand washing.",
+      "4": "Warm water is recommended as it helps the soap to lather and is more comfortable than cold water."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["infection control", "hand washing", "asepsis", "hygiene", "pce-management"],
+    "source": "Scorebuilders 4, Q142"
+  },
+  {
+    "id": "sb4_q143",
+    "question": "A physician orders a series of pulmonary function tests for a patient with pectus excavatum. Which test result is not typical for a patient with this condition?",
+    "options": [
+      { "id": "1", "text": "forced vital capacity is decreased" },
+      { "id": "2", "text": "vital capacity is decreased" },
+      { "id": "3", "text": "forced expiratory volume/forced vital capacity ratio is decreased" },
+      { "id": "4", "text": "total lung capacity is decreased" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Pectus excavatum is a congenital deformity of the chest wall that causes a restrictive, not obstructive, lung pathology. In restrictive lung disease, both the FEV1 and FVC are reduced proportionally, so the FEV1/FVC ratio remains normal or is sometimes even increased. A decreased ratio is the hallmark of obstructive lung disease.",
+    "rationalesForIncorrectOptions": {
+      "1": "Forced vital capacity (FVC) is decreased due to the physical restriction of lung expansion.",
+      "2": "Vital capacity (VC) is decreased.",
+      "4": "Total lung capacity (TLC) is decreased."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["pulmonary function testing", "pft", "restrictive lung disease", "pectus excavatum", "fev1/fvc ratio", "pce-expertise"],
+    "source": "Scorebuilders 4, Q143"
+  },
+  {
+    "id": "sb4_q144",
+    "question": "A physical therapist collects data as part of a preseason athletic screening program designed to identify individuals susceptible to heat illness. Which of the following measures would be the most valuable to collect?",
+    "options": [
+      { "id": "1", "text": "height" },
+      { "id": "2", "text": "weight" },
+      { "id": "3", "text": "percent body fat" },
+      { "id": "4", "text": "vital capacity" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Overweight individuals and those with a higher percentage of body fat are more susceptible to heat illness. Adipose tissue has a lower water content and produces more metabolic heat than lean tissue, and it also acts as an insulator, making it harder to dissipate heat.",
+    "rationalesForIncorrectOptions": {
+      "1": "Height alone is not a risk factor.",
+      "2": "While weight is a component of body composition, percent body fat is a more direct and valuable measure of this specific risk.",
+      "4": "Vital capacity is a measure of lung function and is not a primary risk factor for heat illness."
+    },
+    "subject": "Other",
+    "tags": ["heat illness", "risk factors", "screening", "body composition", "body fat", "pce-expertise", "pce-management"],
+    "source": "Scorebuilders 4, Q144"
+  },
+  {
+    "id": "sb4_q145",
+    "question": "A physical therapist participating in a team conference describes a patient's present cognitive functioning as a level IV, \"confused-agitated\" according to the Rancho Los Amigos Levels of Cognitive Functioning Scale. Which statement does not accurate describe this level?",
+    "options": [
+      { "id": "1", "text": "patient is in a heightened state of awareness" },
+      { "id": "2", "text": "verbalizations are often incoherent or inappropriate" },
+      { "id": "3", "text": "patient does not discriminate among persons or objects" },
+      { "id": "4", "text": "patient responds to simple commands fairly consistently" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "A patient at Rancho Level IV is highly confused and agitated and is unable to consistently follow commands. Consistent response to simple commands is a characteristic of later stages, such as Level V (Confused-Inappropriate) or Level VI (Confused-Appropriate).",
+    "rationalesForIncorrectOptions": {
+      "1": "A heightened state of awareness and hypervigilance is a key feature of the confused-agitated stage.",
+      "2": "Incoherent or inappropriate verbalizations are common due to confusion and agitation.",
+      "3": "The patient is unable to process their environment effectively and cannot discriminate between people or objects."
+    },
+    "subject": "Neurology",
+    "tags": ["traumatic brain injury", "tbi", "rancho los amigos", "confused-agitated", "assessment", "cognition", "pce-expertise"],
+    "source": "Scorebuilders 4, Q145"
+  },
+  {
+    "id": "sb4_q146",
+    "question": "A physical therapist employed in an acute care hospital works with a patient on bed mobility activities. The therapist would like to incorporate a strengthening activity for the hip extensors that will improve the patient's ability to independently reposition in bed, however, the patient does not have adequate strength to perform bridging. The most appropriate exercise activity is",
+    "options": [
+      { "id": "1", "text": "anterior pelvic tilts" },
+      { "id": "2", "text": "heel slides" },
+      { "id": "3", "text": "straight leg raises" },
+      { "id": "4", "text": "isometric gluteal sets" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Isometric gluteal sets (squeezing the buttocks) directly activate the hip extensors (gluteus maximus). Since this exercise does not require lifting the hips against gravity, it is an appropriate precursor to bridging for a patient who is too weak to perform a full bridge.",
+    "rationalesForIncorrectOptions": {
+      "1": "Anterior pelvic tilts primarily activate the back extensors and hip flexors.",
+      "2": "Heel slides primarily activate the hamstrings and are used for knee flexion range of motion.",
+      "3": "Straight leg raises primarily strengthen the hip flexors."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["strengthening", "bed mobility", "hip extensors", "gluteal sets", "isometrics", "bridging", "pce-expertise"],
+    "source": "Scorebuilders 4, Q146"
+  },
+  {
+    "id": "sb4_q147",
+    "question": "A patient on supplemental oxygen participates in a series of active exercises. During the exercise session the patient's oxygen saturation falls to the lower limit of her established acceptable range of 92-95%. When asked by the physical therapist how she is feeling the patient reports that she feels fine. The most appropriate therapist action is",
+    "options": [
+      { "id": "1", "text": "continue the exercise session" },
+      { "id": "2", "text": "increase the amount of oxygen" },
+      { "id": "3", "text": "discontinue the exercise session" },
+      { "id": "4", "text": "contact the patient's physician" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The patient's oxygen saturation has remained within the pre-established acceptable range (92-95%) set by her medical team, and she is subjectively feeling fine. Therefore, it is safe and appropriate to continue the exercise session while closely monitoring her.",
+    "rationalesForIncorrectOptions": {
+      "2": "Increasing the oxygen is not necessary as long as her saturation remains within the target range.",
+      "3": "Discontinuing the session is not warranted as she has not fallen below the established safe lower limit.",
+      "4": "Contacting the physician is not necessary as no adverse event has occurred."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["oxygen therapy", "exercise", "vital signs", "oxygen saturation", "clinical decision making", "pce-expertise", "pce-management"],
+    "source": "Scorebuilders 4, Q147"
+  },
+  {
+    "id": "sb4_q148",
+    "question": "A physical therapist performs segmental breathing exercises with a patient following atelectasis. Which manual contact would be the most appropriate to emphasize lingula expansion?",
+    "options": [
+      { "id": "1", "text": "place the hands on the left side of the chest below the axilla" },
+      { "id": "2", "text": "place the hands below the clavicle on the anterior chest wall" },
+      { "id": "3", "text": "place the hands over the posterior aspect of the lower ribs" },
+      { "id": "4", "text": "place the hands on the right side of the chest below the axilla" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The lingula is a segment of the left upper lobe that is anatomically homologous to the right middle lobe. It is located on the left side of the chest, inferior to the axilla. Placing hands in this location provides the correct tactile cue for the patient to direct their breath to expand the lingula.",
+    "rationalesForIncorrectOptions": {
+      "2": "This hand placement would be for the anterior apical segments.",
+      "3": "This hand placement would be for the posterior basal segments.",
+      "4": "This hand placement would be for the right middle lobe."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["segmental breathing", "breathing exercises", "atelectasis", "lingula", "anatomy", "chest physical therapy", "pce-expertise"],
+    "source": "Scorebuilders 4, Q148"
+  },
+  {
+    "id": "sb4_q149",
+    "question": "A physical therapist performs prosthetic training with a patient status post transfemoral amputation. Which initial instruction would be the most appropriate when ascending the stairs?",
+    "options": [
+      { "id": "1", "text": "utilize your arms to propel your legs to the next step simultaneously" },
+      { "id": "2", "text": "place your body weight on the prosthetic side and lead with your uninvolved leg" },
+      { "id": "3", "text": "place your body weight on the uninvolved side and lead with your prosthetic leg" },
+      { "id": "4", "text": "avoid using stairs with your prosthesis" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "When ascending stairs, a patient with a transfemoral amputation should lead with their uninvolved leg ('up with the good'). However, to do this, they must first shift their weight onto the prosthetic side to unweight the sound leg, and then use the sound leg to lift their body up to the next step.",
+    "rationalesForIncorrectOptions": {
+      "1": "This describes a hopping or jumping strategy which is not the standard technique.",
+      "3": "Leading with the prosthetic leg is incorrect and functionally very difficult, as it requires immense strength from the residual limb.",
+      "4": "Avoiding stairs is not a functional goal; the goal is to teach the patient how to safely navigate them."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["amputation", "transfemoral", "prosthetics", "gait training", "stair training", "pce-expertise", "pce-communication"],
+    "source": "Scorebuilders 4, Q149"
+  },
+  {
+    "id": "sb4_q150",
+    "question": "A patient with C5 tetraplegia exercises on a mat table. Suddenly, the patient begins to demonstrate signs and symptoms of autonomic dysreflexia including headache and sweating above the level of the lesion. The most appropriate assessment to validate the presence of autonomic dysreflexia is",
+    "options": [
+      { "id": "1", "text": "pulse rate" },
+      { "id": "2", "text": "blood pressure" },
+      { "id": "3", "text": "respiratory rate" },
+      { "id": "4", "text": "oxygen saturation" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Autonomic dysreflexia is a medical emergency characterized by a sudden, massive increase in blood pressure in response to a noxious stimulus below the level of a T6 or higher spinal cord injury. Measuring the blood pressure is the essential assessment to confirm the diagnosis and determine the severity of the event.",
+    "rationalesForIncorrectOptions": {
+      "1": "The pulse rate is often slow (bradycardia) during autonomic dysrelexia as a compensatory response to the high blood pressure, but the defining feature is the hypertension.",
+      "3": "Respiratory rate is not a primary sign.",
+      "4": "Oxygen saturation is not directly affected."
+    },
+    "subject": "Neurology",
+    "tags": ["spinal cord injury", "sci", "autonomic dysreflexia", "red flag", "emergency", "blood pressure", "pce-expertise"],
+    "source": "Scorebuilders 4, Q150"
+  },
+  {
+    "id": "sb4_q151",
+    "question": "A patient rehabilitating from a spinal cord injury informs a therapist that he will walk again. Which type of injury would make functional ambulation the most unrealistic?",
+    "options": [
+      { "id": "1", "text": "complete T9 paraplegia" },
+      { "id": "2", "text": "posterior cord syndrome" },
+      { "id": "3", "text": "Brown-Sequard syndrome" },
+      { "id": "4", "text": "cauda equina injury" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "Functional ambulation has an extremely high energy cost for patients with thoracic-level spinal cord injuries. Patients with complete lesions higher than T12 are generally not considered realistic candidates for functional ambulation due to the immense energy expenditure and the need for extensive bracing (bilateral KAFOs and a walker or crutches).",
+    "rationalesForIncorrectOptions": {
+      "2": "Posterior cord syndrome is an incomplete injury with motor function preserved, making ambulation a realistic goal.",
+      "3": "Brown-Séquard syndrome is an incomplete injury where one leg is strong, making ambulation a very realistic goal.",
+      "4": "Cauda equina injury is a lower motor neuron injury, and the potential for functional ambulation is generally good, depending on the extent of nerve root damage."
+    },
+    "subject": "Neurology",
+    "tags": ["spinal cord injury", "sci", "functional ambulation", "prognosis", "paraplegia", "pce-expertise"],
+    "source": "Scorebuilders 4, Q151"
+  },
+  {
+    "id": "sb4_q152",
+    "question": "As part of a sensory assessment, a physical therapist measures two-point discrimination throughout the upper extremity. Which skin region would you expect to have the smallest measured distance between two perceived points?",
+    "options": [
+      { "id": "1", "text": "lateral arm" },
+      { "id": "2", "text": "posterior forearm" },
+      { "id": "3", "text": "over first dorsal interosseous muscle" },
+      { "id": "4", "text": "distal phalanx of the thumb" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Two-point discrimination is the ability to discern that two nearby objects touching the skin are truly two distinct points. This ability is greatest in areas with a high density of sensory receptors. The fingertips have the highest density of mechanoreceptors in the body, and therefore the smallest distance for two-point discrimination.",
+    "rationalesForIncorrectOptions": {
+      "1": "The skin on the arm has a low density of sensory receptors and poor two-point discrimination.",
+      "2": "The skin on the forearm has a low density of sensory receptors.",
+      "3": "The dorsum of the hand has better sensation than the arm, but not as good as the fingertips."
+    },
+    "subject": "Neurology",
+    "tags": ["sensory testing", "two-point discrimination", "assessment", "dermatomes", "receptive field", "pce-expertise"],
+    "source": "Scorebuilders 4, Q152"
+  },
+  {
+    "id": "sb4_q153",
+    "question": "A physical therapist monitors a 29-year-old male with a C6 spinal cord injury positioned on a tilt table. After elevating the tilt table to 30 degrees, the patient begins to complain of nausea and dizziness. The patient's blood pressure is measured as 70/35 mmHg. The patient's signs and symptoms are most indicative of",
+    "options": [
+      { "id": "1", "text": "spinal shock" },
+      { "id": "2", "text": "postural hypertension" },
+      { "id": "3", "text": "autonomic dysreflexia" },
+      { "id": "4", "text": "orthostatic hypotension" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Orthostatic (or postural) hypotension is a significant drop in blood pressure upon moving to an upright position. Patients with SCI are at high risk due to the loss of sympathetic vasoconstriction and the absence of the skeletal muscle pump. The patient's symptoms (nausea, dizziness) and the measured drop in blood pressure are classic signs of this condition.",
+    "rationalesForIncorrectOptions": {
+      "1": "Spinal shock is a transient period of areflexia that occurs immediately after injury.",
+      "2": "Hypertension is high blood pressure; this patient has hypotension (low blood pressure).",
+      "3": "Autonomic dysreflexia is characterized by a sudden, massive *increase* in blood pressure."
+    },
+    "subject": "Neurology",
+    "tags": ["spinal cord injury", "sci", "orthostatic hypotension", "tilt table", "vital signs", "blood pressure", "pce-expertise"],
+    "source": "Scorebuilders 4, Q153"
+  },
+  {
+    "id": "sb4_q154",
+    "question": "A physical therapist attempts to examine the relationship between scores on a functional independence measure and another measurement whose validity is known. This type of example best describes",
+    "options": [
+      { "id": "1", "text": "face validity" },
+      { "id": "2", "text": "predictive validity" },
+      { "id": "3", "text": "concurrent validity" },
+      { "id": "4", "text": "content validity" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Concurrent validity, a form of criterion-related validity, is established when the results of a new test correlate well with the results of an established, valid test (the 'gold standard') that measures the same construct, when both are administered at approximately the same time.",
+    "rationalesForIncorrectOptions": {
+      "1": "Face validity is the extent to which a test appears to measure what it is supposed to measure on the surface.",
+      "2": "Predictive validity is the extent to which a test can predict a future outcome.",
+      "4": "Content validity is the extent to which a test adequately samples the content domain it is supposed to measure."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["research", "psychometrics", "validity", "concurrent validity", "outcome measure", "pce-scholarship"],
+    "source": "Scorebuilders 4, Q154"
+  },
+  {
+    "id": "sb4_q155",
+    "question": "A physical therapist reporting at a discharge team meeting indicates that a patient rehabilitating from a spinal cord injury should be able to perform household ambulation using knee-ankle-foot orthoses and crutches upon discharge. The patient's quadriceps strength is currently 2+/5. The most likely spinal cord injury level is",
+    "options": [
+      { "id": "1", "text": "L1" },
+      { "id": "2", "text": "L3" },
+      { "id": "3", "text": "L5" },
+      { "id": "4", "text": "S1" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "L3 is the highest spinal cord level that allows for potential household and community ambulation with KAFOs. The L3 myotome provides partial innervation to the quadriceps, which is consistent with the 2+/5 strength grade. Patients with lesions above L3 typically lack the necessary quadriceps function.",
+    "rationalesForIncorrectOptions": {
+      "1": "An L1 lesion would not have any quadriceps function.",
+      "3": "An L5 lesion would have stronger quadriceps and ankle dorsiflexion, likely only requiring AFOs, not KAFOs.",
+      "4": "An S1 lesion would have even better function and may not require any orthosis."
+    },
+    "subject": "Neurology",
+    "tags": ["spinal cord injury", "sci", "functional outcomes", "l3 paraplegia", "gait", "orthotics", "kafo", "pce-expertise"],
+    "source": "Scorebuilders 4, Q155"
+  },
+  {
+    "id": "sb4_q156",
+    "question": "A physical therapist reviews a physical therapy treatment records as part of a department quality assurance program. Which treatment objective would be the most likely to be reimbursed by a third party payer?",
+    "options": [
+      { "id": "1", "text": "promote compliance with exercise activities" },
+      { "id": "2", "text": "prevent scar tissue and contractures" },
+      { "id": "3", "text": "maintain range of motion" },
+      { "id": "4", "text": "improve cardiovascular endurance" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Third-party payers are most likely to reimburse for interventions that are clearly linked to a medical necessity and prevent future complications and costs. Preventing scar tissue and contractures is a medically necessary goal that, if not met, would lead to significant functional loss and potential need for further surgery. This makes it highly reimbursable.",
+    "rationalesForIncorrectOptions": {
+      "1": "While important, promoting compliance is a behavioral goal and is less likely to be seen as a primary reimbursable objective.",
+      "3": "Maintenance goals are often difficult to get reimbursed, as payers prefer to see goals aimed at restoring function.",
+      "4": "Improving endurance is a good goal, but preventing a specific pathology like a contracture is often viewed as more medically necessary."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["reimbursement", "insurance", "documentation", "goal setting", "medical necessity", "pce-management"],
+    "source": "Scorebuilders 4, Q156"
+  },
+  {
+    "id": "sb4_q157",
+    "question": "A patient rehabilitating from a traumatic head injury is lethargic since being placed on Phenobarbital. The primary purpose of the medication is to",
+    "options": [
+      { "id": "1", "text": "decrease agitation" },
+      { "id": "2", "text": "prevent seizures" },
+      { "id": "3", "text": "reduce spasticity" },
+      { "id": "4", "text": "limit central nervous system damage" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Phenobarbital is a barbiturate that is primarily used as an anticonvulsant to prevent and control seizures, particularly following a traumatic brain injury where the risk of post-traumatic epilepsy is high. Lethargy and sedation are common side effects.",
+    "rationalesForIncorrectOptions": {
+      "1": "While it causes sedation, it is not primarily used to manage agitation.",
+      "3": "Other medications like baclofen are used to manage spasticity.",
+      "4": "It does not limit the primary CNS damage from the trauma; it manages a potential secondary complication (seizures)."
+    },
+    "subject": "Neurology",
+    "tags": ["pharmacology", "phenobarbital", "traumatic brain injury", "tbi", "seizures", "anticonvulsant", "pce-expertise"],
+    "source": "Scorebuilders 4, Q157"
+  },
+  {
+    "id": "sb4_q158",
+    "question": "A physical therapist seeks patient consent prior to administering a selected treatment procedure. Which element is most essential when obtaining informed consent?",
+    "options": [
+      { "id": "1", "text": "specify treatment parameters" },
+      { "id": "2", "text": "provide the patient with a reasonable opportunity to refuse" },
+      { "id": "3", "text": "offer alternative treatment options" },
+      { "id": "4", "text": "justify the need for the selected treatment procedure." }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "The core principle of informed consent is respecting patient autonomy. This means that after being provided with the relevant information, the patient must have a clear and reasonable opportunity to accept or refuse the proposed treatment without coercion. This is the most essential element of the process.",
+    "rationalesForIncorrectOptions": {
+      "1": "Specifying parameters is part of explaining the procedure, which is a component of informed consent, but the opportunity to refuse is the most essential element.",
+      "3": "Offering alternatives is also a key component, but it is secondary to the fundamental right to refuse.",
+      "4": "Justifying the need is part of the explanation, but it is not the most essential element."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["informed consent", "patient autonomy", "patient rights", "refusal of care", "pce-professionalism"],
+    "source": "Scorebuilders 4, Q158"
+  },
+  {
+    "id": "sb4_q159",
+    "question": "A physical therapist prepares to treat a patient with continuous ultrasound. Which general rule best determines the length of treatment when using ultrasound?",
+    "options": [
+      { "id": "1", "text": "2 minutes for an area that is 2-3 times the size of the transducer face" },
+      { "id": "2", "text": "5 minutes for an area that is 2-3 times the size of the transducer face" },
+      { "id": "3", "text": "5 minutes is the maximum treatment time regardless of the treatment area" },
+      { "id": "4", "text": "10 minutes is the maximum treatment time regardless of the treatment area" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "A common clinical guideline for ultrasound application is to treat an area that is approximately 2-3 times the size of the effective radiating area (ERA) of the sound head for a duration of 5-7 minutes. This allows for adequate energy delivery to the target tissue.",
+    "rationalesForIncorrectOptions": {
+      "1": "2 minutes is generally too short to achieve a therapeutic effect.",
+      "3": "Treatment time should be adjusted based on the size of the treatment area.",
+      "4": "10 minutes may be appropriate for a very large area, but it is not a maximum limit, and the time should be guided by the area size."
+    },
+    "subject": "Other",
+    "tags": ["ultrasound", "modalities", "treatment parameters", "duration", "era", "pce-expertise"],
+    "source": "Scorebuilders 4, Q159"
+  },
+  {
+    "id": "sb4_q160",
+    "question": "A physical therapist attempts to prevent alveolar collapse in a patient following thoracic surgery. Which breathing technique would be the most beneficial to achieve the established goal?",
+    "options": [
+      { "id": "1", "text": "diaphragmatic breathing" },
+      { "id": "2", "text": "pursed-lip breathing" },
+      { "id": "3", "text": "incentive spirometry" },
+      { "id": "4", "text": "segmental breathing" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Incentive spirometry provides visual feedback to encourage the patient to take a sustained maximal inspiration. This action helps to fully inflate the lungs, open up collapsed alveoli (atelectasis), and prevent post-operative pulmonary complications.",
+    "rationalesForIncorrectOptions": {
+      "1": "Diaphragmatic breathing is a good technique but does not ensure the maximal inspiration needed to reverse atelectasis as effectively as an incentive spirometer.",
+      "2": "Pursed-lip breathing is an expiratory technique used to keep airways open in patients with obstructive lung disease; it does not promote inspiration.",
+      "4": "Segmental breathing is a useful technique but is generally less effective for overall alveolar recruitment than incentive spirometry."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["post-operative", "breathing exercises", "incentive spirometry", "atelectasis", "alveolar collapse", "pce-expertise"],
+    "source": "Scorebuilders 4, Q160"
+  },
+  {
+    "id": "sb4_q161",
+    "question": "A physical therapist instructs a patient in a three-point gait pattern. Which assistive device would be most appropriate when performing the gait pattern?",
+    "options": [
+      { "id": "1", "text": "bilateral canes" },
+      { "id": "2", "text": "quad cane" },
+      { "id": "3", "text": "one axillary crutch" },
+      { "id": "4", "text": "axillary crutches" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "A three-point gait pattern is used when a patient is non-weight bearing or partial weight bearing on one leg. It requires a bilateral assistive device that can be advanced with the involved leg. Standard axillary crutches or a walker are the most appropriate devices to provide the necessary support and stability for this gait pattern.",
+    "rationalesForIncorrectOptions": {
+      "1": "Bilateral canes do not provide sufficient support for a non-weight bearing or significantly limited weight-bearing gait.",
+      "2": "A quad cane is a unilateral device and is not used for a three-point gait.",
+      "3": "A single axillary crutch does not provide enough support for a three-point gait."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["gait patterns", "gait training", "assistive devices", "three-point gait", "crutches", "pce-expertise"],
+    "source": "Scorebuilders 4, Q161"
+  },
+  {
+    "id": "sb4_q162",
+    "question": "A physical therapist reviews the surface anatomy of the hand in preparation for a patient status post wrist arthrodesis. Which bony structure does not articulate with the lunate?",
+    "options": [
+      { "id": "1", "text": "trapezium" },
+      { "id": "2", "text": "radius" },
+      { "id": "3", "text": "capitate" },
+      { "id": "4", "text": "scaphoid" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The lunate articulates with the radius proximally, the capitate and hamate distally, and the scaphoid and triquetrum on its sides. The trapezium is in the distal carpal row and articulates with the scaphoid and the first metacarpal; it does not have a direct articulation with the lunate.",
+    "rationalesForIncorrectOptions": {
+      "2": "The lunate articulates with the distal radius to form the radiocarpal joint.",
+      "3": "The lunate has a large articulation with the capitate.",
+      "4": "The lunate articulates with the scaphoid."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["anatomy", "wrist", "carpal bones", "lunate", "articulation", "pce-expertise"],
+    "source": "Scorebuilders 4, Q162"
+  },
+  {
+    "id": "sb4_q163",
+    "question": "A physical therapist conducts a sensory assessment on numerous areas of a patient's face. The cranial nerve most likely assessed using this type of testing procedure is",
+    "options": [
+      { "id": "1", "text": "facial" },
+      { "id": "2", "text": "oculomotor" },
+      { "id": "3", "text": "trigeminal" },
+      { "id": "4", "text": "trochlear" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "The trigeminal nerve (Cranial Nerve V) is the primary sensory nerve for the face. It has three branches (ophthalmic, maxillary, and mandibular) that supply sensation to the forehead, cheeks, and jaw.",
+    "rationalesForIncorrectOptions": {
+      "1": "The facial nerve (CN VII) is primarily a motor nerve for the muscles of facial expression; it has a small sensory component for taste but not for facial sensation.",
+      "2": "The oculomotor nerve (CN III) is a motor nerve that controls eye movements.",
+      "4": "The trochlear nerve (CN IV) is a motor nerve that controls the superior oblique muscle of the eye."
+    },
+    "subject": "Neurology",
+    "tags": ["cranial nerves", "trigeminal nerve", "cn v", "sensory testing", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q163"
+  },
+  {
+    "id": "sb4_q164",
+    "question": "A physical therapist examines a three-year-old child diagnosed with asthma. The child's condition has resulted in limitations of daily activity and occasional bed rest for one or more days. Which type of physical therapy intervention would be the most beneficial?",
+    "options": [
+      { "id": "1", "text": "parent education and involvement" },
+      { "id": "2", "text": "relaxation training" },
+      { "id": "3", "text": "exercise to improve or maintain range of motion" },
+      { "id": "4", "text": "instruction in diaphragmatic breathing and effective coughing techniques" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "For a chronic condition like asthma in a very young child, parent education and involvement is the most critical intervention. The therapist must educate the parents on recognizing triggers, managing the environment, monitoring activities, and understanding the proper use of medications to control the condition and prevent acute episodes.",
+    "rationalesForIncorrectOptions": {
+      "2": "Relaxation training can be helpful but is not the most fundamental intervention.",
+      "3": "Range of motion is not typically affected by asthma.",
+      "4": "Breathing techniques are beneficial, but their successful implementation relies on the parents' understanding and reinforcement."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["pediatrics", "asthma", "patient education", "family education", "management", "pce-communication"],
+    "source": "Scorebuilders 4, Q164"
+  },
+  {
+    "id": "sb4_q165",
+    "question": "A physical therapist treats a patient in a medical intensive care unit. The therapist notices that intravenous solution appears to be infusing into the tissues surrounding the dorsum of the patient's hand. The most appropriate therapist action is",
+    "options": [
+      { "id": "1", "text": "contact nursing" },
+      { "id": "2", "text": "reposition the intravenous line" },
+      { "id": "3", "text": "remove the intravenous line" },
+      { "id": "4", "text": "document the incident in the medical record" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The observation describes IV infiltration, which can be harmful to the tissues. The management of IV lines is the responsibility of the nursing staff. The physical therapist's role is to identify the problem and immediately contact the nurse to manage it. The therapist should first stop any fluid flow if possible (e.g., pause the pump), then alert the nurse.",
+    "rationalesForIncorrectOptions": {
+      "2": "Repositioning an IV line is outside the physical therapist's scope of practice.",
+      "3": "Removing an IV line is outside the physical therapist's scope of practice.",
+      "4": "Documentation is important but is secondary to taking action to ensure patient safety by alerting the nursing staff."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["iv line", "infiltration", "safety", "scope of practice", "communication", "icu", "pce-management"],
+    "source": "Scorebuilders 4, Q165"
+  },
+  {
+    "id": "sb4_q166",
+    "question": "A physical therapist completes a cognitive function test on a patient status post stroke. As part of the test, the therapist examines the patient's abstract ability. Which of the following tasks would be the most appropriate?",
+    "options": [
+      { "id": "1", "text": "repetition of a series of letters" },
+      { "id": "2", "text": "reproduce a figure from a picture" },
+      { "id": "3", "text": "discuss how two objects are similar" },
+      { "id": "4", "text": "verbalize a position statement" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Abstract thinking is the ability to understand concepts that are not concrete. Asking a patient to describe how two objects (e.g., a cat and a mouse) are similar requires them to move beyond concrete descriptions and identify an abstract category (e.g., 'they are both animals'). Interpreting proverbs is another common method.",
+    "rationalesForIncorrectOptions": {
+      "1": "Repetition of letters or numbers tests attention and immediate recall.",
+      "2": "Reproducing a figure tests constructional ability and visuospatial skills.",
+      "4": "Verbalizing a position statement is not a standard cognitive test."
+    },
+    "subject": "Neurology",
+    "tags": ["cognitive assessment", "abstract thinking", "stroke", "cognition", "pce-expertise"],
+    "source": "Scorebuilders 4, Q166"
+  },
+  {
+    "id": "sb4_q167",
+    "question": "A patient fails to attain established physical therapy goals within the number of visits approved by the patient's third party payer. The patient has made progress in therapy, however, has been slowed somewhat by an adverse reaction to medication. The most appropriate physical therapist action is",
+    "options": [
+      { "id": "1", "text": "request additional visits from the referring physician" },
+      { "id": "2", "text": "request additional visits from the third party payer" },
+      { "id": "3", "text": "inform the patient that physical therapy services may not be fully covered by the third party payer" },
+      { "id": "4", "text": "discharge the patient from physical therapy with a home exercise program" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Since the patient is still making progress and has a justifiable reason for the slow progress (adverse medication reaction), the therapist should request authorization for additional visits from the third-party payer. This requires documenting the progress made and providing a clear rationale for the continued need for skilled therapy.",
+    "rationalesForIncorrectOptions": {
+      "1": "The referring physician provides the referral, but the insurance company (third-party payer) provides the authorization for payment.",
+      "3": "While true, this doesn't solve the problem. The therapist should first advocate for the patient by requesting more visits.",
+      "4": "Discharging the patient would be premature as they are still making progress and would benefit from continued skilled care."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["insurance", "reimbursement", "authorization", "documentation", "patient advocacy", "pce-management"],
+    "source": "Scorebuilders 4, Q167"
+  },
+  {
+    "id": "sb4_q168",
+    "question": "A physical therapist documents in the medical record that a patient has moved from Stage 5 to Stage 6 of Brunnstrom's Stages of Recovery. This type of transition is characterized by",
+    "options": [
+      { "id": "1", "text": "absence of associated reactions" },
+      { "id": "2", "text": "disappearance of spasticity" },
+      { "id": "3", "text": "voluntary movement begins outside of synergy patterns" },
+      { "id": "4", "text": "normal motor function" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "The transition from Brunnstrom Stage 5 to Stage 6 is characterized by the disappearance of spasticity. In Stage 5, spasticity is still present but waning. In Stage 6, individual joint movements are possible and coordination approaches normal, with no spasticity present.",
+    "rationalesForIncorrectOptions": {
+      "1": "Absence of associated reactions is a characteristic of Stage 6, but the disappearance of spasticity is the key change from Stage 5.",
+      "3": "Movement outside of synergy patterns begins in Stage 4 and becomes more complex in Stage 5.",
+      "4": "Normal motor function is achieved in Stage 7, which is not always attained."
+    },
+    "subject": "Neurology",
+    "tags": ["stroke", "cva", "brunnstrom stages", "motor recovery", "spasticity", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q168"
+  },
+  {
+    "id": "sb4_q169",
+    "question": "A physical therapist attempts to auscultate over the aortic valve on a patient status post myocardial infarction. The most appropriate area to auscultate is",
+    "options": [
+      { "id": "1", "text": "second right intercostal space at the right sternal border" },
+      { "id": "2", "text": "second left intercostal space at the left sternal border" },
+      { "id": "3", "text": "fourth left intercostal space along the lower left sternal border" },
+      { "id": "4", "text": "fifth left intercostal space at the midclavicular line" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The aortic valve is best auscultated at the second intercostal space along the right sternal border. This is one of the four primary auscultation points for the heart valves.",
+    "rationalesForIncorrectOptions": {
+      "2": "This is the auscultation point for the pulmonic valve.",
+      "3": "This is the auscultation point for the tricuspid valve.",
+      "4": "This is the auscultation point for the mitral valve (also the point of maximal impulse)."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["auscultation", "heart sounds", "cardiac valves", "aortic valve", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q169"
+  },
+  {
+    "id": "sb4_q170",
+    "question": "A physical therapist preparing a hot pack notices the water in the hot pack unit is cloudy. The most probable explanation is",
+    "options": [
+      { "id": "1", "text": "power failure" },
+      { "id": "2", "text": "seepage from a hot pack" },
+      { "id": "3", "text": "ineffective heating element" },
+      { "id": "4", "text": "thermostat set too low" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Hot packs are typically filled with hydrophilic silicate gel. If a pack develops a leak or tear, this silicate gel will seep out into the water, causing it to become cloudy. This indicates the pack is damaged and should be discarded.",
+    "rationalesForIncorrectOptions": {
+      "1": "A power failure would cause the water to be cold, not cloudy.",
+      "3": "An ineffective heating element would result in cool water.",
+      "4": "A thermostat set too low would result in cool water."
+    },
+    "subject": "Other",
+    "tags": ["modalities", "hot pack", "hydrocollator", "safety", "maintenance", "pce-management"],
+    "source": "Scorebuilders 4, Q170"
+  },
+  {
+    "id": "sb4_q171",
+    "question": "A physical therapist designs a home exercise program for a patient rehabilitating from a lower extremity injury. Which step would be the most appropriate to maximize patient compliance?",
+    "options": [
+      { "id": "1", "text": "limit the exercise program to 10 minutes" },
+      { "id": "2", "text": "select a maximum of five different exercises" },
+      { "id": "3", "text": "select exercises consistent with the patient's rehabilitation goals" },
+      { "id": "4", "text": "avoid physically demanding exercises" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Patient compliance is greatest when the patient understands the purpose of the exercises and sees how they relate to their personal goals. Designing a program that is directly linked to the patient's stated functional goals provides motivation and makes the program meaningful.",
+    "rationalesForIncorrectOptions": {
+      "1": "Limiting the program to a specific time is arbitrary. The duration should be based on the necessary exercises.",
+      "2": "Limiting the number of exercises is a good strategy, but ensuring the exercises are goal-oriented is more important for compliance.",
+      "4": "Avoiding all demanding exercises may prevent the patient from making progress, which can be demotivating."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["home exercise program", "patient compliance", "adherence", "goal setting", "patient-centered care", "pce-communication"],
+    "source": "Scorebuilders 4, Q171"
+  },
+  {
+    "id": "sb4_q172",
+    "question": "A physical therapist performs gait-training activities with an eight-year-old child who utilizes a reciprocating gait orthosis. Which medical diagnosis is most often associated with the use of this type of orthotic device?",
+    "options": [
+      { "id": "1", "text": "cerebral palsy" },
+      { "id": "2", "text": "Down syndrome" },
+      { "id": "3", "text": "Legg-Calve Perthes disease" },
+      { "id": "4", "text": "spina bifida" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "A reciprocating gait orthosis (RGO) is a type of hip-knee-ankle-foot orthosis (HKAFO) with a cable system that links the two hip joints. It allows a patient with lower extremity paralysis to ambulate by using trunk extension to advance the legs. It is most commonly used for children with high-level spina bifida.",
+    "rationalesForIncorrectOptions": {
+      "1": "Children with cerebral palsy may use various orthoses, but the RGO is not a primary choice.",
+      "2": "Children with Down syndrome typically have hypotonia and do not require this level of bracing.",
+      "3": "Legg-Calvé-Perthes disease affects the hip joint and is managed with positioning or containment orthoses, not an RGO."
+    },
+    "subject": "Neurology",
+    "tags": ["orthotics", "rgo", "reciprocating gait orthosis", "spina bifida", "pediatrics", "gait", "pce-expertise"],
+    "source": "Scorebuilders 4, Q172"
+  },
+  {
+    "id": "sb4_q173",
+    "question": "A physical therapist instructs a patient rehabilitating from thoracic surgery to produce an effective cough. Which patient position would be the most appropriate to initiate treatment?",
+    "options": [
+      { "id": "1", "text": "standing" },
+      { "id": "2", "text": "sitting" },
+      { "id": "3", "text": "sidelying" },
+      { "id": "4", "text": "hooklying" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "The sitting position is generally the easiest and most effective position for a patient to produce a strong cough. It allows for good lung expansion and enables the patient to use gravity to their advantage by leaning forward, which helps to compress the abdomen and increase expiratory force.",
+    "rationalesForIncorrectOptions": {
+      "1": "Standing requires more postural control and may be too challenging for a post-operative patient.",
+      "3": "Sidelying can be used but is generally less effective than sitting for generating a maximal cough.",
+      "4": "Hooklying is a supine position and is less effective than an upright position."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["cough", "airway clearance", "post-operative", "thoracic surgery", "positioning", "pce-expertise"],
+    "source": "Scorebuilders 4, Q173"
+  },
+  {
+    "id": "sb4_q174",
+    "question": "A 65-year-old female falls while attempting to shovel snow in her driveway and sustains a nondisplaced humerus fracture. The patient has no significant past medical history and has lived alone since the death of her spouse approximately six years ago. The most appropriate setting for physical therapy is",
+    "options": [
+      { "id": "1", "text": "inpatient rehabilitation hospital" },
+      { "id": "2", "text": "skilled nursing facility" },
+      { "id": "3", "text": "outpatient orthopedic practice" },
+      { "id": "4", "text": "home health services" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "The patient is otherwise healthy, living independently, and has sustained an uncomplicated, non-displaced fracture that does not require surgery. She does not require the intensive level of care provided by an inpatient, SNF, or home health setting. An outpatient orthopedic clinic is the most appropriate setting for her rehabilitation.",
+    "rationalesForIncorrectOptions": {
+      "1": "Inpatient rehab is for patients who require intensive therapy and cannot be managed at home.",
+      "2": "A skilled nursing facility is for patients who require 24-hour nursing care and are not safe to return home.",
+      "4": "Home health services are for patients who are homebound and unable to travel to an outpatient clinic."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["level of care", "setting", "discharge planning", "humerus fracture", "outpatient", "pce-management"],
+    "source": "Scorebuilders 4, Q174"
+  },
+  {
+    "id": "sb4_q175",
+    "question": "A patient with a transtibial amputation ambulates in the physical therapy gym. The patient exhibits an extended knee throughout early stance phase on the prosthetic side. The most appropriate solution to resolve the patient's difficulty is",
+    "options": [
+      { "id": "1", "text": "inset the foot" },
+      { "id": "2", "text": "soften the heel wedge" },
+      { "id": "3", "text": "move the foot anteriorly" },
+      { "id": "4", "text": "dorsiflex the foot" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "An extended knee thrust during early stance is often caused by the prosthetic foot being set in too much plantar flexion. This creates a strong extension moment at the knee. To correct this, the prosthetist can dorsiflex the prosthetic foot, which will create a knee flexion moment and allow for a more natural gait.",
+    "rationalesForIncorrectOptions": {
+      "1": "Insetting the foot would affect frontal plane alignment, not the sagittal plane extension moment.",
+      "2": "A soft heel wedge can absorb impact but will not correct the alignment issue causing the knee extension thrust.",
+      "3": "Moving the foot anteriorly would increase the extension moment and worsen the problem."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["prosthetics", "gait deviation", "transtibial", "amputation", "knee extension thrust", "alignment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q175"
+  },
+  {
+    "id": "sb4_q176",
+    "question": "A physical therapist examines a patient with right hemiplegia. As part of the examination the therapist positions the patient in supine. The most appropriate therapist action to facilitate spontaneous right hip abduction is to",
+    "options": [
+      { "id": "1", "text": "apply manual resistance to the right hip adductors" },
+      { "id": "2", "text": "apply manual resistance to the left hip adductors" },
+      { "id": "3", "text": "apply manual resistance to the right hip abductors" },
+      { "id": "4", "text": "apply manual resistance to the left hip abductors" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "This question describes Raimiste's phenomenon, an associated reaction where resistance to a motion in the uninvolved limb evokes the same motion in the involved limb. To facilitate right hip abduction, the therapist should apply manual resistance to the *left* (uninvolved) hip abductors.",
+    "rationalesForIncorrectOptions": {
+      "1": "Resisting the antagonist (adductors) on the same side would facilitate the adductors through reciprocal inhibition, not the abductors.",
+      "2": "Resisting adduction on the left would facilitate adduction on the right.",
+      "3": "Resisting the muscle you want to facilitate is a strengthening technique, not a facilitation technique for spontaneous movement."
+    },
+    "subject": "Neurology",
+    "tags": ["stroke", "cva", "hemiplegia", "facilitation", "associated reactions", "raimistes phenomenon", "pce-expertise"],
+    "source": "Scorebuilders 4, Q176"
+  },
+  {
+    "id": "sb4_q177",
+    "question": "A physical therapist provides preoperative instructions for a patient scheduled for hip replacement surgery. As part of the session, the therapist discusses the importance of preventing deep venous thrombosis following surgery. Which finding is the best indicator that the patient is at minimal risk of acquiring a deep venous thrombosis?",
+    "options": [
+      { "id": "1", "text": "ability to perform ankle pumps and muscle setting exercises" },
+      { "id": "2", "text": "ability to ambulated on a frequent schedule" },
+      { "id": "3", "text": "ability to achieve full hip range of motion within the allowable limits" },
+      { "id": "4", "text": "ability to utilize pneumatic compression devices and elastic stockings" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Frequent ambulation is the most effective way to prevent deep vein thrombosis (DVT). The calf muscle pump action during walking significantly increases venous return and prevents the venous stasis that leads to clot formation. A patient's ability to ambulate frequently is the best functional indicator of low DVT risk.",
+    "rationalesForIncorrectOptions": {
+      "1": "While helpful, ankle pumps and muscle setting are not as effective as full ambulation.",
+      "3": "Range of motion is not directly related to DVT prevention.",
+      "4": "These are passive devices used for DVT prevention, but the patient's own ability to ambulate is a stronger indicator of low risk."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["dvt", "deep vein thrombosis", "prevention", "ambulation", "post-operative", "pce-expertise"],
+    "source": "Scorebuilders 4, Q177"
+  },
+  {
+    "id": "sb4_q178",
+    "question": "A physical therapist applies silver sulfadiazine to a wound after hydrotherapy treatment. Which type of aseptic equipment is necessary when applying the topical agent?",
+    "options": [
+      { "id": "1", "text": "gloves" },
+      { "id": "2", "text": "sterile gloves" },
+      { "id": "3", "text": "gloves, gown" },
+      { "id": "4", "text": "sterile gloves, gown" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Silver sulfadiazine is an antimicrobial agent applied directly to a wound, often a burn, to prevent infection. Any time a topical agent is applied directly into a wound bed, sterile technique, including the use of sterile gloves, is required to prevent introducing new pathogens.",
+    "rationalesForIncorrectOptions": {
+      "1": "Non-sterile gloves are not appropriate for direct wound care.",
+      "3": "A gown is not typically required unless there is a risk of significant splashing.",
+      "4": "A gown is not typically required."
+    },
+    "subject": "Other",
+    "tags": ["wound care", "aseptic technique", "sterile technique", "silver sulfadiazine", "infection control", "pce-management"],
+    "source": "Scorebuilders 4, Q178"
+  },
+  {
+    "id": "sb4_q179",
+    "question": "A patient diagnosed with Cushing's syndrome is referred to physical therapy. Which of the following signs and symptoms is not consistent with this syndrome?",
+    "options": [
+      { "id": "1", "text": "distension of the abdomen" },
+      { "id": "2", "text": "swelling in the facial area" },
+      { "id": "3", "text": "adrenal hypoplasia" },
+      { "id": "4", "text": "cardiac hypertrophy" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Cushing's syndrome is caused by an excess of cortisol, which is produced by the adrenal glands. This is typically due to adrenal hyperplasia (overgrowth of the adrenal gland) or an adrenal tumor, not hypoplasia (underdevelopment).",
+    "rationalesForIncorrectOptions": {
+      "1": "Abdominal distension with thin extremities is a classic sign due to central fat deposition.",
+      "2": "Facial swelling, often described as a 'moon face', is a hallmark sign of Cushing's.",
+      "4": "Cardiac hypertrophy can occur as a result of the hypertension and other metabolic changes associated with Cushing's syndrome."
+    },
+    "subject": "Other",
+    "tags": ["endocrinology", "cushings syndrome", "cortisol", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q179"
+  },
+  {
+    "id": "sb4_q180",
+    "question": "A physical therapist performs an initial examination on an 84-year-old female in the physical therapy gym. The patient answers the therapist's questions in a very soft voice and appears to be intimidated by the bustling environment. The most appropriate therapist action is",
+    "options": [
+      { "id": "1", "text": "ask the patient if she understands why she was referred to physical therapy" },
+      { "id": "2", "text": "tell the patient to relax and speak louder" },
+      { "id": "3", "text": "complete the examination in a private treatment room" },
+      { "id": "4", "text": "ask the patient about her rehabilitation goals" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "The patient is clearly uncomfortable in the current environment. To respect the patient's dignity, build rapport, and create a safe and effective therapeutic environment, the therapist should move the examination to a private treatment room where the patient will be less intimidated and more comfortable.",
+    "rationalesForIncorrectOptions": {
+      "1": "This is a reasonable question but does not address the environmental cause of the patient's discomfort.",
+      "2": "Telling the patient to relax and speak up is dismissive of her feelings and does not address the root cause of her intimidation.",
+      "4": "This is a good question to ask, but it should be done after the environmental barrier has been removed."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["communication", "environment", "patient comfort", "rapport", "geriatrics", "pce-communication"],
+    "source": "Scorebuilders 4, Q180"
+  },
+  {
+    "id": "sb4_q181",
+    "question": "A group of physical therapists designs a research study, which examines the reliability of the Functional Independence Measure (FIM). To measure reliability the therapists utilize a test-retest design. What is the most significant source of error with this type of research design?",
+    "options": [
+      { "id": "1", "text": "change in subject behavior as a result of being measured" },
+      { "id": "2", "text": "tendency to rate too strictly or leniently" },
+      { "id": "3", "text": "change in test forms due to sampling of items" },
+      { "id": "4", "text": "change in subject situation over time" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "A test-retest design measures the consistency of a tool over time. The most significant threat to this type of reliability is that the patient's actual functional status may change between the two testing sessions, which can be mistaken for a lack of reliability in the measurement tool.",
+    "rationalesForIncorrectOptions": {
+      "1": "This describes the Hawthorne effect, which is a threat to validity, not test-retest reliability.",
+      "2": "This is a source of error for inter-rater reliability, not test-retest reliability.",
+      "3": "This is not relevant as the same test form is used in a test-retest design."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["research", "reliability", "psychometrics", "test-retest reliability", "error", "pce-scholarship"],
+    "source": "Scorebuilders 4, Q181"
+  },
+  {
+    "id": "sb4_q182",
+    "question": "A patient status post knee surgery receives instructions on the use of a continuous passive motion machine. Which of the following would be the most essential to ensure patient safety?",
+    "options": [
+      { "id": "1", "text": "instructions on progression of range of motion" },
+      { "id": "2", "text": "utilization of proximal and distal stabilization straps" },
+      { "id": "3", "text": "recommendations for cryotherapy following treatment sessions" },
+      { "id": "4", "text": "orientation to remote on/off switch" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "The most essential element for patient safety is ensuring the patient knows how to turn the machine off immediately if they experience excessive pain or a problem. The on/off switch or remote gives the patient control and is a critical safety feature.",
+    "rationalesForIncorrectOptions": {
+      "1": "Progression of ROM is typically managed by the therapist, not the patient.",
+      "2": "Proper strapping is important for effective use but is not as critical for immediate safety as the off switch.",
+      "3": "Cryotherapy recommendations are an adjunct to the treatment, not an essential safety feature of the CPM itself."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["cpm", "continuous passive motion", "patient education", "safety", "pce-management", "pce-communication"],
+    "source": "Scorebuilders 4, Q182"
+  },
+  {
+    "id": "sb4_q183",
+    "question": "A physical therapist instructs a patient rehabilitating from a rotator cuff repair in a home exercise program. The patient is a 27-year-old male who is illiterate. The most appropriate action to promote compliance with the exercise program is",
+    "options": [
+      { "id": "1", "text": "ask the patient to memorize the exercises" },
+      { "id": "2", "text": "use short sentences consisting of simple words" },
+      { "id": "3", "text": "draw pictures to describe the exercises" },
+      { "id": "4", "text": "do not utilize a home exercise program" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "For a patient who is illiterate, written instructions are not useful. The best way to create a handout they can refer to at home is to use clear pictures or diagrams of the exercises. This provides a visual guide that is not dependent on reading ability.",
+    "rationalesForIncorrectOptions": {
+      "1": "Relying solely on memory is likely to lead to poor compliance and incorrect exercise performance.",
+      "2": "Using simple verbal instructions is good during the session, but it does not provide the patient with a reference to use at home.",
+      "4": "Not providing a home program is inappropriate and would hinder the patient's recovery."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["home exercise program", "patient education", "health literacy", "communication", "pce-communication", "pce-management"],
+    "source": "Scorebuilders 4, Q183"
+  },
+  {
+    "id": "sb4_q184",
+    "question": "A physical therapist treats a patient status post femur fracture with external fixation. While monitoring the patient during an exercise session, the therapist observes clear drainage from a distal pin site. The most appropriate therapist action is",
+    "options": [
+      { "id": "1", "text": "discontinue the exercise session and contact the referring physician" },
+      { "id": "2", "text": "use a gauze pad to absorb the drainage and notify nursing" },
+      { "id": "3", "text": "use a gauze pad to absorb the drainage and continue with the exercise session" },
+      { "id": "4", "text": "document the finding and discontinue the exercise session" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Clear (serous) drainage from a pin site is a common and normal finding, especially during exercise, as movement can cause a small amount of fluid leakage. It is not typically a sign of infection. The appropriate action is to absorb the drainage with gauze, continue with the treatment, and monitor the site. It does not require stopping the session or contacting the physician.",
+    "rationalesForIncorrectOptions": {
+      "1": "This is an overreaction. Clear drainage is not an indication of a serious complication.",
+      "2": "Notifying nursing may be appropriate after the session, but it is not necessary to stop the treatment.",
+      "4": "Discontinuing the session is not warranted for clear drainage."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["external fixation", "pin site care", "fracture", "rehabilitation", "clinical decision making", "pce-expertise"],
+    "source": "Scorebuilders 4, Q184"
+  },
+  {
+    "id": "sb4_q185",
+    "question": "A patient attempts to complete a transfer from a wheelchair to a mat table. The most appropriate method to protect the patient while completing the transfer is",
+    "options": [
+      { "id": "1", "text": "have the patient use non-skid socks" },
+      { "id": "2", "text": "utilize proper guarding technique" },
+      { "id": "3", "text": "insist the patient use a gait belt" },
+      { "id": "4", "text": "instruct the patient how to fall" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Utilizing proper guarding technique is the most comprehensive and essential method for protecting a patient during a transfer. This encompasses all aspects of safety, including using a gait belt, maintaining a close position, controlling the center of mass, and being prepared to assist the patient as needed.",
+    "rationalesForIncorrectOptions": {
+      "1": "Non-skid socks are a useful component of safety, but they are not the most important overall method.",
+      "3": "A gait belt is a key tool used in proper guarding, but 'utilize proper guarding technique' is a more encompassing answer.",
+      "4": "Fall instruction is useful but is a reactive strategy; proper guarding is a proactive strategy to prevent the fall in the first place."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["safety", "transfers", "guarding", "gait belt", "pce-management", "pce-expertise"],
+    "source": "Scorebuilders 4, Q185"
+  },
+  {
+    "id": "sb4_q186",
+    "question": "A physical therapist completes a gait assessment on a patient diagnosed with knee pain of unknown etiology. The therapist identifies excessive foot pronation during midstance through toe off. The most likely cause of the deviation is",
+    "options": [
+      { "id": "1", "text": "pes cavus" },
+      { "id": "2", "text": "uncompensated lateral rotation of the tibia" },
+      { "id": "3", "text": "compensated forefoot varus deformity" },
+      { "id": "4", "text": "dorsiflexor weakness" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Excessive foot pronation is a common compensation for a number of structural deformities. One of the most common is a compensated forefoot varus, where the rearfoot must evert (a component of pronation) to bring the medial forefoot into contact with the ground during stance.",
+    "rationalesForIncorrectOptions": {
+      "1": "Pes cavus is a high-arched, rigid foot type that is typically associated with a lack of pronation (supination).",
+      "2": "Lateral tibial rotation is associated with supination, not pronation.",
+      "4": "Dorsiflexor weakness would cause a foot drop or foot slap during initial contact and swing, not excessive pronation during midstance."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["gait analysis", "pronation", "foot and ankle", "forefoot varus", "compensation", "pce-expertise"],
+    "source": "Scorebuilders 4, Q186"
+  },
+  {
+    "id": "sb4_q187",
+    "question": "A physical therapist reviews the medical record of a patient with a suspected head injury. During testing using the Glasgow Coma Scale, the patient exhibited spontaneous eye opening, was able to follow selected motor commands, and was considered to be “oriented” based on verbal responses. The most likely score assigned to the patient would be",
+    "options": [
+      { "id": "1", "text": "6" },
+      { "id": "2", "text": "12" },
+      { "id": "3", "text": "15" },
+      { "id": "4", "text": "18" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "The Glasgow Coma Scale (GCS) is scored as follows: Spontaneous eye opening = 4 points. Follows motor commands = 6 points. Oriented verbal response = 5 points. The total score would be 4 + 6 + 5 = 15, which is the maximum possible score, indicating no impairment in consciousness.",
+    "rationalesForIncorrectOptions": {
+      "1": "A score of 6 is extremely low and indicates a severe coma.",
+      "2": "A score of 12 indicates a moderate head injury.",
+      "4": "The GCS is not scored out of 18."
+    },
+    "subject": "Neurology",
+    "tags": ["glasgow coma scale", "gcs", "assessment", "traumatic brain injury", "consciousness", "pce-expertise"],
+    "source": "Scorebuilders 4, Q187"
+  },
+  {
+    "id": "sb4_q188",
+    "question": "A physical therapist uses a subjective pain scale to assess pain intensity in a patient with multiple sclerosis. The pain scale consists of a 10 cm line with each end anchored by one extreme of perceived pain intensity. The patient is asked to mark on the line the point that best describes their present pain level. this type of scale is best termed",
+    "options": [
+      { "id": "1", "text": "descriptor differential scale" },
+      { "id": "2", "text": "verbal rating scale" },
+      { "id": "3", "text": "visual analog scale" },
+      { "id": "4", "text": "numerical rating scale" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "The description of a 10 cm line anchored by two extremes (e.g., 'no pain' and 'worst pain imaginable') on which the patient marks their pain level is the definition of a Visual Analog Scale (VAS).",
+    "rationalesForIncorrectOptions": {
+      "1": "This is not a standard term for a pain scale.",
+      "2": "A verbal rating scale uses a series of descriptive words (e.g., 'mild', 'moderate', 'severe').",
+      "4": "A numerical rating scale asks the patient to rate their pain on a scale from 0 to 10."
+    },
+    "subject": "Other",
+    "tags": ["pain assessment", "outcome measure", "visual analog scale", "vas", "pce-expertise"],
+    "source": "Scorebuilders 4, Q188"
+  },
+  {
+    "id": "sb4_q189",
+    "question": "A physical therapist assesses end-feel while completing passive plantarflexion range of motion. The therapist classifies the end-feel as firm. Which of the following structures would not contribute to the firm end-feel?",
+    "options": [
+      { "id": "1", "text": "tension in the anterior joint capsule" },
+      { "id": "2", "text": "tension in the tibialis anterior" },
+      { "id": "3", "text": "tension in the anterior talofibular ligament" },
+      { "id": "4", "text": "tension in the calcaneofibular ligament" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "Passive plantarflexion is limited by tension in the structures on the anterior side of the ankle. The calcaneofibular ligament is a lateral ligament that resists inversion and dorsiflexion; it would be on slack during plantarflexion and would not contribute to the end-feel.",
+    "rationalesForIncorrectOptions": {
+      "1": "Tension in the anterior joint capsule is a primary contributor to the firm end-feel of plantarflexion.",
+      "2": "Tension in the tibialis anterior and other dorsiflexor muscles contributes to the end-feel.",
+      "3": "The anterior talofibular ligament is on the anterior side and would be tensioned with plantarflexion."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["end-feel", "assessment", "ankle", "plantarflexion", "arthrokinematics", "pce-expertise"],
+    "source": "Scorebuilders 4, Q189"
+  },
+  {
+    "id": "sb4_q190",
+    "question": "A physical therapist would like to use phonophoresis as a component of a patient's plan of care, but is concerned about the potential of the ultrasound to exacerbate the patient's current inflammation. The most effective method to address the therapist's concern is",
+    "options": [
+      { "id": "1", "text": "utilize ultrasound with a frequency of 1 MHz" },
+      { "id": "2", "text": "limit treatment time to five minutes" },
+      { "id": "3", "text": "incorporate a pulsed 20% duty cycle" },
+      { "id": "4", "text": "select an ultrasound intensity less than 1.5 W/cm²" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "To minimize the thermal effects of ultrasound and avoid exacerbating acute inflammation, the therapist should use a pulsed duty cycle. A low duty cycle, such as 20%, delivers the ultrasound energy in a non-thermal manner, which is thought to promote healing through mechanical effects without increasing tissue temperature.",
+    "rationalesForIncorrectOptions": {
+      "1": "Frequency determines the depth of penetration, not the thermal effect.",
+      "2": "Limiting treatment time does not eliminate the thermal effect of continuous ultrasound.",
+      "4": "Intensity contributes to the thermal effect, but the most effective way to eliminate it is to use a pulsed duty cycle."
+    },
+    "subject": "Other",
+    "tags": ["phonophoresis", "ultrasound", "modalities", "duty cycle", "non-thermal", "inflammation", "pce-expertise"],
+    "source": "Scorebuilders 4, Q190"
+  },
+  {
+    "id": "sb4_q191",
+    "question": "A physical therapist attempts to assess the integrity of the first cranial nerve. Which test would provide the therapist with the desired information?",
+    "options": [
+      { "id": "1", "text": "the patient protrudes the tongue while an examiner checks lateral deviation" },
+      { "id": "2", "text": "the patient completes a vision examination" },
+      { "id": "3", "text": "the patient performs a shoulder shrug against resistance" },
+      { "id": "4", "text": "the patient is asked to identify familiar odors with the eyes closed" }
+    ],
+    "correctAnswerId": "4",
+    "rationaleForCorrectAnswer": "The first cranial nerve (CN I) is the olfactory nerve, which is responsible for the sense of smell. Its integrity is tested by having the patient identify common, non-irritating odors with their eyes closed.",
+    "rationalesForIncorrectOptions": {
+      "1": "This tests the hypoglossal nerve (CN XII).",
+      "2": "This tests the optic nerve (CN II).",
+      "3": "This tests the spinal accessory nerve (CN XI)."
+    },
+    "subject": "Neurology",
+    "tags": ["cranial nerves", "olfactory nerve", "cn i", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q191"
+  },
+  {
+    "id": "sb4_q192",
+    "question": "A patient eight days status post anterior cruciate ligament reconstruction using a patellar tendon autograft is examined in physical therapy. Which of the following exercises would be the most appropriate based on the patient's post-operative status?",
+    "options": [
+      { "id": "1", "text": "limited range isokinetics at 30 degrees per second" },
+      { "id": "2", "text": "unilateral leg press" },
+      { "id": "3", "text": "mini-squats in standing" },
+      { "id": "4", "text": "active knee extension in short sitting" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "At this early stage post-op, closed-chain exercises like mini-squats are the most appropriate. They co-contract the quadriceps and hamstrings, which helps to minimize anterior shear forces on the healing ACL graft, while still effectively strengthening the quadriceps.",
+    "rationalesForIncorrectOptions": {
+      "1": "Isokinetics are typically introduced much later in the rehabilitation process.",
+      "2": "Leg press is a more aggressive closed-chain exercise that would be introduced later.",
+      "4": "Open-chain active knee extension, especially in the terminal range, creates significant anterior tibial shear and places high stress on the ACL graft. It is often delayed or limited in post-op protocols."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["acl reconstruction", "rehabilitation", "closed chain exercise", "mini-squats", "post-operative", "pce-expertise"],
+    "source": "Scorebuilders 4, Q192"
+  },
+  {
+    "id": "sb4_q193",
+    "question": "A physical therapy department in an acute care hospital utilizes physical therapy aides to perform a variety of patient care services. What health care professional is directly responsible for the actions of the physical therapy aide?",
+    "options": [
+      { "id": "1", "text": "the physical therapist of record" },
+      { "id": "2", "text": "the physical therapist assistant of record" },
+      { "id": "3", "text": "the director of physical therapy" },
+      { "id": "4", "text": "the director of rehabilitation" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "The physical therapist who is performing the patient's plan of care (the therapist of record) is directly responsible and accountable for the actions of any aide working with that patient under their direct, on-site supervision.",
+    "rationalesForIncorrectOptions": {
+      "2": "A PTA can supervise an aide in some jurisdictions, but the ultimate responsibility lies with the supervising PT.",
+      "3": "The director has overall administrative responsibility but is not directly responsible for the clinical actions of an aide with a specific patient.",
+      "4": "The director of rehab is not directly responsible."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["supervision", "delegation", "physical therapy aide", "accountability", "scope of practice", "pce-management"],
+    "source": "Scorebuilders 4, Q193"
+  },
+  {
+    "id": "sb4_q194",
+    "question": "A physical therapist prepares to administer iontophoresis over the anterior surface of a patient's knee. The therapist would like to keep the current density low in order to avoid skin irritation. Which of the listed parameters would best accomplish the therapist's objective?",
+    "options": [
+      { "id": "1", "text": "current amplitude of 4 mA; electrode with an area of 12 cm²" },
+      { "id": "2", "text": "current amplitude of 4 mA; electrode with an area of 4 cm²" },
+      { "id": "3", "text": "current amplitude of 3 mA; electrode with an area of 6 cm²" },
+      { "id": "4", "text": "current amplitude of 3 mA; electrode with an area of 4 cm²" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "Current density is calculated as current amplitude (mA) divided by the electrode area (cm²). The goal is to have the lowest current density. \n1: 4/12 = 0.33 mA/cm² \n2: 4/4 = 1.0 mA/cm² \n3: 3/6 = 0.5 mA/cm² \n4: 3/4 = 0.75 mA/cm² \nOption 1 provides the lowest current density, which is the safest for avoiding skin irritation.",
+    "rationalesForIncorrectOptions": {
+      "2": "This has a high current density of 1.0 mA/cm².",
+      "3": "This has a current density of 0.5 mA/cm².",
+      "4": "This has a current density of 0.75 mA/cm²."
+    },
+    "subject": "Other",
+    "tags": ["iontophoresis", "modalities", "current density", "safety", "electrotherapy", "pce-expertise"],
+    "source": "Scorebuilders 4, Q194"
+  },
+  {
+    "id": "sb4_q195",
+    "question": "A 67-year-old male with longstanding cardiac pathology is referred to physical therapy. The medical record indicates the patient is taking Nitrostat. The primary indication for this medication is",
+    "options": [
+      { "id": "1", "text": "to strengthen the heart's pumping force" },
+      { "id": "2", "text": "to produce a general vasodilation of vascular structures" },
+      { "id": "3", "text": "to increase excretion of sodium and water" },
+      { "id": "4", "text": "to decrease electrical conduction" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Nitrostat (nitroglycerin) is a nitrate, a class of drugs that acts as a powerful vasodilator. It is primarily used to treat angina pectoris. By dilating the veins and arteries, it reduces the amount of blood returning to the heart (preload) and the pressure the heart has to pump against (afterload), thereby decreasing the oxygen demand of the heart muscle and relieving chest pain.",
+    "rationalesForIncorrectOptions": {
+      "1": "This describes the action of inotropic drugs like digoxin.",
+      "3": "This describes the action of diuretics.",
+      "4": "This describes the action of antiarrhythmic drugs like beta-blockers or calcium channel blockers."
+    },
+    "subject": "Cardiopulmonary",
+    "tags": ["pharmacology", "nitroglycerin", "nitrates", "angina", "vasodilation", "pce-expertise"],
+    "source": "Scorebuilders 4, Q195"
+  },
+  {
+    "id": "sb4_q196",
+    "question": "A physical therapist administers conventional transcutaneous electrical neuromuscular stimulation (TENS) to treat a patient with acute low back pain. Which of the following parameters would best achieve this goal?",
+    "options": [
+      { "id": "1", "text": "phase duration of 200 microseconds with a frequency of 4 pulses per second" },
+      { "id": "2", "text": "phase duration of 500 microseconds with a frequency of 100 pulses per second" },
+      { "id": "3", "text": "phase duration of 40 microseconds with a frequency of 100 pulses per second" },
+      { "id": "4", "text": "phase duration of 40 microseconds with a frequency of 5 pulses per second" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Conventional TENS for acute pain (gate control theory) requires a high frequency and a short phase duration to selectively stimulate large-diameter A-beta sensory fibers. A frequency of 100 pps (high) and a phase duration of 40 microseconds (short) are the classic parameters for this type of stimulation.",
+    "rationalesForIncorrectOptions": {
+      "1": "A low frequency (4 pps) and long phase duration (200 microseconds) would be used for acupuncture-like TENS, which is typically for chronic pain.",
+      "2": "A very long phase duration (500 microseconds) would be uncomfortable and would likely recruit motor fibers.",
+      "4": "A low frequency (5 pps) is used for motor-level or acupuncture-like TENS."
+    },
+    "subject": "Other",
+    "tags": ["tens", "electrotherapy", "conventional tens", "gate control theory", "treatment parameters", "acute pain", "pce-expertise"],
+    "source": "Scorebuilders 4, Q196"
+  },
+  {
+    "id": "sb4_q197",
+    "question": "A physical therapist provides preoperative instructions to a patient scheduled for lower extremity amputation. Which of the following is the most common cause of lower extremity amputation?",
+    "options": [
+      { "id": "1", "text": "tumor" },
+      { "id": "2", "text": "trauma" },
+      { "id": "3", "text": "peripheral vascular disease" },
+      { "id": "4", "text": "cardiac disease" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "The most prevalent cause of lower extremity amputations, particularly in older adults, is peripheral vascular disease (PVD). PVD, often a complication of diabetes, leads to poor circulation, tissue ischemia, non-healing wounds, and ultimately the need for amputation.",
+    "rationalesForIncorrectOptions": {
+      "1": "Tumors (e.g., osteosarcoma) are a less common cause of amputation.",
+      "2": "Trauma is a common cause of amputation in younger individuals but is less common overall than PVD.",
+      "4": "Cardiac disease does not directly cause the need for lower extremity amputation."
+    },
+    "subject": "Musculoskeletal",
+    "tags": ["amputation", "etiology", "peripheral vascular disease", "pvd", "diabetes", "pce-expertise"],
+    "source": "Scorebuilders 4, Q197"
+  },
+  {
+    "id": "sb4_q198",
+    "question": "A physical therapist completes documentation after administering an ultrasound treatment. Which treatment parameter would be the least important to document?",
+    "options": [
+      { "id": "1", "text": "patient position" },
+      { "id": "2", "text": "treatment time" },
+      { "id": "3", "text": "intensity" },
+      { "id": "4", "text": "duty cycle" }
+    ],
+    "correctAnswerId": "1",
+    "rationaleForCorrectAnswer": "While it is good practice to document patient position for reproducibility, the core parameters that define the ultrasound treatment and dosage are the intensity, duration, frequency, and duty cycle. Patient position is the least critical of these components for legal and clinical documentation.",
+    "rationalesForIncorrectOptions": {
+      "2": "Treatment time (duration) is an essential parameter for calculating the total energy delivered.",
+      "3": "Intensity (W/cm²) is an essential parameter that determines the power of the treatment.",
+      "4": "Duty cycle (pulsed or continuous) is an essential parameter that determines whether the treatment effect is thermal or non-thermal."
+    },
+    "subject": "Ethics & Professionalism",
+    "tags": ["documentation", "ultrasound", "modalities", "treatment parameters", "pce-management"],
+    "source": "Scorebuilders 4, Q198"
+  },
+  {
+    "id": "sb4_q199",
+    "question": "A physical therapist completes a coordination assessment on a 67-year-old patient with central nervous system involvement. After reviewing the results of the assessment, the therapist concludes the clinical findings are indicative of cerebellar dysfunction. Which finding is not associated with cerebellar dysfunction?",
+    "options": [
+      { "id": "1", "text": "dysmetria" },
+      { "id": "2", "text": "hypertonia" },
+      { "id": "3", "text": "ataxia" },
+      { "id": "4", "text": "nystagmus" }
+    ],
+    "correctAnswerId": "2",
+    "rationaleForCorrectAnswer": "Lesions of the cerebellum typically cause hypotonia (decreased muscle tone). Hypertonia (increased muscle tone), such as spasticity or rigidity, is associated with damage to upper motor neuron pathways in the cerebrum or brainstem, not the cerebellum.",
+    "rationalesForIncorrectOptions": {
+      "1": "Dysmetria (inability to judge distance) is a classic sign of cerebellar dysfunction.",
+      "3": "Ataxia (uncoordinated movement, especially gait) is the hallmark term for cerebellar dysfunction.",
+      "4": "Nystagmus (involuntary eye movements) is a common sign, particularly with lesions affecting the vestibulocerebellum."
+    },
+    "subject": "Neurology",
+    "tags": ["cerebellum", "cerebellar dysfunction", "hypotonia", "hypertonia", "ataxia", "assessment", "pce-expertise"],
+    "source": "Scorebuilders 4, Q199"
+  },
+  {
+    "id": "sb4_q200",
+    "question": "A patient status post open knee meniscectomy is referred to physical therapy for neuromuscular electrical stimulation. The most beneficial frequency of treatment to promote strengthening is",
+    "options": [
+      { "id": "1", "text": "one time per week" },
+      { "id": "2", "text": "two times per week" },
+      { "id": "3", "text": "three times per week" },
+      { "id": "4", "text": "once every two weeks" }
+    ],
+    "correctAnswerId": "3",
+    "rationaleForCorrectAnswer": "Research and clinical guidelines for neuromuscular electrical stimulation (NMES) for muscle strengthening generally indicate that a frequency of three to five times per week produces the most desirable clinical outcomes. This frequency provides sufficient stimulus for adaptation without being excessive.",
+    "rationalesForIncorrectOptions": {
+      "1": "One time per week is likely insufficient to produce significant strength gains.",
+      "2": "Two times per week may be effective, but three times per week is generally considered more optimal.",
+      "4": "Once every two weeks is far too infrequent to be beneficial for strengthening."
+    },
+    "subject": "Other",
+    "tags": ["nmes", "electrotherapy", "strengthening", "frequency", "treatment parameters", "pce-expertise"],
+    "source": "Scorebuilders 4, Q200"
+  }  
 ]
